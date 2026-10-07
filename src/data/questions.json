@@ -7,22 +7,22 @@
       "employment",
       "economy"
     ],
-    "statement": "¿Debería reducirse la jornada laboral máxima manteniendo el salario?",
+    "statement": "¿Debería reducirse el máximo de horas de trabajo a la semana sin bajar el sueldo?",
     "context": {
-      "meaning": "Reducir el límite semanal legal sin reducir la remuneración. Los documentos proponen límites diferentes.",
-      "objectives": "Puede dejar más tiempo para descanso y cuidados.",
-      "for": "Puede dejar más tiempo para descanso y cuidados.",
-      "against": "Puede aumentar los costes por hora y exigir reorganizar turnos.",
-      "implications": "Compara la dirección de la medida; 30, 32, 35 y 37,5 horas no son compromisos idénticos."
+      "meaning": "Se propone trabajar menos horas por ley y mantener el salario. Cada propuesta fija un número de horas distinto.",
+      "objectives": "Puede dejar más tiempo para descansar y cuidar de otras personas.",
+      "for": "Puede dejar más tiempo para descansar y cuidar de otras personas.",
+      "against": "Puede aumentar el coste por hora de trabajo y obligar a reorganizar los turnos.",
+      "implications": "Se compara la idea de reducir las horas sin bajar el sueldo. Los límites de 30, 32, 35 y 37,5 horas son distintos."
     },
     "argumentsFor": [
-      "Puede dejar más tiempo para descanso y cuidados."
+      "Puede dejar más tiempo para descansar y cuidar de otras personas."
     ],
     "argumentsAgainst": [
-      "Puede aumentar los costes por hora y exigir reorganizar turnos."
+      "Puede aumentar el coste por hora de trabajo y obligar a reorganizar los turnos."
     ],
     "importantNuances": [
-      "Compara la dirección de la medida; 30, 32, 35 y 37,5 horas no son compromisos idénticos."
+      "Se compara la idea de reducir las horas sin bajar el sueldo. Los límites de 30, 32, 35 y 37,5 horas son distintos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -504,7 +504,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -520,22 +520,22 @@
       "employment",
       "economy"
     ],
-    "statement": "¿Debería fijarse el salario mínimo en al menos el 60 % del salario medio?",
+    "statement": "¿Debería ser el salario mínimo al menos el 60 % del salario medio?",
     "context": {
-      "meaning": "Vincular el salario mínimo a una referencia salarial, en vez de elegir solo una cantidad fija.",
-      "objectives": "Puede mantener una referencia estable frente a la evolución salarial.",
-      "for": "Puede mantener una referencia estable frente a la evolución salarial.",
-      "against": "Puede elevar los costes de contratación en sectores con salarios bajos.",
-      "implications": "Importa si el salario de referencia es bruto, neto o territorial; no se equiparan automáticamente."
+      "meaning": "Se usaría el salario medio como referencia: el mínimo no podría quedar por debajo de 6 de cada 10 euros de esa cantidad.",
+      "objectives": "Puede hacer que el salario mínimo siga la evolución de los demás salarios.",
+      "for": "Puede hacer que el salario mínimo siga la evolución de los demás salarios.",
+      "against": "Puede aumentar el coste de contratar en sectores con sueldos bajos.",
+      "implications": "Las propuestas pueden usar salarios antes o después de impuestos, o una referencia territorial distinta."
     },
     "argumentsFor": [
-      "Puede mantener una referencia estable frente a la evolución salarial."
+      "Puede hacer que el salario mínimo siga la evolución de los demás salarios."
     ],
     "argumentsAgainst": [
-      "Puede elevar los costes de contratación en sectores con salarios bajos."
+      "Puede aumentar el coste de contratar en sectores con sueldos bajos."
     ],
     "importantNuances": [
-      "Importa si el salario de referencia es bruto, neto o territorial; no se equiparan automáticamente."
+      "Las propuestas pueden usar salarios antes o después de impuestos, o una referencia territorial distinta."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -990,7 +990,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -1006,22 +1006,22 @@
       "tax",
       "economy"
     ],
-    "statement": "¿Debería mantenerse un impuesto específico sobre las grandes fortunas?",
+    "statement": "¿Debería mantenerse un impuesto especial para las grandes fortunas?",
     "context": {
-      "meaning": "Mantener un gravamen dirigido al patrimonio elevado.",
-      "objectives": "Puede contribuir a la financiación pública con una base patrimonial.",
-      "for": "Puede contribuir a la financiación pública con una base patrimonial.",
-      "against": "Puede afectar al ahorro y al lugar donde se declara el patrimonio.",
-      "implications": "El impuesto temporal de solidaridad y un nuevo tributo permanente pueden tener diseños distintos."
+      "meaning": "Es un impuesto sobre patrimonios muy elevados: el valor de bienes y dinero, no solo lo que se gana cada año.",
+      "objectives": "Puede aportar ingresos para financiar servicios públicos.",
+      "for": "Puede aportar ingresos para financiar servicios públicos.",
+      "against": "Puede influir en el ahorro y en el lugar donde se declara el patrimonio.",
+      "implications": "Mantener el impuesto existente y crear uno nuevo para siempre pueden tener reglas distintas."
     },
     "argumentsFor": [
-      "Puede contribuir a la financiación pública con una base patrimonial."
+      "Puede aportar ingresos para financiar servicios públicos."
     ],
     "argumentsAgainst": [
-      "Puede afectar al ahorro y al lugar donde se declara el patrimonio."
+      "Puede influir en el ahorro y en el lugar donde se declara el patrimonio."
     ],
     "importantNuances": [
-      "El impuesto temporal de solidaridad y un nuevo tributo permanente pueden tener diseños distintos."
+      "Mantener el impuesto existente y crear uno nuevo para siempre pueden tener reglas distintas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -1463,7 +1463,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -1479,22 +1479,22 @@
       "tax",
       "economy"
     ],
-    "statement": "¿Deberían hacerse permanentes los gravámenes extraordinarios a banca y empresas energéticas?",
+    "statement": "¿Deberían mantenerse de forma permanente los impuestos especiales a bancos y empresas energéticas?",
     "context": {
-      "meaning": "Convertir en estables los gravámenes sectoriales creados con carácter temporal.",
-      "objectives": "Puede aportar ingresos de sectores con beneficios elevados.",
-      "for": "Puede aportar ingresos de sectores con beneficios elevados.",
-      "against": "Puede repercutir en inversión, crédito o precios.",
-      "implications": "No se compara cualquier impuesto de sociedades con estos gravámenes concretos."
+      "meaning": "Se propone que estos impuestos, creados como temporales, dejen de tener una fecha de finalización.",
+      "objectives": "Puede aportar ingresos públicos de estos sectores.",
+      "for": "Puede aportar ingresos públicos de estos sectores.",
+      "against": "Puede afectar a la inversión, a los préstamos o a los precios.",
+      "implications": "La pregunta trata de estos impuestos especiales, no de cualquier impuesto que paguen las empresas."
     },
     "argumentsFor": [
-      "Puede aportar ingresos de sectores con beneficios elevados."
+      "Puede aportar ingresos públicos de estos sectores."
     ],
     "argumentsAgainst": [
-      "Puede repercutir en inversión, crédito o precios."
+      "Puede afectar a la inversión, a los préstamos o a los precios."
     ],
     "importantNuances": [
-      "No se compara cualquier impuesto de sociedades con estos gravámenes concretos."
+      "La pregunta trata de estos impuestos especiales, no de cualquier impuesto que paguen las empresas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -1919,7 +1919,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -1934,22 +1934,22 @@
     "categories": [
       "tax"
     ],
-    "statement": "¿Deberían ajustarse los tramos del IRPF a la inflación?",
+    "statement": "¿Debería ajustarse el impuesto sobre la renta cuando suben los precios?",
     "context": {
-      "meaning": "Modificar los límites de los tramos para que una subida nominal de ingresos no implique por sí sola más carga fiscal.",
-      "objectives": "Puede evitar subidas impositivas derivadas de la inflación.",
-      "for": "Puede evitar subidas impositivas derivadas de la inflación.",
-      "against": "Puede reducir ingresos públicos aunque aumenten los gastos nominales.",
-      "implications": "El ajuste puede aplicarse a todos los tramos o centrarse en determinados ingresos."
+      "meaning": "Se ajustarían los tramos del IRPF para que una subida de sueldo que solo compensa la subida de precios no aumente por sí sola la carga de este impuesto.",
+      "objectives": "Puede evitar que se paguen más impuestos solo por el efecto de la subida de precios.",
+      "for": "Puede evitar que se paguen más impuestos solo por el efecto de la subida de precios.",
+      "against": "Puede reducir los ingresos públicos mientras también suben los costes de los servicios.",
+      "implications": "El ajuste puede aplicarse a todos los niveles de ingresos o solo a algunos."
     },
     "argumentsFor": [
-      "Puede evitar subidas impositivas derivadas de la inflación."
+      "Puede evitar que se paguen más impuestos solo por el efecto de la subida de precios."
     ],
     "argumentsAgainst": [
-      "Puede reducir ingresos públicos aunque aumenten los gastos nominales."
+      "Puede reducir los ingresos públicos mientras también suben los costes de los servicios."
     ],
     "importantNuances": [
-      "El ajuste puede aplicarse a todos los tramos o centrarse en determinados ingresos."
+      "El ajuste puede aplicarse a todos los niveles de ingresos o solo a algunos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -2378,7 +2378,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -2393,22 +2393,22 @@
     "categories": [
       "tax"
     ],
-    "statement": "¿Debería reducirse el tipo general del IVA?",
+    "statement": "¿Debería bajarse el porcentaje general del IVA?",
     "context": {
-      "meaning": "Bajar el porcentaje general que se aplica al consumo gravado.",
-      "objectives": "Puede reducir la carga fiscal del consumo.",
-      "for": "Puede reducir la carga fiscal del consumo.",
-      "against": "Puede disminuir la recaudación sin trasladarse íntegramente a los precios.",
-      "implications": "Una bajada para un producto concreto no demuestra apoyo a reducir el tipo general."
+      "meaning": "El IVA es un impuesto incluido en muchos precios. Se propone bajar su porcentaje general, no solo el de un producto concreto.",
+      "objectives": "Puede reducir lo que se paga de impuestos al comprar.",
+      "for": "Puede reducir lo que se paga de impuestos al comprar.",
+      "against": "Puede reducir los ingresos públicos sin que toda la bajada llegue al precio final.",
+      "implications": "Bajar el IVA de un producto concreto no equivale a bajar el porcentaje general."
     },
     "argumentsFor": [
-      "Puede reducir la carga fiscal del consumo."
+      "Puede reducir lo que se paga de impuestos al comprar."
     ],
     "argumentsAgainst": [
-      "Puede disminuir la recaudación sin trasladarse íntegramente a los precios."
+      "Puede reducir los ingresos públicos sin que toda la bajada llegue al precio final."
     ],
     "importantNuances": [
-      "Una bajada para un producto concreto no demuestra apoyo a reducir el tipo general."
+      "Bajar el IVA de un producto concreto no equivale a bajar el porcentaje general."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -2805,7 +2805,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -2821,22 +2821,22 @@
       "pensions",
       "tax"
     ],
-    "statement": "¿Deberían estar exentas de IRPF las pensiones contributivas?",
+    "statement": "¿Deberían quedar libres del impuesto sobre la renta las pensiones contributivas?",
     "context": {
-      "meaning": "Excluir estas pensiones de la base de tributación de la renta.",
-      "objectives": "Puede aumentar los ingresos disponibles de pensionistas.",
-      "for": "Puede aumentar los ingresos disponibles de pensionistas.",
-      "against": "Puede tratar de forma diferente ingresos de igual cuantía y reducir recaudación.",
-      "implications": "Las pensiones mínimas con baja tributación no obtendrían el mismo efecto que las altas."
+      "meaning": "Se propone que estas pensiones no paguen IRPF. Son las pensiones vinculadas a lo aportado a la Seguridad Social durante la vida laboral.",
+      "objectives": "Puede dejar más dinero disponible a quienes cobran una pensión.",
+      "for": "Puede dejar más dinero disponible a quienes cobran una pensión.",
+      "against": "Puede reducir los ingresos públicos y dar un trato distinto a ingresos de la misma cantidad.",
+      "implications": "Quienes ya pagan poco o nada por una pensión baja no tendrían el mismo beneficio que quienes cobran una pensión alta."
     },
     "argumentsFor": [
-      "Puede aumentar los ingresos disponibles de pensionistas."
+      "Puede dejar más dinero disponible a quienes cobran una pensión."
     ],
     "argumentsAgainst": [
-      "Puede tratar de forma diferente ingresos de igual cuantía y reducir recaudación."
+      "Puede reducir los ingresos públicos y dar un trato distinto a ingresos de la misma cantidad."
     ],
     "importantNuances": [
-      "Las pensiones mínimas con baja tributación no obtendrían el mismo efecto que las altas."
+      "Quienes ya pagan poco o nada por una pensión baja no tendrían el mismo beneficio que quienes cobran una pensión alta."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -3233,7 +3233,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -3249,22 +3249,22 @@
       "business",
       "tax"
     ],
-    "statement": "¿Debería reducirse el tipo general del impuesto de sociedades al 15 %?",
+    "statement": "¿Debería bajarse al 15 % el impuesto general sobre los beneficios de las empresas?",
     "context": {
-      "meaning": "Aplicar un tipo general del 15 % a los beneficios empresariales.",
-      "objectives": "Puede aumentar los recursos disponibles para inversión.",
-      "for": "Puede aumentar los recursos disponibles para inversión.",
-      "against": "Puede reducir ingresos públicos y el gravamen de beneficios elevados.",
-      "implications": "Un tipo mínimo efectivo del 15 % es una medida distinta y no se interpreta como apoyo a esta bajada."
+      "meaning": "Se propone un porcentaje general del 15 % en el impuesto de sociedades. No es lo mismo que exigir que las empresas paguen como mínimo un 15 %.",
+      "objectives": "Puede dejar más recursos a las empresas para invertir.",
+      "for": "Puede dejar más recursos a las empresas para invertir.",
+      "against": "Puede reducir los ingresos públicos procedentes de los beneficios empresariales.",
+      "implications": "Bajar el porcentaje general al 15 % y fijar un mínimo efectivo del 15 % son medidas diferentes."
     },
     "argumentsFor": [
-      "Puede aumentar los recursos disponibles para inversión."
+      "Puede dejar más recursos a las empresas para invertir."
     ],
     "argumentsAgainst": [
-      "Puede reducir ingresos públicos y el gravamen de beneficios elevados."
+      "Puede reducir los ingresos públicos procedentes de los beneficios empresariales."
     ],
     "importantNuances": [
-      "Un tipo mínimo efectivo del 15 % es una medida distinta y no se interpreta como apoyo a esta bajada."
+      "Bajar el porcentaje general al 15 % y fijar un mínimo efectivo del 15 % son medidas diferentes."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -3664,7 +3664,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -3680,22 +3680,22 @@
       "self-employed",
       "employment"
     ],
-    "statement": "¿Deberían pagar cuota cero los nuevos autónomos durante su primer año?",
+    "statement": "¿Deberían los nuevos autónomos dejar de pagar su cuota durante el primer año?",
     "context": {
-      "meaning": "Eximir de cotización inicial a quienes comienzan una actividad autónoma.",
-      "objectives": "Puede reducir el coste de iniciar una actividad.",
-      "for": "Puede reducir el coste de iniciar una actividad.",
-      "against": "Puede financiar actividades que se habrían iniciado igualmente.",
-      "implications": "Una exención vinculada a ingresos bajos es distinta de una exención universal por comenzar."
+      "meaning": "Quien empieza a trabajar por cuenta propia no pagaría la cuota a la Seguridad Social durante su primer año.",
+      "objectives": "Puede reducir el coste de empezar una actividad.",
+      "for": "Puede reducir el coste de empezar una actividad.",
+      "against": "Puede dar apoyo público a actividades que se habrían iniciado sin esa ayuda.",
+      "implications": "No pagar por tener ingresos bajos y no pagar por ser nuevo autónomo son medidas distintas."
     },
     "argumentsFor": [
-      "Puede reducir el coste de iniciar una actividad."
+      "Puede reducir el coste de empezar una actividad."
     ],
     "argumentsAgainst": [
-      "Puede financiar actividades que se habrían iniciado igualmente."
+      "Puede dar apoyo público a actividades que se habrían iniciado sin esa ayuda."
     ],
     "importantNuances": [
-      "Una exención vinculada a ingresos bajos es distinta de una exención universal por comenzar."
+      "No pagar por tener ingresos bajos y no pagar por ser nuevo autónomo son medidas distintas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -4100,7 +4100,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -4117,22 +4117,22 @@
       "administration",
       "tax"
     ],
-    "statement": "¿Debería impedirse contratar con empresas que usan paraísos fiscales sin actividad real allí?",
+    "statement": "¿Debería la Administración dejar de contratar empresas que usan paraísos fiscales sin actividad real allí?",
     "context": {
-      "meaning": "Excluir de contratos públicos empresas con sociedades en esos territorios sin una actividad económica que lo justifique.",
-      "objectives": "Puede reducir incentivos a estructuras de evasión fiscal.",
-      "for": "Puede reducir incentivos a estructuras de evasión fiscal.",
-      "against": "Puede exigir controles complejos sobre grupos empresariales.",
-      "implications": "Requiere definir jurisdicciones, actividad real y garantías de revisión."
+      "meaning": "Los paraísos fiscales son territorios con ventajas fiscales. La medida excluiría de contratos públicos a empresas que tengan sociedades allí sin una actividad económica que lo justifique.",
+      "objectives": "Puede reducir el uso de estructuras empresariales para evitar impuestos.",
+      "for": "Puede reducir el uso de estructuras empresariales para evitar impuestos.",
+      "against": "Puede exigir controles difíciles sobre las empresas de un mismo grupo.",
+      "implications": "Habría que definir qué territorios se incluyen, qué cuenta como actividad real y cómo puede revisarse una exclusión."
     },
     "argumentsFor": [
-      "Puede reducir incentivos a estructuras de evasión fiscal."
+      "Puede reducir el uso de estructuras empresariales para evitar impuestos."
     ],
     "argumentsAgainst": [
-      "Puede exigir controles complejos sobre grupos empresariales."
+      "Puede exigir controles difíciles sobre las empresas de un mismo grupo."
     ],
     "importantNuances": [
-      "Requiere definir jurisdicciones, actividad real y garantías de revisión."
+      "Habría que definir qué territorios se incluyen, qué cuenta como actividad real y cómo puede revisarse una exclusión."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -4542,7 +4542,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -4557,22 +4557,22 @@
     "categories": [
       "housing"
     ],
-    "statement": "¿Deberían limitarse los precios del alquiler en zonas con dificultades de acceso a vivienda?",
+    "statement": "¿Debería ponerse un límite al precio del alquiler en zonas donde es difícil acceder a una vivienda?",
     "context": {
-      "meaning": "Establecer límites de renta en zonas identificadas mediante criterios públicos.",
-      "objectives": "Puede contener aumentos del coste para inquilinos.",
-      "for": "Puede contener aumentos del coste para inquilinos.",
-      "against": "Puede reducir oferta o incentivar vías para eludir los límites.",
-      "implications": "Los criterios de zona, contratos afectados y excepciones cambian entre documentos."
+      "meaning": "El límite se aplicaría en zonas identificadas con criterios públicos, no en todos los alquileres del país.",
+      "objectives": "Puede frenar las subidas del alquiler para los inquilinos.",
+      "for": "Puede frenar las subidas del alquiler para los inquilinos.",
+      "against": "Puede reducir las viviendas disponibles o hacer que se busquen formas de evitar el límite.",
+      "implications": "Cada propuesta define qué zonas y contratos quedarían incluidos y qué excepciones habría."
     },
     "argumentsFor": [
-      "Puede contener aumentos del coste para inquilinos."
+      "Puede frenar las subidas del alquiler para los inquilinos."
     ],
     "argumentsAgainst": [
-      "Puede reducir oferta o incentivar vías para eludir los límites."
+      "Puede reducir las viviendas disponibles o hacer que se busquen formas de evitar el límite."
     ],
     "importantNuances": [
-      "Los criterios de zona, contratos afectados y excepciones cambian entre documentos."
+      "Cada propuesta define qué zonas y contratos quedarían incluidos y qué excepciones habría."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -5021,7 +5021,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -5036,22 +5036,22 @@
     "categories": [
       "housing"
     ],
-    "statement": "¿Debería ampliarse el parque público de vivienda asequible?",
+    "statement": "¿Debería haber más viviendas públicas a precios asequibles?",
     "context": {
-      "meaning": "Aumentar viviendas promovidas o gestionadas públicamente con precios o rentas sujetos a condiciones.",
-      "objectives": "Puede ampliar alternativas para hogares con dificultades de acceso.",
-      "for": "Puede ampliar alternativas para hogares con dificultades de acceso.",
-      "against": "Requiere financiación, suelo y gestión a largo plazo.",
-      "implications": "Alquiler, propiedad y opción de compra son instrumentos distintos; se conservan en cada resumen."
+      "meaning": "Se propone aumentar las viviendas construidas o gestionadas por la Administración, con condiciones que limitan su precio o alquiler.",
+      "objectives": "Puede dar más opciones a quienes tienen dificultades para acceder a una vivienda.",
+      "for": "Puede dar más opciones a quienes tienen dificultades para acceder a una vivienda.",
+      "against": "Necesita dinero público, suelo y gestión a largo plazo.",
+      "implications": "Las propuestas pueden incluir alquiler, compra u opción de compra. Esas formas de acceso no son iguales."
     },
     "argumentsFor": [
-      "Puede ampliar alternativas para hogares con dificultades de acceso."
+      "Puede dar más opciones a quienes tienen dificultades para acceder a una vivienda."
     ],
     "argumentsAgainst": [
-      "Requiere financiación, suelo y gestión a largo plazo."
+      "Necesita dinero público, suelo y gestión a largo plazo."
     ],
     "importantNuances": [
-      "Alquiler, propiedad y opción de compra son instrumentos distintos; se conservan en cada resumen."
+      "Las propuestas pueden incluir alquiler, compra u opción de compra. Esas formas de acceso no son iguales."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -5532,7 +5532,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -5548,22 +5548,22 @@
       "housing",
       "family"
     ],
-    "statement": "¿Debería el Estado avalar hipotecas de jóvenes para cubrir hasta el 95 % del precio de la vivienda?",
+    "statement": "¿Debería el Estado avalar hipotecas para que los jóvenes puedan financiar hasta el 95 % de una vivienda?",
     "context": {
-      "meaning": "Garantizar parte de préstamos para reducir el ahorro inicial necesario.",
-      "objectives": "Puede facilitar el acceso a compra de personas solventes sin ahorro suficiente.",
-      "for": "Puede facilitar el acceso a compra de personas solventes sin ahorro suficiente.",
-      "against": "Puede aumentar el endeudamiento y la demanda sin ampliar la oferta.",
-      "implications": "No equivale a subvencionar todo el precio ni elimina el riesgo de impago."
+      "meaning": "Avalar significa garantizar parte del préstamo ante el banco. Permite necesitar menos ahorro inicial, pero la hipoteca sigue teniendo que devolverse.",
+      "objectives": "Puede facilitar la compra a jóvenes que pueden pagar las cuotas pero no tienen suficiente ahorro.",
+      "for": "Puede facilitar la compra a jóvenes que pueden pagar las cuotas pero no tienen suficiente ahorro.",
+      "against": "Puede aumentar las deudas y la demanda de vivienda sin que haya más viviendas disponibles.",
+      "implications": "El aval no es una ayuda que pague toda la vivienda ni elimina el riesgo de no poder devolver el préstamo."
     },
     "argumentsFor": [
-      "Puede facilitar el acceso a compra de personas solventes sin ahorro suficiente."
+      "Puede facilitar la compra a jóvenes que pueden pagar las cuotas pero no tienen suficiente ahorro."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el endeudamiento y la demanda sin ampliar la oferta."
+      "Puede aumentar las deudas y la demanda de vivienda sin que haya más viviendas disponibles."
     ],
     "importantNuances": [
-      "No equivale a subvencionar todo el precio ni elimina el riesgo de impago."
+      "El aval no es una ayuda que pague toda la vivienda ni elimina el riesgo de no poder devolver el préstamo."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -5963,7 +5963,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -5979,22 +5979,22 @@
       "housing",
       "civil-rights"
     ],
-    "statement": "¿Deberían impedirse desahucios de hogares vulnerables sin una alternativa habitacional?",
+    "statement": "¿Deberían evitarse los desahucios de hogares vulnerables mientras no tengan otro lugar donde vivir?",
     "context": {
-      "meaning": "Condicionar el desalojo a que exista una solución de vivienda para hogares definidos como vulnerables.",
-      "objectives": "Puede prevenir situaciones de falta de alojamiento.",
-      "for": "Puede prevenir situaciones de falta de alojamiento.",
+      "meaning": "Se propone impedir que un hogar considerado vulnerable sea obligado a dejar su vivienda sin que exista una alternativa donde vivir.",
+      "objectives": "Puede evitar que alguien se quede sin alojamiento.",
+      "for": "Puede evitar que alguien se quede sin alojamiento.",
       "against": "Puede trasladar costes o retrasos a propietarios y administraciones.",
-      "implications": "La vulnerabilidad, las obligaciones públicas y las situaciones cubiertas deben definirse."
+      "implications": "Hay que definir qué hogares son vulnerables, qué casos quedan incluidos y quién debe ofrecer la alternativa."
     },
     "argumentsFor": [
-      "Puede prevenir situaciones de falta de alojamiento."
+      "Puede evitar que alguien se quede sin alojamiento."
     ],
     "argumentsAgainst": [
       "Puede trasladar costes o retrasos a propietarios y administraciones."
     ],
     "importantNuances": [
-      "La vulnerabilidad, las obligaciones públicas y las situaciones cubiertas deben definirse."
+      "Hay que definir qué hogares son vulnerables, qué casos quedan incluidos y quién debe ofrecer la alternativa."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -6419,7 +6419,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -6434,22 +6434,22 @@
     "categories": [
       "health"
     ],
-    "statement": "¿Debería ampliarse la cobertura de salud bucodental de la sanidad pública?",
+    "statement": "¿Debería la sanidad pública cubrir más tratamientos dentales?",
     "context": {
-      "meaning": "Incluir más prestaciones dentales financiadas por el sistema público.",
-      "objectives": "Puede reducir barreras económicas de acceso.",
-      "for": "Puede reducir barreras económicas de acceso.",
-      "against": "Exige presupuesto y profesionales adicionales.",
-      "implications": "La cartera concreta y los grupos de población cubiertos importan."
+      "meaning": "Se propone que el sistema público pague u ofrezca más cuidados de los dientes y la boca.",
+      "objectives": "Puede facilitar el acceso a quienes no pueden pagar esos tratamientos.",
+      "for": "Puede facilitar el acceso a quienes no pueden pagar esos tratamientos.",
+      "against": "Necesita más presupuesto y profesionales.",
+      "implications": "Las propuestas pueden cubrir tratamientos o grupos de población distintos."
     },
     "argumentsFor": [
-      "Puede reducir barreras económicas de acceso."
+      "Puede facilitar el acceso a quienes no pueden pagar esos tratamientos."
     ],
     "argumentsAgainst": [
-      "Exige presupuesto y profesionales adicionales."
+      "Necesita más presupuesto y profesionales."
     ],
     "importantNuances": [
-      "La cartera concreta y los grupos de población cubiertos importan."
+      "Las propuestas pueden cubrir tratamientos o grupos de población distintos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -6894,7 +6894,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -6909,22 +6909,22 @@
     "categories": [
       "health"
     ],
-    "statement": "¿Deberían fijarse por ley tiempos máximos de espera sanitaria?",
+    "statement": "¿Debería la ley fijar un tiempo máximo de espera para consultas, pruebas y operaciones médicas?",
     "context": {
-      "meaning": "Establecer plazos exigibles para determinadas intervenciones, consultas o pruebas.",
-      "objectives": "Puede dar garantías y hacer visibles los retrasos.",
-      "for": "Puede dar garantías y hacer visibles los retrasos.",
-      "against": "Una garantía sin recursos puede desplazar esperas a otras prestaciones.",
-      "implications": "Los plazos y las consecuencias de incumplirlos varían; no se asumen resultados garantizados."
+      "meaning": "Se propone poner plazos que la sanidad deba cumplir para determinadas consultas, pruebas u operaciones.",
+      "objectives": "Puede dar garantías a los pacientes y permitir conocer los retrasos.",
+      "for": "Puede dar garantías a los pacientes y permitir conocer los retrasos.",
+      "against": "Sin más recursos, puede trasladar las esperas a otros servicios sanitarios.",
+      "implications": "Los plazos y lo que ocurre si se incumplen varían. Fijar un plazo no garantiza por sí solo que se cumpla."
     },
     "argumentsFor": [
-      "Puede dar garantías y hacer visibles los retrasos."
+      "Puede dar garantías a los pacientes y permitir conocer los retrasos."
     ],
     "argumentsAgainst": [
-      "Una garantía sin recursos puede desplazar esperas a otras prestaciones."
+      "Sin más recursos, puede trasladar las esperas a otros servicios sanitarios."
     ],
     "importantNuances": [
-      "Los plazos y las consecuencias de incumplirlos varían; no se asumen resultados garantizados."
+      "Los plazos y lo que ocurre si se incumplen varían. Fijar un plazo no garantiza por sí solo que se cumpla."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -7344,7 +7344,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -7360,22 +7360,22 @@
       "health",
       "civil-rights"
     ],
-    "statement": "¿Debería regularse el uso medicinal del cannabis?",
+    "statement": "¿Debería permitirse y regularse el uso del cannabis como tratamiento médico?",
     "context": {
-      "meaning": "Autorizar y regular su utilización terapéutica bajo condiciones sanitarias.",
-      "objectives": "Puede ofrecer una vía controlada a pacientes con indicación adecuada.",
-      "for": "Puede ofrecer una vía controlada a pacientes con indicación adecuada.",
-      "against": "Exige evaluar indicaciones, seguridad y supervisión.",
-      "implications": "La legalización de todos los usos no equivale por sí sola a una regulación medicinal concreta."
+      "meaning": "Se refiere al uso medicinal bajo condiciones sanitarias, no a permitir cualquier uso del cannabis.",
+      "objectives": "Puede ofrecer una vía controlada para pacientes a quienes se les indique este tratamiento.",
+      "for": "Puede ofrecer una vía controlada para pacientes a quienes se les indique este tratamiento.",
+      "against": "Necesita evaluar para qué tratamientos sirve, sus riesgos y cómo se supervisa.",
+      "implications": "Permitir el consumo para otros fines no equivale a regular su uso médico."
     },
     "argumentsFor": [
-      "Puede ofrecer una vía controlada a pacientes con indicación adecuada."
+      "Puede ofrecer una vía controlada para pacientes a quienes se les indique este tratamiento."
     ],
     "argumentsAgainst": [
-      "Exige evaluar indicaciones, seguridad y supervisión."
+      "Necesita evaluar para qué tratamientos sirve, sus riesgos y cómo se supervisa."
     ],
     "importantNuances": [
-      "La legalización de todos los usos no equivale por sí sola a una regulación medicinal concreta."
+      "Permitir el consumo para otros fines no equivale a regular su uso médico."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -7811,7 +7811,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -7827,22 +7827,22 @@
       "education",
       "family"
     ],
-    "statement": "¿Debería ser universal y gratuita la educación de 0 a 3 años?",
+    "statement": "¿Debería la educación de 0 a 3 años ser gratuita y estar disponible para todos los niños?",
     "context": {
-      "meaning": "Garantizar el acceso al primer ciclo infantil sin coste de escolarización.",
-      "objectives": "Puede facilitar cuidados y reducir diferencias de acceso.",
-      "for": "Puede facilitar cuidados y reducir diferencias de acceso.",
-      "against": "Requiere plazas, personal y financiación estable.",
-      "implications": "Universalizar sin mencionar gratuidad no basta para atribuir apoyo completo a esta medida."
+      "meaning": "Se propone que todas las familias puedan acceder al primer ciclo de educación infantil sin pagar por la escolarización.",
+      "objectives": "Puede facilitar los cuidados y reducir las diferencias de acceso.",
+      "for": "Puede facilitar los cuidados y reducir las diferencias de acceso.",
+      "against": "Necesita plazas, personal y financiación estable.",
+      "implications": "Ofrecer plazas a todos y hacerlas gratuitas son dos condiciones de esta misma medida."
     },
     "argumentsFor": [
-      "Puede facilitar cuidados y reducir diferencias de acceso."
+      "Puede facilitar los cuidados y reducir las diferencias de acceso."
     ],
     "argumentsAgainst": [
-      "Requiere plazas, personal y financiación estable."
+      "Necesita plazas, personal y financiación estable."
     ],
     "importantNuances": [
-      "Universalizar sin mencionar gratuidad no basta para atribuir apoyo completo a esta medida."
+      "Ofrecer plazas a todos y hacerlas gratuitas son dos condiciones de esta misma medida."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -8312,7 +8312,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -8328,22 +8328,22 @@
       "universities",
       "education"
     ],
-    "statement": "¿Debería haber una prueba de acceso a la universidad común para todo el territorio?",
+    "statement": "¿Debería haber una prueba de acceso a la universidad común en toda España?",
     "context": {
-      "meaning": "Unificar las condiciones básicas y evaluación del acceso universitario.",
-      "objectives": "Puede facilitar comparar condiciones de acceso.",
-      "for": "Puede facilitar comparar condiciones de acceso.",
-      "against": "Puede limitar la adaptación a currículos y competencias territoriales.",
-      "implications": "Una base común no necesariamente implica preguntas idénticas en cada lengua."
+      "meaning": "Se propone compartir las condiciones básicas y la evaluación del examen de acceso a la universidad entre territorios.",
+      "objectives": "Puede facilitar que se comparen las condiciones de acceso.",
+      "for": "Puede facilitar que se comparen las condiciones de acceso.",
+      "against": "Puede limitar la adaptación a los contenidos educativos de cada territorio.",
+      "implications": "Una base común no significa necesariamente preguntas idénticas en todas las lenguas."
     },
     "argumentsFor": [
-      "Puede facilitar comparar condiciones de acceso."
+      "Puede facilitar que se comparen las condiciones de acceso."
     ],
     "argumentsAgainst": [
-      "Puede limitar la adaptación a currículos y competencias territoriales."
+      "Puede limitar la adaptación a los contenidos educativos de cada territorio."
     ],
     "importantNuances": [
-      "Una base común no necesariamente implica preguntas idénticas en cada lengua."
+      "Una base común no significa necesariamente preguntas idénticas en todas las lenguas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -8757,7 +8757,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -8773,22 +8773,22 @@
       "technology",
       "universities"
     ],
-    "statement": "¿Deberían publicarse los resultados y datos científicos en repositorios de acceso abierto?",
+    "statement": "¿Deberían poder consultarse libremente los resultados y datos de las investigaciones científicas?",
     "context": {
-      "meaning": "Hacer consultables resultados y datos de investigación mediante repositorios abiertos.",
-      "objectives": "Puede facilitar reutilización y acceso al conocimiento.",
-      "for": "Puede facilitar reutilización y acceso al conocimiento.",
-      "against": "Puede exigir cambios en publicación, propiedad intelectual y costes.",
-      "implications": "Los datos personales, la seguridad y determinadas patentes pueden requerir excepciones."
+      "meaning": "Se publicarían en archivos digitales abiertos para que otras personas puedan consultarlos y reutilizarlos.",
+      "objectives": "Puede facilitar el acceso al conocimiento y su uso en otras investigaciones.",
+      "for": "Puede facilitar el acceso al conocimiento y su uso en otras investigaciones.",
+      "against": "Puede exigir cambios en los derechos de publicación y en cómo se pagan las publicaciones.",
+      "implications": "Los datos personales, la seguridad y algunas patentes pueden requerir excepciones."
     },
     "argumentsFor": [
-      "Puede facilitar reutilización y acceso al conocimiento."
+      "Puede facilitar el acceso al conocimiento y su uso en otras investigaciones."
     ],
     "argumentsAgainst": [
-      "Puede exigir cambios en publicación, propiedad intelectual y costes."
+      "Puede exigir cambios en los derechos de publicación y en cómo se pagan las publicaciones."
     ],
     "importantNuances": [
-      "Los datos personales, la seguridad y determinadas patentes pueden requerir excepciones."
+      "Los datos personales, la seguridad y algunas patentes pueden requerir excepciones."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -9206,7 +9206,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -9221,22 +9221,22 @@
     "categories": [
       "pensions"
     ],
-    "statement": "¿Deberían actualizarse las pensiones según el IPC?",
+    "statement": "¿Deberían actualizarse las pensiones según la subida de precios?",
     "context": {
-      "meaning": "Vincular la revalorización a la evolución de precios al consumo.",
-      "objectives": "Puede mantener poder adquisitivo frente a inflación.",
-      "for": "Puede mantener poder adquisitivo frente a inflación.",
-      "against": "Puede aumentar el gasto cuando los ingresos del sistema crecen menos.",
-      "implications": "No implica que todas las pensiones suban lo mismo ni define por sí sola su financiación."
+      "meaning": "Se usaría el IPC, el indicador de los precios al consumo, para actualizar las pensiones.",
+      "objectives": "Puede ayudar a que las pensiones no pierdan capacidad de compra cuando suben los precios.",
+      "for": "Puede ayudar a que las pensiones no pierdan capacidad de compra cuando suben los precios.",
+      "against": "Puede aumentar el gasto en pensiones más que los ingresos del sistema.",
+      "implications": "La medida no define por sí sola cómo se paga la subida ni implica el mismo aumento en todas las pensiones."
     },
     "argumentsFor": [
-      "Puede mantener poder adquisitivo frente a inflación."
+      "Puede ayudar a que las pensiones no pierdan capacidad de compra cuando suben los precios."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el gasto cuando los ingresos del sistema crecen menos."
+      "Puede aumentar el gasto en pensiones más que los ingresos del sistema."
     ],
     "importantNuances": [
-      "No implica que todas las pensiones suban lo mismo ni define por sí sola su financiación."
+      "La medida no define por sí sola cómo se paga la subida ni implica el mismo aumento en todas las pensiones."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -9685,7 +9685,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -9701,22 +9701,22 @@
       "pensions",
       "employment"
     ],
-    "statement": "¿Debería situarse la edad ordinaria de jubilación en 65 años?",
+    "statement": "¿Debería fijarse en 65 años la edad normal de jubilación?",
     "context": {
-      "meaning": "Establecer esa edad como referencia ordinaria de acceso a la jubilación.",
-      "objectives": "Puede adelantar el acceso al retiro.",
-      "for": "Puede adelantar el acceso al retiro.",
-      "against": "Puede aumentar el tiempo de percepción de pensiones y las necesidades de financiación.",
-      "implications": "No se equipara una jubilación anticipada para oficios concretos con la edad ordinaria general."
+      "meaning": "Se propone que los 65 años sean la edad de referencia para jubilarse de forma ordinaria.",
+      "objectives": "Puede permitir jubilarse antes.",
+      "for": "Puede permitir jubilarse antes.",
+      "against": "Puede aumentar los años durante los que se cobra una pensión y el dinero necesario para financiarla.",
+      "implications": "La pregunta no trata de adelantar la jubilación solo para determinados trabajos."
     },
     "argumentsFor": [
-      "Puede adelantar el acceso al retiro."
+      "Puede permitir jubilarse antes."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el tiempo de percepción de pensiones y las necesidades de financiación."
+      "Puede aumentar los años durante los que se cobra una pensión y el dinero necesario para financiarla."
     ],
     "importantNuances": [
-      "No se equipara una jubilación anticipada para oficios concretos con la edad ordinaria general."
+      "La pregunta no trata de adelantar la jubilación solo para determinados trabajos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -10133,7 +10133,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -10149,22 +10149,22 @@
       "immigration",
       "employment"
     ],
-    "statement": "¿Deberían ampliarse las vías de regularización de personas migrantes sin autorización de residencia?",
+    "statement": "¿Debería haber más vías para obtener un permiso de residencia para quienes viven aquí sin él?",
     "context": {
-      "meaning": "Crear o ampliar procedimientos para acceder a residencia legal.",
-      "objectives": "Puede facilitar empleo formal y acceso a derechos.",
-      "for": "Puede facilitar empleo formal y acceso a derechos.",
-      "against": "Puede exigir recursos administrativos y debatir los requisitos de acceso.",
-      "implications": "Regularización permanente, extraordinaria y arraigo tienen condiciones distintas."
+      "meaning": "Se propone crear o ampliar trámites para que personas migrantes sin permiso de residencia puedan conseguirlo legalmente.",
+      "objectives": "Puede facilitar el trabajo con contrato y el acceso a derechos.",
+      "for": "Puede facilitar el trabajo con contrato y el acceso a derechos.",
+      "against": "Necesita recursos para tramitar las solicitudes y definir quién puede acceder.",
+      "implications": "Las propuestas pueden ser permanentes o excepcionales y tener requisitos diferentes."
     },
     "argumentsFor": [
-      "Puede facilitar empleo formal y acceso a derechos."
+      "Puede facilitar el trabajo con contrato y el acceso a derechos."
     ],
     "argumentsAgainst": [
-      "Puede exigir recursos administrativos y debatir los requisitos de acceso."
+      "Necesita recursos para tramitar las solicitudes y definir quién puede acceder."
     ],
     "importantNuances": [
-      "Regularización permanente, extraordinaria y arraigo tienen condiciones distintas."
+      "Las propuestas pueden ser permanentes o excepcionales y tener requisitos diferentes."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -10610,7 +10610,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -10628,20 +10628,20 @@
     ],
     "statement": "¿Deberían cerrarse los centros de internamiento de extranjeros?",
     "context": {
-      "meaning": "Eliminar estos centros de privación de libertad administrativa vinculados a extranjería.",
-      "objectives": "Puede evitar daños asociados al internamiento.",
-      "for": "Puede evitar daños asociados al internamiento.",
-      "against": "Puede requerir alternativas para ejecutar procedimientos de retorno.",
-      "implications": "No implica eliminar todos los procedimientos de extranjería."
+      "meaning": "Son centros donde pueden permanecer retenidas personas extranjeras mientras se tramita una posible expulsión. Se propone cerrarlos.",
+      "objectives": "Puede evitar los daños asociados a permanecer en estos centros.",
+      "for": "Puede evitar los daños asociados a permanecer en estos centros.",
+      "against": "Puede requerir otras formas de gestionar los procedimientos de expulsión.",
+      "implications": "Cerrar estos centros no significa eliminar todos los trámites y procedimientos de extranjería."
     },
     "argumentsFor": [
-      "Puede evitar daños asociados al internamiento."
+      "Puede evitar los daños asociados a permanecer en estos centros."
     ],
     "argumentsAgainst": [
-      "Puede requerir alternativas para ejecutar procedimientos de retorno."
+      "Puede requerir otras formas de gestionar los procedimientos de expulsión."
     ],
     "importantNuances": [
-      "No implica eliminar todos los procedimientos de extranjería."
+      "Cerrar estos centros no significa eliminar todos los trámites y procedimientos de extranjería."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -11064,7 +11064,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -11080,22 +11080,22 @@
       "immigration",
       "employment"
     ],
-    "statement": "¿Debería poder obtenerse residencia por contrato de trabajo sin pasar por el proceso de arraigo?",
+    "statement": "¿Debería poder obtenerse un permiso de residencia mediante un contrato de trabajo, sin usar la vía del arraigo?",
     "context": {
-      "meaning": "Permitir otra vía de residencia a personas migrantes con contrato laboral.",
-      "objectives": "Puede facilitar la incorporación al empleo formal.",
-      "for": "Puede facilitar la incorporación al empleo formal.",
-      "against": "Puede exigir controles sobre contratos y condiciones laborales.",
-      "implications": "La medida documentada no elimina todos los requisitos migratorios."
+      "meaning": "El arraigo es una vía de residencia basada en los vínculos con el país. Se propone otra vía con un contrato de trabajo, sin eliminar los demás requisitos.",
+      "objectives": "Puede facilitar el acceso al trabajo con contrato.",
+      "for": "Puede facilitar el acceso al trabajo con contrato.",
+      "against": "Necesita comprobar que los contratos y las condiciones de trabajo son válidos.",
+      "implications": "Tener un contrato no supondría eliminar todos los demás requisitos de residencia."
     },
     "argumentsFor": [
-      "Puede facilitar la incorporación al empleo formal."
+      "Puede facilitar el acceso al trabajo con contrato."
     ],
     "argumentsAgainst": [
-      "Puede exigir controles sobre contratos y condiciones laborales."
+      "Necesita comprobar que los contratos y las condiciones de trabajo son válidos."
     ],
     "importantNuances": [
-      "La medida documentada no elimina todos los requisitos migratorios."
+      "Tener un contrato no supondría eliminar todos los demás requisitos de residencia."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -11492,7 +11492,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -11508,22 +11508,22 @@
       "security",
       "civil-rights"
     ],
-    "statement": "¿Debería prohibirse el uso policial de pelotas de goma?",
+    "statement": "¿Debería prohibirse que la policía use pelotas de goma?",
     "context": {
-      "meaning": "Excluir este material de los dispositivos policiales.",
-      "objectives": "Puede reducir lesiones graves asociadas a su impacto.",
-      "for": "Puede reducir lesiones graves asociadas a su impacto.",
-      "against": "Puede exigir revisar medios alternativos de intervención.",
-      "implications": "Se compara este material concreto; no se deduce una posición sobre toda actuación policial."
+      "meaning": "Se propone que la policía deje de usar este material en sus intervenciones.",
+      "objectives": "Puede reducir las lesiones graves causadas por sus impactos.",
+      "for": "Puede reducir las lesiones graves causadas por sus impactos.",
+      "against": "Puede exigir otros medios de intervención policial.",
+      "implications": "La pregunta trata solo de las pelotas de goma, no de toda la actuación policial."
     },
     "argumentsFor": [
-      "Puede reducir lesiones graves asociadas a su impacto."
+      "Puede reducir las lesiones graves causadas por sus impactos."
     ],
     "argumentsAgainst": [
-      "Puede exigir revisar medios alternativos de intervención."
+      "Puede exigir otros medios de intervención policial."
     ],
     "importantNuances": [
-      "Se compara este material concreto; no se deduce una posición sobre toda actuación policial."
+      "La pregunta trata solo de las pelotas de goma, no de toda la actuación policial."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -11966,7 +11966,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -11981,22 +11981,22 @@
     "categories": [
       "justice"
     ],
-    "statement": "¿Deberían los jueces elegir a los doce vocales judiciales del Consejo General del Poder Judicial?",
+    "statement": "¿Deberían los propios jueces elegir a los 12 jueces del Consejo General del Poder Judicial?",
     "context": {
-      "meaning": "Cambiar la elección de los vocales procedentes de la judicatura para que los elijan jueces y magistrados.",
-      "objectives": "Puede disminuir la intervención de partidos en esos nombramientos.",
-      "for": "Puede disminuir la intervención de partidos en esos nombramientos.",
-      "against": "Puede reforzar el peso de asociaciones y limitar la participación parlamentaria.",
-      "implications": "Elegir todos los vocales mediante jueces excede esta medida; se muestra como propuesta relacionada con matices."
+      "meaning": "Este consejo es el órgano de gobierno de los jueces. La medida afecta solo a los 12 miembros que son jueces o magistrados.",
+      "objectives": "Puede reducir la intervención de los partidos en esos nombramientos.",
+      "for": "Puede reducir la intervención de los partidos en esos nombramientos.",
+      "against": "Puede dar más peso a las asociaciones de jueces y menos al Parlamento.",
+      "implications": "Que los jueces elijan a los 12 miembros judiciales no es lo mismo que elegir a todos los miembros del consejo."
     },
     "argumentsFor": [
-      "Puede disminuir la intervención de partidos en esos nombramientos."
+      "Puede reducir la intervención de los partidos en esos nombramientos."
     ],
     "argumentsAgainst": [
-      "Puede reforzar el peso de asociaciones y limitar la participación parlamentaria."
+      "Puede dar más peso a las asociaciones de jueces y menos al Parlamento."
     ],
     "importantNuances": [
-      "Elegir todos los vocales mediante jueces excede esta medida; se muestra como propuesta relacionada con matices."
+      "Que los jueces elijan a los 12 miembros judiciales no es lo mismo que elegir a todos los miembros del consejo."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -12414,7 +12414,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -12430,22 +12430,22 @@
       "civil-rights",
       "security"
     ],
-    "statement": "¿Debería derogarse la Ley Orgánica de Seguridad Ciudadana de 2015?",
+    "statement": "¿Debería eliminarse la Ley de Seguridad Ciudadana de 2015 y sustituirse por otra regulación?",
     "context": {
-      "meaning": "Derogar la norma de 2015 y sustituir su regulación.",
-      "objectives": "Puede revisar restricciones de reunión y expresión.",
-      "for": "Puede revisar restricciones de reunión y expresión.",
-      "against": "Puede requerir nuevas reglas para mantener garantías y seguridad.",
-      "implications": "Modificar artículos concretos es distinto de derogar la ley completa."
+      "meaning": "Esta ley regula aspectos de la seguridad pública, las actuaciones policiales y las sanciones. Se propone quitar la ley completa, no cambiar solo algunos artículos.",
+      "objectives": "Puede revisar las restricciones a la reunión y la expresión.",
+      "for": "Puede revisar las restricciones a la reunión y la expresión.",
+      "against": "Necesita nuevas reglas que mantengan las garantías y la seguridad.",
+      "implications": "Cambiar algunos artículos no es lo mismo que eliminar la ley completa."
     },
     "argumentsFor": [
-      "Puede revisar restricciones de reunión y expresión."
+      "Puede revisar las restricciones a la reunión y la expresión."
     ],
     "argumentsAgainst": [
-      "Puede requerir nuevas reglas para mantener garantías y seguridad."
+      "Necesita nuevas reglas que mantengan las garantías y la seguridad."
     ],
     "importantNuances": [
-      "Modificar artículos concretos es distinto de derogar la ley completa."
+      "Cambiar algunos artículos no es lo mismo que eliminar la ley completa."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -12888,7 +12888,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -12904,22 +12904,22 @@
       "equality",
       "business"
     ],
-    "statement": "¿Deberían evaluarse los resultados de los planes de igualdad de las empresas?",
+    "statement": "¿Debería comprobarse si los planes de igualdad de las empresas funcionan?",
     "context": {
-      "meaning": "Comprobar con indicadores los efectos de estos planes.",
-      "objectives": "Puede permitir detectar medidas que no cumplen sus objetivos.",
-      "for": "Puede permitir detectar medidas que no cumplen sus objetivos.",
-      "against": "Puede aumentar obligaciones administrativas y exigir indicadores fiables.",
-      "implications": "Evaluar resultados no equivale a respaldar cualquier contenido de un plan."
+      "meaning": "Se evaluarían los resultados de las medidas que buscan la igualdad entre mujeres y hombres en el trabajo.",
+      "objectives": "Puede ayudar a detectar medidas que no están dando resultado.",
+      "for": "Puede ayudar a detectar medidas que no están dando resultado.",
+      "against": "Puede aumentar los trámites para las empresas y exige datos fiables.",
+      "implications": "Evaluar los resultados no significa estar de acuerdo con todas las medidas de un plan."
     },
     "argumentsFor": [
-      "Puede permitir detectar medidas que no cumplen sus objetivos."
+      "Puede ayudar a detectar medidas que no están dando resultado."
     ],
     "argumentsAgainst": [
-      "Puede aumentar obligaciones administrativas y exigir indicadores fiables."
+      "Puede aumentar los trámites para las empresas y exige datos fiables."
     ],
     "importantNuances": [
-      "Evaluar resultados no equivale a respaldar cualquier contenido de un plan."
+      "Evaluar los resultados no significa estar de acuerdo con todas las medidas de un plan."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -13349,7 +13349,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -13366,22 +13366,22 @@
       "health",
       "civil-rights"
     ],
-    "statement": "¿Debería garantizarse el acceso a la interrupción voluntaria del embarazo en centros públicos?",
+    "statement": "¿Debería garantizarse el acceso al aborto en centros de la sanidad pública?",
     "context": {
-      "meaning": "Ofrecer esta prestación en la red sanitaria pública con acceso territorial efectivo.",
-      "objectives": "Puede reducir desplazamientos y barreras de acceso.",
-      "for": "Puede reducir desplazamientos y barreras de acceso.",
-      "against": "Puede exigir organizar equipos y compatibilizar distintos derechos en la prestación.",
-      "implications": "Se distingue garantizar acceso de las condiciones y plazos legales concretos."
+      "meaning": "Se propone que esta atención esté disponible de forma efectiva en la red pública, sin que el lugar donde se vive impida acceder a ella.",
+      "objectives": "Puede reducir los desplazamientos y las dificultades de acceso.",
+      "for": "Puede reducir los desplazamientos y las dificultades de acceso.",
+      "against": "Necesita organizar equipos sanitarios y compatibilizar los derechos de pacientes y profesionales.",
+      "implications": "La pregunta trata del acceso en la sanidad pública, no de cambiar los plazos o requisitos legales para abortar."
     },
     "argumentsFor": [
-      "Puede reducir desplazamientos y barreras de acceso."
+      "Puede reducir los desplazamientos y las dificultades de acceso."
     ],
     "argumentsAgainst": [
-      "Puede exigir organizar equipos y compatibilizar distintos derechos en la prestación."
+      "Necesita organizar equipos sanitarios y compatibilizar los derechos de pacientes y profesionales."
     ],
     "importantNuances": [
-      "Se distingue garantizar acceso de las condiciones y plazos legales concretos."
+      "La pregunta trata del acceso en la sanidad pública, no de cambiar los plazos o requisitos legales para abortar."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -13839,7 +13839,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -13856,22 +13856,22 @@
       "equality",
       "employment"
     ],
-    "statement": "¿Deberían ampliarse los permisos retribuidos por nacimiento?",
+    "statement": "¿Deberían durar más los permisos pagados tras el nacimiento de un hijo?",
     "context": {
-      "meaning": "Aumentar la duración financiada del permiso para cuidar tras un nacimiento.",
-      "objectives": "Puede ampliar el tiempo disponible para cuidado.",
-      "for": "Puede ampliar el tiempo disponible para cuidado.",
-      "against": "Puede aumentar gasto y necesidades de sustitución laboral.",
-      "implications": "Las semanas y reglas de transferencia entre progenitores no se equiparan."
+      "meaning": "Se propone ampliar el tiempo de permiso con ingresos para cuidar después de un nacimiento.",
+      "objectives": "Puede dar más tiempo para cuidar.",
+      "for": "Puede dar más tiempo para cuidar.",
+      "against": "Puede aumentar el gasto y la necesidad de sustituir a quienes están de permiso.",
+      "implications": "Las propuestas pueden cambiar las semanas o la posibilidad de compartir parte del permiso entre los progenitores."
     },
     "argumentsFor": [
-      "Puede ampliar el tiempo disponible para cuidado."
+      "Puede dar más tiempo para cuidar."
     ],
     "argumentsAgainst": [
-      "Puede aumentar gasto y necesidades de sustitución laboral."
+      "Puede aumentar el gasto y la necesidad de sustituir a quienes están de permiso."
     ],
     "importantNuances": [
-      "Las semanas y reglas de transferencia entre progenitores no se equiparan."
+      "Las propuestas pueden cambiar las semanas o la posibilidad de compartir parte del permiso entre los progenitores."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -14296,7 +14296,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -14312,22 +14312,22 @@
       "family",
       "economy"
     ],
-    "statement": "¿Debería crearse una prestación económica por crianza hasta los 18 años?",
+    "statement": "¿Debería crearse una ayuda económica para criar a los hijos hasta los 18 años?",
     "context": {
-      "meaning": "Establecer una ayuda periódica asociada a la crianza de menores.",
-      "objectives": "Puede apoyar gastos familiares y reducir pobreza infantil.",
-      "for": "Puede apoyar gastos familiares y reducir pobreza infantil.",
-      "against": "Puede exigir decidir prioridades de gasto y criterios de acceso.",
-      "implications": "La cuantía y los límites de renta deben consultarse; no se presume universalidad si no se indica."
+      "meaning": "Sería una ayuda periódica para familias con menores. La cantidad y los requisitos de ingresos dependen de cada propuesta.",
+      "objectives": "Puede ayudar con los gastos familiares y reducir la pobreza infantil.",
+      "for": "Puede ayudar con los gastos familiares y reducir la pobreza infantil.",
+      "against": "Necesita financiación y decidir qué familias pueden recibirla.",
+      "implications": "La pregunta no supone que todas las familias reciban la misma cantidad ni que la ayuda llegue a todos sin requisitos."
     },
     "argumentsFor": [
-      "Puede apoyar gastos familiares y reducir pobreza infantil."
+      "Puede ayudar con los gastos familiares y reducir la pobreza infantil."
     ],
     "argumentsAgainst": [
-      "Puede exigir decidir prioridades de gasto y criterios de acceso."
+      "Necesita financiación y decidir qué familias pueden recibirla."
     ],
     "importantNuances": [
-      "La cuantía y los límites de renta deben consultarse; no se presume universalidad si no se indica."
+      "La pregunta no supone que todas las familias reciban la misma cantidad ni que la ayuda llegue a todos sin requisitos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -14743,7 +14743,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -14759,22 +14759,22 @@
       "energy",
       "climate"
     ],
-    "statement": "¿Debería prolongarse la vida de las centrales nucleares existentes?",
+    "statement": "¿Deberían seguir funcionando las centrales nucleares actuales más allá de su fecha prevista de cierre?",
     "context": {
-      "meaning": "Mantener operativas centrales más allá de sus calendarios de cierre.",
-      "objectives": "Puede conservar generación eléctrica disponible.",
-      "for": "Puede conservar generación eléctrica disponible.",
-      "against": "Puede prolongar necesidades de gestión de residuos y de seguridad.",
-      "implications": "Las autorizaciones de seguridad y calendarios se conservan como condiciones del documento."
+      "meaning": "Se propone ampliar el tiempo de funcionamiento de las centrales existentes, con las autorizaciones de seguridad correspondientes.",
+      "objectives": "Puede mantener una fuente de producción de electricidad.",
+      "for": "Puede mantener una fuente de producción de electricidad.",
+      "against": "Puede prolongar la necesidad de gestionar residuos y asegurar las instalaciones.",
+      "implications": "Las condiciones de seguridad y las fechas de cierre de cada propuesta pueden ser distintas."
     },
     "argumentsFor": [
-      "Puede conservar generación eléctrica disponible."
+      "Puede mantener una fuente de producción de electricidad."
     ],
     "argumentsAgainst": [
-      "Puede prolongar necesidades de gestión de residuos y de seguridad."
+      "Puede prolongar la necesidad de gestionar residuos y asegurar las instalaciones."
     ],
     "importantNuances": [
-      "Las autorizaciones de seguridad y calendarios se conservan como condiciones del documento."
+      "Las condiciones de seguridad y las fechas de cierre de cada propuesta pueden ser distintas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -15219,7 +15219,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -15235,22 +15235,22 @@
       "energy",
       "economy"
     ],
-    "statement": "¿Debería haber una empresa pública de energía que gestione centrales hidroeléctricas al terminar sus concesiones?",
+    "statement": "¿Debería una empresa pública gestionar las centrales hidroeléctricas cuando terminen sus concesiones?",
     "context": {
-      "meaning": "Incorporar instalaciones con concesiones vencidas a una empresa pública energética.",
-      "objectives": "Puede dar capacidad de gestión pública de generación eléctrica.",
-      "for": "Puede dar capacidad de gestión pública de generación eléctrica.",
-      "against": "Exige gestión, inversión y definir relación con otros operadores.",
-      "implications": "Crear una comercializadora pública no demuestra por sí solo apoyo a esta gestión de centrales."
+      "meaning": "Estas centrales producen electricidad con agua. Cuando termine el permiso temporal para explotarlas, pasarían a ser gestionadas por una empresa pública.",
+      "objectives": "Puede dar a la Administración más capacidad para gestionar la producción de electricidad.",
+      "for": "Puede dar a la Administración más capacidad para gestionar la producción de electricidad.",
+      "against": "Necesita gestión, inversión y reglas para relacionarse con las demás empresas del sector.",
+      "implications": "Vender electricidad a través de una empresa pública no es lo mismo que gestionar estas centrales."
     },
     "argumentsFor": [
-      "Puede dar capacidad de gestión pública de generación eléctrica."
+      "Puede dar a la Administración más capacidad para gestionar la producción de electricidad."
     ],
     "argumentsAgainst": [
-      "Exige gestión, inversión y definir relación con otros operadores."
+      "Necesita gestión, inversión y reglas para relacionarse con las demás empresas del sector."
     ],
     "importantNuances": [
-      "Crear una comercializadora pública no demuestra por sí solo apoyo a esta gestión de centrales."
+      "Vender electricidad a través de una empresa pública no es lo mismo que gestionar estas centrales."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -15660,7 +15660,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -15676,22 +15676,22 @@
       "climate",
       "energy"
     ],
-    "statement": "¿Debería fijarse un objetivo de al menos el 90 % de electricidad renovable para 2030?",
+    "statement": "¿Debería al menos el 90 % de la electricidad proceder de energías renovables para 2030?",
     "context": {
-      "meaning": "Establecer una meta de generación eléctrica renovable para esa fecha.",
-      "objectives": "Puede acelerar la reducción de emisiones eléctricas.",
-      "for": "Puede acelerar la reducción de emisiones eléctricas.",
-      "against": "Requiere redes, almacenamiento e inversiones para mantener suministro.",
-      "implications": "Electricidad no equivale al total de energía consumida; porcentajes inferiores son metas distintas."
+      "meaning": "La meta se refiere a la electricidad producida, no a toda la energía que se consume, como el combustible de los vehículos.",
+      "objectives": "Puede reducir las emisiones al producir electricidad.",
+      "for": "Puede reducir las emisiones al producir electricidad.",
+      "against": "Necesita inversiones en redes y almacenamiento para asegurar el suministro.",
+      "implications": "Un objetivo inferior al 90 % o un objetivo para toda la energía no es la misma medida."
     },
     "argumentsFor": [
-      "Puede acelerar la reducción de emisiones eléctricas."
+      "Puede reducir las emisiones al producir electricidad."
     ],
     "argumentsAgainst": [
-      "Requiere redes, almacenamiento e inversiones para mantener suministro."
+      "Necesita inversiones en redes y almacenamiento para asegurar el suministro."
     ],
     "importantNuances": [
-      "Electricidad no equivale al total de energía consumida; porcentajes inferiores son metas distintas."
+      "Un objetivo inferior al 90 % o un objetivo para toda la energía no es la misma medida."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -16091,7 +16091,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -16107,22 +16107,22 @@
       "environment",
       "climate"
     ],
-    "statement": "¿Debería aprobarse una estrategia nacional para restaurar ecosistemas degradados?",
+    "statement": "¿Debería haber un plan nacional para recuperar espacios naturales deteriorados?",
     "context": {
-      "meaning": "Coordinar mediante una estrategia nacional la recuperación de ecosistemas.",
-      "objectives": "Puede recuperar funciones ecológicas y biodiversidad.",
-      "for": "Puede recuperar funciones ecológicas y biodiversidad.",
-      "against": "Puede exigir recursos y cambiar determinados usos del suelo.",
-      "implications": "La restauración no implica prohibir de forma general toda actividad económica."
+      "meaning": "Se propone coordinar la recuperación de ecosistemas, es decir, de espacios naturales y los seres vivos que los forman.",
+      "objectives": "Puede recuperar la diversidad de seres vivos y las funciones de esos espacios.",
+      "for": "Puede recuperar la diversidad de seres vivos y las funciones de esos espacios.",
+      "against": "Necesita recursos y puede cambiar algunos usos del terreno.",
+      "implications": "Recuperar estos espacios no significa prohibir toda actividad económica en ellos."
     },
     "argumentsFor": [
-      "Puede recuperar funciones ecológicas y biodiversidad."
+      "Puede recuperar la diversidad de seres vivos y las funciones de esos espacios."
     ],
     "argumentsAgainst": [
-      "Puede exigir recursos y cambiar determinados usos del suelo."
+      "Necesita recursos y puede cambiar algunos usos del terreno."
     ],
     "importantNuances": [
-      "La restauración no implica prohibir de forma general toda actividad económica."
+      "Recuperar estos espacios no significa prohibir toda actividad económica en ellos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -16524,7 +16524,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -16540,22 +16540,22 @@
       "transport",
       "climate"
     ],
-    "statement": "¿Deberían restringirse los vuelos en aviones privados?",
+    "statement": "¿Deberían limitarse los vuelos en aviones privados?",
     "context": {
-      "meaning": "Limitar el uso de aviación privada por razones ambientales.",
-      "objectives": "Puede reducir emisiones de usos con pocos pasajeros.",
-      "for": "Puede reducir emisiones de usos con pocos pasajeros.",
-      "against": "Puede afectar a servicios y requerir delimitar excepciones.",
-      "implications": "Se distinguen vuelos privados de servicios sanitarios o públicos esenciales."
+      "meaning": "Se propone limitar la aviación privada por su impacto ambiental. Habría que definir qué vuelos quedarían incluidos.",
+      "objectives": "Puede reducir las emisiones de vuelos con pocos pasajeros.",
+      "for": "Puede reducir las emisiones de vuelos con pocos pasajeros.",
+      "against": "Puede afectar a algunos servicios y requiere definir excepciones.",
+      "implications": "Se distinguen los vuelos privados de los servicios sanitarios y otros servicios públicos esenciales."
     },
     "argumentsFor": [
-      "Puede reducir emisiones de usos con pocos pasajeros."
+      "Puede reducir las emisiones de vuelos con pocos pasajeros."
     ],
     "argumentsAgainst": [
-      "Puede afectar a servicios y requerir delimitar excepciones."
+      "Puede afectar a algunos servicios y requiere definir excepciones."
     ],
     "importantNuances": [
-      "Se distinguen vuelos privados de servicios sanitarios o públicos esenciales."
+      "Se distinguen los vuelos privados de los servicios sanitarios y otros servicios públicos esenciales."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -16952,7 +16952,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -16968,22 +16968,22 @@
       "transport",
       "family"
     ],
-    "statement": "¿Debería ser gratuito el transporte público para menores y estudiantes jóvenes?",
+    "statement": "¿Debería ser gratis el transporte público para menores y estudiantes jóvenes?",
     "context": {
-      "meaning": "Eliminar el coste de determinados viajes para esos colectivos.",
-      "objectives": "Puede facilitar movilidad y uso de transporte colectivo.",
-      "for": "Puede facilitar movilidad y uso de transporte colectivo.",
-      "against": "Puede requerir financiación y ampliar servicios para absorber demanda.",
-      "implications": "Los límites de edad, tipos de transporte y condición de estudiante varían."
+      "meaning": "Se propone no cobrar determinados viajes a estos grupos. Las edades y los transportes incluidos dependen de cada propuesta.",
+      "objectives": "Puede facilitar los desplazamientos y el uso del transporte público.",
+      "for": "Puede facilitar los desplazamientos y el uso del transporte público.",
+      "against": "Necesita financiación y puede requerir más servicios si aumenta el número de viajeros.",
+      "implications": "Las edades, los medios de transporte y los requisitos para estudiantes pueden ser distintos."
     },
     "argumentsFor": [
-      "Puede facilitar movilidad y uso de transporte colectivo."
+      "Puede facilitar los desplazamientos y el uso del transporte público."
     ],
     "argumentsAgainst": [
-      "Puede requerir financiación y ampliar servicios para absorber demanda."
+      "Necesita financiación y puede requerir más servicios si aumenta el número de viajeros."
     ],
     "importantNuances": [
-      "Los límites de edad, tipos de transporte y condición de estudiante varían."
+      "Las edades, los medios de transporte y los requisitos para estudiantes pueden ser distintos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -17417,7 +17417,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -17433,22 +17433,22 @@
       "agriculture",
       "business"
     ],
-    "statement": "¿Debería reforzarse la prohibición de pagar a productores agrarios por debajo de sus costes?",
+    "statement": "¿Debería controlarse mejor que agricultores y ganaderos no cobren menos de lo que les cuesta producir?",
     "context": {
-      "meaning": "Mejorar reglas y control para que el precio recibido cubra costes de producción.",
-      "objectives": "Puede reducir desequilibrios en la cadena alimentaria.",
-      "for": "Puede reducir desequilibrios en la cadena alimentaria.",
-      "against": "Puede ser difícil calcular costes y trasladarse a precios finales.",
-      "implications": "Las referencias de coste y las herramientas de inspección cambian entre propuestas."
+      "meaning": "Se propone reforzar las reglas y las inspecciones para que el precio recibido cubra los costes de producción.",
+      "objectives": "Puede reducir la desventaja de los productores al negociar los precios.",
+      "for": "Puede reducir la desventaja de los productores al negociar los precios.",
+      "against": "Puede ser difícil calcular los costes y puede afectar al precio final de los alimentos.",
+      "implications": "Cada propuesta puede definir de forma distinta cómo se calculan los costes y cómo se controla su cumplimiento."
     },
     "argumentsFor": [
-      "Puede reducir desequilibrios en la cadena alimentaria."
+      "Puede reducir la desventaja de los productores al negociar los precios."
     ],
     "argumentsAgainst": [
-      "Puede ser difícil calcular costes y trasladarse a precios finales."
+      "Puede ser difícil calcular los costes y puede afectar al precio final de los alimentos."
     ],
     "importantNuances": [
-      "Las referencias de coste y las herramientas de inspección cambian entre propuestas."
+      "Cada propuesta puede definir de forma distinta cómo se calculan los costes y cómo se controla su cumplimiento."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -17885,7 +17885,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -17902,22 +17902,22 @@
       "environment",
       "agriculture"
     ],
-    "statement": "¿Debería destinarse apoyo público específico a la ganadería extensiva?",
+    "statement": "¿Deberían darse ayudas públicas específicas a la ganadería que aprovecha los pastos y el terreno?",
     "context": {
-      "meaning": "Aplicar ayudas o incentivos a explotaciones basadas en aprovechamiento extensivo del territorio.",
-      "objectives": "Puede contribuir a conservar actividad rural y gestión del paisaje.",
-      "for": "Puede contribuir a conservar actividad rural y gestión del paisaje.",
-      "against": "Puede competir con otras prioridades y exigir criterios de evaluación.",
-      "implications": "La ganadería extensiva engloba explotaciones con condiciones muy distintas."
+      "meaning": "Se refiere a la ganadería extensiva, que utiliza los recursos del territorio para alimentar a los animales.",
+      "objectives": "Puede mantener la actividad rural y contribuir al cuidado del paisaje.",
+      "for": "Puede mantener la actividad rural y contribuir al cuidado del paisaje.",
+      "against": "Puede competir con otras ayudas y necesita criterios para comprobar sus resultados.",
+      "implications": "Dentro de la ganadería extensiva hay explotaciones con condiciones muy diferentes."
     },
     "argumentsFor": [
-      "Puede contribuir a conservar actividad rural y gestión del paisaje."
+      "Puede mantener la actividad rural y contribuir al cuidado del paisaje."
     ],
     "argumentsAgainst": [
-      "Puede competir con otras prioridades y exigir criterios de evaluación."
+      "Puede competir con otras ayudas y necesita criterios para comprobar sus resultados."
     ],
     "importantNuances": [
-      "La ganadería extensiva engloba explotaciones con condiciones muy distintas."
+      "Dentro de la ganadería extensiva hay explotaciones con condiciones muy diferentes."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -18368,7 +18368,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -18384,22 +18384,22 @@
       "industry",
       "business"
     ],
-    "statement": "¿Debería aprobarse una nueva ley de industria?",
+    "statement": "¿Debería aprobarse una nueva ley para regular la actividad industrial?",
     "context": {
-      "meaning": "Actualizar mediante ley el marco de actividad industrial.",
-      "objectives": "Puede adaptar reglas a cambios tecnológicos y energéticos.",
-      "for": "Puede adaptar reglas a cambios tecnológicos y energéticos.",
-      "against": "Puede aumentar incertidumbre durante la transición normativa.",
-      "implications": "El apoyo a una ley nueva no implica acuerdo sobre su contenido."
+      "meaning": "Se propone actualizar las reglas para fábricas y otras actividades industriales. La pregunta no presupone un contenido concreto de esa ley.",
+      "objectives": "Puede adaptar las reglas a los cambios tecnológicos y energéticos.",
+      "for": "Puede adaptar las reglas a los cambios tecnológicos y energéticos.",
+      "against": "Puede generar dudas mientras se pasa de unas reglas a otras.",
+      "implications": "Apoyar una nueva ley no significa estar de acuerdo con todas las medidas que incluya."
     },
     "argumentsFor": [
-      "Puede adaptar reglas a cambios tecnológicos y energéticos."
+      "Puede adaptar las reglas a los cambios tecnológicos y energéticos."
     ],
     "argumentsAgainst": [
-      "Puede aumentar incertidumbre durante la transición normativa."
+      "Puede generar dudas mientras se pasa de unas reglas a otras."
     ],
     "importantNuances": [
-      "El apoyo a una ley nueva no implica acuerdo sobre su contenido."
+      "Apoyar una nueva ley no significa estar de acuerdo con todas las medidas que incluya."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -18819,7 +18819,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -18835,22 +18835,22 @@
       "territory",
       "employment"
     ],
-    "statement": "¿Deberían prevalecer los convenios autonómicos cuando sean más favorables para los trabajadores?",
+    "statement": "¿Deberían tener prioridad los convenios laborales de una comunidad autónoma si mejoran las condiciones de los trabajadores?",
     "context": {
-      "meaning": "Dar prioridad a convenios de comunidad autónoma frente a estatales bajo esa condición.",
-      "objectives": "Puede adaptar condiciones y mejorar derechos en determinados sectores.",
-      "for": "Puede adaptar condiciones y mejorar derechos en determinados sectores.",
-      "against": "Puede aumentar diferencias territoriales y complejidad de negociación.",
-      "implications": "No se presume apoyo a prevalencia incondicional ni a cualquier convenio de empresa."
+      "meaning": "Un convenio fija condiciones de trabajo. Se propone aplicar antes el de la comunidad autónoma que el estatal cuando sea más favorable para los trabajadores.",
+      "objectives": "Puede mejorar las condiciones y adaptarlas a la situación de cada territorio.",
+      "for": "Puede mejorar las condiciones y adaptarlas a la situación de cada territorio.",
+      "against": "Puede aumentar las diferencias entre territorios y hacer más compleja la negociación.",
+      "implications": "La prioridad solo se plantea cuando el convenio autonómico sea más favorable. No se refiere a cualquier convenio de empresa."
     },
     "argumentsFor": [
-      "Puede adaptar condiciones y mejorar derechos en determinados sectores."
+      "Puede mejorar las condiciones y adaptarlas a la situación de cada territorio."
     ],
     "argumentsAgainst": [
-      "Puede aumentar diferencias territoriales y complejidad de negociación."
+      "Puede aumentar las diferencias entre territorios y hacer más compleja la negociación."
     ],
     "importantNuances": [
-      "No se presume apoyo a prevalencia incondicional ni a cualquier convenio de empresa."
+      "La prioridad solo se plantea cuando el convenio autonómico sea más favorable. No se refiere a cualquier convenio de empresa."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -19259,7 +19259,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -19276,22 +19276,22 @@
       "economy",
       "climate"
     ],
-    "statement": "¿Deberían flexibilizarse las reglas fiscales europeas para inversiones de transición ecológica y digital?",
+    "statement": "¿Debería la Unión Europea dar más margen de gasto para invertir en medio ambiente y digitalización?",
     "context": {
-      "meaning": "Permitir mayor margen de gasto o excluir determinadas inversiones de su cómputo.",
-      "objectives": "Puede facilitar inversión a largo plazo.",
-      "for": "Puede facilitar inversión a largo plazo.",
-      "against": "Puede reducir límites comunes de disciplina presupuestaria.",
-      "implications": "Eliminar umbrales generales y exceptuar inversiones son diseños distintos."
+      "meaning": "Se propone flexibilizar los límites europeos de gasto o deuda para estas inversiones. Digitalizar incluye pasar servicios y procesos a herramientas digitales.",
+      "objectives": "Puede facilitar inversiones a largo plazo.",
+      "for": "Puede facilitar inversiones a largo plazo.",
+      "against": "Puede reducir los límites comunes sobre el gasto y la deuda de los países.",
+      "implications": "Dar una excepción a ciertas inversiones no es lo mismo que eliminar todos los límites de gasto y deuda."
     },
     "argumentsFor": [
-      "Puede facilitar inversión a largo plazo."
+      "Puede facilitar inversiones a largo plazo."
     ],
     "argumentsAgainst": [
-      "Puede reducir límites comunes de disciplina presupuestaria."
+      "Puede reducir los límites comunes sobre el gasto y la deuda de los países."
     ],
     "importantNuances": [
-      "Eliminar umbrales generales y exceptuar inversiones son diseños distintos."
+      "Dar una excepción a ciertas inversiones no es lo mismo que eliminar todos los límites de gasto y deuda."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -19706,7 +19706,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -19721,22 +19721,22 @@
     "categories": [
       "foreign"
     ],
-    "statement": "¿Debería España reconocer al Estado palestino?",
+    "statement": "¿Estás de acuerdo con que España reconozca a Palestina como Estado?",
     "context": {
-      "meaning": "Otorgar reconocimiento diplomático estatal.",
-      "objectives": "Puede contribuir a una solución basada en dos Estados.",
-      "for": "Puede contribuir a una solución basada en dos Estados.",
-      "against": "Puede generar desacuerdos sobre oportunidad y condiciones diplomáticas.",
-      "implications": "Se muestran propuestas fechadas; no se presenta el reconocimiento como un hecho todavía pendiente."
+      "meaning": "España aprobó este reconocimiento el 28 de mayo de 2024. La pregunta pide tu postura sobre esa decisión, no plantea un trámite pendiente.",
+      "objectives": "Puede contribuir a una solución con dos Estados.",
+      "for": "Puede contribuir a una solución con dos Estados.",
+      "against": "Puede generar desacuerdos sobre el momento y las condiciones del reconocimiento.",
+      "implications": "Las posiciones de los partidos se muestran con la fecha de cada documento."
     },
     "argumentsFor": [
-      "Puede contribuir a una solución basada en dos Estados."
+      "Puede contribuir a una solución con dos Estados."
     ],
     "argumentsAgainst": [
-      "Puede generar desacuerdos sobre oportunidad y condiciones diplomáticas."
+      "Puede generar desacuerdos sobre el momento y las condiciones del reconocimiento."
     ],
     "importantNuances": [
-      "Se muestran propuestas fechadas; no se presenta el reconocimiento como un hecho todavía pendiente."
+      "Las posiciones de los partidos se muestran con la fecha de cada documento."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -20156,7 +20156,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -20172,22 +20172,22 @@
       "defense",
       "foreign"
     ],
-    "statement": "¿Debería España adherirse al Tratado de Prohibición de las Armas Nucleares?",
+    "statement": "¿Debería España sumarse al tratado internacional que prohíbe las armas nucleares?",
     "context": {
-      "meaning": "Incorporarse al tratado internacional que prohíbe estas armas.",
-      "objectives": "Puede reforzar compromisos de desarme.",
-      "for": "Puede reforzar compromisos de desarme.",
-      "against": "Puede plantear tensiones con estrategias de defensa de aliados.",
-      "implications": "Adhesión a este tratado y apoyo genérico al desarme no son equivalentes."
+      "meaning": "Se refiere al Tratado de Prohibición de las Armas Nucleares, no solo a expresar apoyo a reducir estas armas.",
+      "objectives": "Puede reforzar el compromiso con eliminar las armas nucleares.",
+      "for": "Puede reforzar el compromiso con eliminar las armas nucleares.",
+      "against": "Puede entrar en tensión con las estrategias de defensa de países aliados.",
+      "implications": "Apoyar la reducción de armas nucleares no equivale a sumarse a este tratado."
     },
     "argumentsFor": [
-      "Puede reforzar compromisos de desarme."
+      "Puede reforzar el compromiso con eliminar las armas nucleares."
     ],
     "argumentsAgainst": [
-      "Puede plantear tensiones con estrategias de defensa de aliados."
+      "Puede entrar en tensión con las estrategias de defensa de países aliados."
     ],
     "importantNuances": [
-      "Adhesión a este tratado y apoyo genérico al desarme no son equivalentes."
+      "Apoyar la reducción de armas nucleares no equivale a sumarse a este tratado."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -20597,7 +20597,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -20613,22 +20613,22 @@
       "foreign",
       "economy"
     ],
-    "statement": "¿Debería destinarse el 0,7 % de la renta nacional bruta a ayuda oficial al desarrollo para 2030?",
+    "statement": "¿Debería España destinar el 0,7 % de su renta nacional a ayudar al desarrollo de otros países para 2030?",
     "context": {
-      "meaning": "Alcanzar esa proporción y fecha en cooperación internacional.",
-      "objectives": "Puede aumentar recursos para desarrollo y acción humanitaria.",
-      "for": "Puede aumentar recursos para desarrollo y acción humanitaria.",
-      "against": "Puede exigir priorizarla frente a otros gastos.",
-      "implications": "PIB y renta nacional bruta son magnitudes diferentes; no se igualan automáticamente."
+      "meaning": "La referencia es la renta nacional bruta (RNB), una medida de los ingresos del país. La meta es dedicar el 0,7 % a ayuda oficial al desarrollo para 2030.",
+      "objectives": "Puede aumentar los recursos para el desarrollo y la ayuda humanitaria.",
+      "for": "Puede aumentar los recursos para el desarrollo y la ayuda humanitaria.",
+      "against": "Puede exigir darle prioridad frente a otros gastos públicos.",
+      "implications": "La renta nacional bruta y el PIB son medidas distintas. No se intercambian al calcular este objetivo."
     },
     "argumentsFor": [
-      "Puede aumentar recursos para desarrollo y acción humanitaria."
+      "Puede aumentar los recursos para el desarrollo y la ayuda humanitaria."
     ],
     "argumentsAgainst": [
-      "Puede exigir priorizarla frente a otros gastos."
+      "Puede exigir darle prioridad frente a otros gastos públicos."
     ],
     "importantNuances": [
-      "PIB y renta nacional bruta son magnitudes diferentes; no se igualan automáticamente."
+      "La renta nacional bruta y el PIB son medidas distintas. No se intercambian al calcular este objetivo."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -21062,7 +21062,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -21080,20 +21080,20 @@
     ],
     "statement": "¿Debería destinarse al menos el 2 % del PIB a seguridad y defensa?",
     "context": {
-      "meaning": "Adoptar esa referencia mínima de gasto.",
-      "objectives": "Puede financiar capacidades y compromisos de defensa.",
-      "for": "Puede financiar capacidades y compromisos de defensa.",
-      "against": "Puede competir con otras prioridades presupuestarias.",
-      "implications": "Se muestra el compromiso de la fecha original; no se presupone que sea la meta actual de un partido."
+      "meaning": "El PIB mide el valor de lo que produce el país. Se propone dedicar al menos el 2 % de esa referencia a seguridad y defensa.",
+      "objectives": "Puede financiar medios y compromisos de defensa.",
+      "for": "Puede financiar medios y compromisos de defensa.",
+      "against": "Puede dejar menos recursos disponibles para otras prioridades.",
+      "implications": "Se compara el compromiso de cada documento en su fecha, no se afirma que siga siendo la meta actual del partido."
     },
     "argumentsFor": [
-      "Puede financiar capacidades y compromisos de defensa."
+      "Puede financiar medios y compromisos de defensa."
     ],
     "argumentsAgainst": [
-      "Puede competir con otras prioridades presupuestarias."
+      "Puede dejar menos recursos disponibles para otras prioridades."
     ],
     "importantNuances": [
-      "Se muestra el compromiso de la fecha original; no se presupone que sea la meta actual de un partido."
+      "Se compara el compromiso de cada documento en su fecha, no se afirma que siga siendo la meta actual del partido."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -21510,7 +21510,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -21527,22 +21527,22 @@
       "technology",
       "civil-rights"
     ],
-    "statement": "¿Debería regularse la inteligencia artificial para proteger derechos fundamentales?",
+    "statement": "¿Debería haber reglas para que la inteligencia artificial respete los derechos de las personas?",
     "context": {
-      "meaning": "Establecer garantías legales frente a riesgos de sistemas automatizados.",
-      "objectives": "Puede reducir discriminación y hacer exigibles garantías.",
-      "for": "Puede reducir discriminación y hacer exigibles garantías.",
-      "against": "Puede aumentar costes regulatorios y ralentizar determinados usos.",
-      "implications": "Promover investigación en IA no demuestra apoyo a una regulación específica."
+      "meaning": "Se propone poner garantías legales al uso de la inteligencia artificial, por ejemplo para evitar decisiones discriminatorias.",
+      "objectives": "Puede reducir la discriminación y permitir exigir que se respeten los derechos.",
+      "for": "Puede reducir la discriminación y permitir exigir que se respeten los derechos.",
+      "against": "Puede aumentar los costes y retrasar algunos usos de esta tecnología.",
+      "implications": "Apoyar la investigación en inteligencia artificial no equivale a apoyar estas reglas."
     },
     "argumentsFor": [
-      "Puede reducir discriminación y hacer exigibles garantías."
+      "Puede reducir la discriminación y permitir exigir que se respeten los derechos."
     ],
     "argumentsAgainst": [
-      "Puede aumentar costes regulatorios y ralentizar determinados usos."
+      "Puede aumentar los costes y retrasar algunos usos de esta tecnología."
     ],
     "importantNuances": [
-      "Promover investigación en IA no demuestra apoyo a una regulación específica."
+      "Apoyar la investigación en inteligencia artificial no equivale a apoyar estas reglas."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -21972,7 +21972,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -21988,22 +21988,22 @@
       "administration",
       "digital"
     ],
-    "statement": "¿Debería garantizarse atención presencial en la Administración aunque exista una vía digital?",
+    "statement": "¿Debería la Administración atender en persona aunque también ofrezca atención por internet?",
     "context": {
-      "meaning": "Mantener una alternativa de atención personal accesible.",
-      "objectives": "Puede facilitar trámites a personas con barreras digitales.",
-      "for": "Puede facilitar trámites a personas con barreras digitales.",
-      "against": "Exige personal e instalaciones junto a los servicios digitales.",
-      "implications": "Las reglas de cita previa y los plazos de atención no se consideran idénticos."
+      "meaning": "Se propone mantener la atención presencial como alternativa accesible a los trámites digitales.",
+      "objectives": "Puede facilitar los trámites a quienes tienen dificultades para usar internet.",
+      "for": "Puede facilitar los trámites a quienes tienen dificultades para usar internet.",
+      "against": "Necesita personal e instalaciones además de los servicios digitales.",
+      "implications": "Las reglas de cita previa y los tiempos de atención pueden ser distintos."
     },
     "argumentsFor": [
-      "Puede facilitar trámites a personas con barreras digitales."
+      "Puede facilitar los trámites a quienes tienen dificultades para usar internet."
     ],
     "argumentsAgainst": [
-      "Exige personal e instalaciones junto a los servicios digitales."
+      "Necesita personal e instalaciones además de los servicios digitales."
     ],
     "importantNuances": [
-      "Las reglas de cita previa y los plazos de atención no se consideran idénticos."
+      "Las reglas de cita previa y los tiempos de atención pueden ser distintos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -22464,7 +22464,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,
@@ -22481,22 +22481,22 @@
       "technology",
       "administration"
     ],
-    "statement": "¿Debería priorizarse software libre en la contratación informática pública?",
+    "statement": "¿Debería la Administración dar prioridad a programas informáticos que se puedan usar, estudiar y modificar libremente?",
     "context": {
-      "meaning": "Dar preferencia a programas cuyo código permita uso, estudio y modificación bajo licencias abiertas.",
-      "objectives": "Puede facilitar reutilización y reducir dependencia de proveedores.",
-      "for": "Puede facilitar reutilización y reducir dependencia de proveedores.",
-      "against": "Puede exigir adaptación, mantenimiento y compatibilidad.",
-      "implications": "Software gratuito y software libre son conceptos distintos; no se presume ahorro automático."
+      "meaning": "Se llama software libre: su código se puede revisar y modificar según su licencia. No significa que siempre sea gratis.",
+      "objectives": "Puede permitir reutilizar programas y depender menos de un proveedor.",
+      "for": "Puede permitir reutilizar programas y depender menos de un proveedor.",
+      "against": "Puede necesitar adaptación, mantenimiento y comprobar que funciona con otros sistemas.",
+      "implications": "Software libre no es lo mismo que software gratuito. No implica ahorrar dinero en todos los casos."
     },
     "argumentsFor": [
-      "Puede facilitar reutilización y reducir dependencia de proveedores."
+      "Puede permitir reutilizar programas y depender menos de un proveedor."
     ],
     "argumentsAgainst": [
-      "Puede exigir adaptación, mantenimiento y compatibilidad."
+      "Puede necesitar adaptación, mantenimiento y comprobar que funciona con otros sistemas."
     ],
     "importantNuances": [
-      "Software gratuito y software libre son conceptos distintos; no se presume ahorro automático."
+      "Software libre no es lo mismo que software gratuito. No implica ahorrar dinero en todos los casos."
     ],
     "sourceContext": "Medida extraída de documentación política primaria. Las atribuciones y páginas se consultan al terminar; hay compromisos de fechas y convocatorias diferentes.",
     "positions": {
@@ -22915,7 +22915,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente.",
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente.",
       "hasEvidence": true,
       "hasPrimarySource": true,
       "hasNoPartyIdentity": true,

@@ -43,7 +43,7 @@ npm run update-data
 
 Las recetas `prepare-editorial.py`, `complete-corpus.py` y `supplement-corpus.py` documentan la extracción inicial revisada y se ejecutan en ese orden. No son buscadores que infieran posturas por palabras clave. La extracción PDF original utilizó `pypdf`; los comandos habituales de comprobación/generación utilizan Node. Las interpretaciones dudosas permanecen pendientes.
 
-Al modificar el contenido o significado de las preguntas, cambia `dataVersion` en `src/config.json` para impedir que se mezclen respuestas anteriores. Las fechas de publicación desconocidas permanecen nulas. Las páginas cuentan la portada del PDF como página 1.
+Al cambiar la medida que se pregunta, sus condiciones, cifras, sentido o identificadores, cambia `dataVersion` en `src/config.json` para impedir que se mezclen respuestas anteriores. Una revisión de lenguaje que conserva el mismo significado mantiene la versión y las respuestas guardadas. Los textos revisados se editan en `issues.json` y se propagan con `generate-data`; las recetas de extracción inicial no deben usarse para sobrescribir el corpus ampliado. La [revisión de lenguaje](docs/question-language-review.md) documenta los criterios aplicados. Las fechas de publicación desconocidas permanecen nulas. Las páginas cuentan la portada del PDF como página 1.
 
 ## Comparación y privacidad
 

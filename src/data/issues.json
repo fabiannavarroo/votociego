@@ -1,22 +1,22 @@
 [
   {
     "id": "jornada",
-    "title": "¿Debería reducirse la jornada laboral máxima manteniendo el salario?",
+    "title": "¿Debería reducirse el máximo de horas de trabajo a la semana sin bajar el sueldo?",
     "category": "employment",
     "categories": [
       "employment",
       "economy"
     ],
-    "neutralDescription": "Reducir el límite semanal legal sin reducir la remuneración. Los documentos proponen límites diferentes.",
-    "statement": "¿Debería reducirse la jornada laboral máxima manteniendo el salario?",
+    "neutralDescription": "Se propone trabajar menos horas por ley y mantener el salario. Cada propuesta fija un número de horas distinto.",
+    "statement": "¿Debería reducirse el máximo de horas de trabajo a la semana sin bajar el sueldo?",
     "argumentsFor": [
-      "Puede dejar más tiempo para descanso y cuidados."
+      "Puede dejar más tiempo para descansar y cuidar de otras personas."
     ],
     "argumentsAgainst": [
-      "Puede aumentar los costes por hora y exigir reorganizar turnos."
+      "Puede aumentar el coste por hora de trabajo y obligar a reorganizar los turnos."
     ],
     "importantNuances": [
-      "Compara la dirección de la medida; 30, 32, 35 y 37,5 horas no son compromisos idénticos."
+      "Se compara la idea de reducir las horas sin bajar el sueldo. Los límites de 30, 32, 35 y 37,5 horas son distintos."
     ],
     "relatedProposals": [
       "sumar-2023-jornada",
@@ -56,27 +56,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "smi",
-    "title": "¿Debería fijarse el salario mínimo en al menos el 60 % del salario medio?",
+    "title": "¿Debería ser el salario mínimo al menos el 60 % del salario medio?",
     "category": "employment",
     "categories": [
       "employment",
       "economy"
     ],
-    "neutralDescription": "Vincular el salario mínimo a una referencia salarial, en vez de elegir solo una cantidad fija.",
-    "statement": "¿Debería fijarse el salario mínimo en al menos el 60 % del salario medio?",
+    "neutralDescription": "Se usaría el salario medio como referencia: el mínimo no podría quedar por debajo de 6 de cada 10 euros de esa cantidad.",
+    "statement": "¿Debería ser el salario mínimo al menos el 60 % del salario medio?",
     "argumentsFor": [
-      "Puede mantener una referencia estable frente a la evolución salarial."
+      "Puede hacer que el salario mínimo siga la evolución de los demás salarios."
     ],
     "argumentsAgainst": [
-      "Puede elevar los costes de contratación en sectores con salarios bajos."
+      "Puede aumentar el coste de contratar en sectores con sueldos bajos."
     ],
     "importantNuances": [
-      "Importa si el salario de referencia es bruto, neto o territorial; no se equiparan automáticamente."
+      "Las propuestas pueden usar salarios antes o después de impuestos, o una referencia territorial distinta."
     ],
     "relatedProposals": [
       "psoe-smi",
@@ -102,27 +102,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "fortunas",
-    "title": "¿Debería mantenerse un impuesto específico sobre las grandes fortunas?",
+    "title": "¿Debería mantenerse un impuesto especial para las grandes fortunas?",
     "category": "tax",
     "categories": [
       "tax",
       "economy"
     ],
-    "neutralDescription": "Mantener un gravamen dirigido al patrimonio elevado.",
-    "statement": "¿Debería mantenerse un impuesto específico sobre las grandes fortunas?",
+    "neutralDescription": "Es un impuesto sobre patrimonios muy elevados: el valor de bienes y dinero, no solo lo que se gana cada año.",
+    "statement": "¿Debería mantenerse un impuesto especial para las grandes fortunas?",
     "argumentsFor": [
-      "Puede contribuir a la financiación pública con una base patrimonial."
+      "Puede aportar ingresos para financiar servicios públicos."
     ],
     "argumentsAgainst": [
-      "Puede afectar al ahorro y al lugar donde se declara el patrimonio."
+      "Puede influir en el ahorro y en el lugar donde se declara el patrimonio."
     ],
     "importantNuances": [
-      "El impuesto temporal de solidaridad y un nuevo tributo permanente pueden tener diseños distintos."
+      "Mantener el impuesto existente y crear uno nuevo para siempre pueden tener reglas distintas."
     ],
     "relatedProposals": [
       "pp-fortunas",
@@ -145,27 +145,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "banca-energia",
-    "title": "¿Deberían hacerse permanentes los gravámenes extraordinarios a banca y empresas energéticas?",
+    "title": "¿Deberían mantenerse de forma permanente los impuestos especiales a bancos y empresas energéticas?",
     "category": "tax",
     "categories": [
       "tax",
       "economy"
     ],
-    "neutralDescription": "Convertir en estables los gravámenes sectoriales creados con carácter temporal.",
-    "statement": "¿Deberían hacerse permanentes los gravámenes extraordinarios a banca y empresas energéticas?",
+    "neutralDescription": "Se propone que estos impuestos, creados como temporales, dejen de tener una fecha de finalización.",
+    "statement": "¿Deberían mantenerse de forma permanente los impuestos especiales a bancos y empresas energéticas?",
     "argumentsFor": [
-      "Puede aportar ingresos de sectores con beneficios elevados."
+      "Puede aportar ingresos públicos de estos sectores."
     ],
     "argumentsAgainst": [
-      "Puede repercutir en inversión, crédito o precios."
+      "Puede afectar a la inversión, a los préstamos o a los precios."
     ],
     "importantNuances": [
-      "No se compara cualquier impuesto de sociedades con estos gravámenes concretos."
+      "La pregunta trata de estos impuestos especiales, no de cualquier impuesto que paguen las empresas."
     ],
     "relatedProposals": [
       "sumar-2023-banca-energia",
@@ -184,26 +184,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "irpf-inflacion",
-    "title": "¿Deberían ajustarse los tramos del IRPF a la inflación?",
+    "title": "¿Debería ajustarse el impuesto sobre la renta cuando suben los precios?",
     "category": "tax",
     "categories": [
       "tax"
     ],
-    "neutralDescription": "Modificar los límites de los tramos para que una subida nominal de ingresos no implique por sí sola más carga fiscal.",
-    "statement": "¿Deberían ajustarse los tramos del IRPF a la inflación?",
+    "neutralDescription": "Se ajustarían los tramos del IRPF para que una subida de sueldo que solo compensa la subida de precios no aumente por sí sola la carga de este impuesto.",
+    "statement": "¿Debería ajustarse el impuesto sobre la renta cuando suben los precios?",
     "argumentsFor": [
-      "Puede evitar subidas impositivas derivadas de la inflación."
+      "Puede evitar que se paguen más impuestos solo por el efecto de la subida de precios."
     ],
     "argumentsAgainst": [
-      "Puede reducir ingresos públicos aunque aumenten los gastos nominales."
+      "Puede reducir los ingresos públicos mientras también suben los costes de los servicios."
     ],
     "importantNuances": [
-      "El ajuste puede aplicarse a todos los tramos o centrarse en determinados ingresos."
+      "El ajuste puede aplicarse a todos los niveles de ingresos o solo a algunos."
     ],
     "relatedProposals": [
       "pp-irpf-inflacion",
@@ -224,26 +224,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "iva-general",
-    "title": "¿Debería reducirse el tipo general del IVA?",
+    "title": "¿Debería bajarse el porcentaje general del IVA?",
     "category": "tax",
     "categories": [
       "tax"
     ],
-    "neutralDescription": "Bajar el porcentaje general que se aplica al consumo gravado.",
-    "statement": "¿Debería reducirse el tipo general del IVA?",
+    "neutralDescription": "El IVA es un impuesto incluido en muchos precios. Se propone bajar su porcentaje general, no solo el de un producto concreto.",
+    "statement": "¿Debería bajarse el porcentaje general del IVA?",
     "argumentsFor": [
-      "Puede reducir la carga fiscal del consumo."
+      "Puede reducir lo que se paga de impuestos al comprar."
     ],
     "argumentsAgainst": [
-      "Puede disminuir la recaudación sin trasladarse íntegramente a los precios."
+      "Puede reducir los ingresos públicos sin que toda la bajada llegue al precio final."
     ],
     "importantNuances": [
-      "Una bajada para un producto concreto no demuestra apoyo a reducir el tipo general."
+      "Bajar el IVA de un producto concreto no equivale a bajar el porcentaje general."
     ],
     "relatedProposals": [
       "vox-iva-general"
@@ -255,27 +255,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "pension-irpf",
-    "title": "¿Deberían estar exentas de IRPF las pensiones contributivas?",
+    "title": "¿Deberían quedar libres del impuesto sobre la renta las pensiones contributivas?",
     "category": "pensions",
     "categories": [
       "pensions",
       "tax"
     ],
-    "neutralDescription": "Excluir estas pensiones de la base de tributación de la renta.",
-    "statement": "¿Deberían estar exentas de IRPF las pensiones contributivas?",
+    "neutralDescription": "Se propone que estas pensiones no paguen IRPF. Son las pensiones vinculadas a lo aportado a la Seguridad Social durante la vida laboral.",
+    "statement": "¿Deberían quedar libres del impuesto sobre la renta las pensiones contributivas?",
     "argumentsFor": [
-      "Puede aumentar los ingresos disponibles de pensionistas."
+      "Puede dejar más dinero disponible a quienes cobran una pensión."
     ],
     "argumentsAgainst": [
-      "Puede tratar de forma diferente ingresos de igual cuantía y reducir recaudación."
+      "Puede reducir los ingresos públicos y dar un trato distinto a ingresos de la misma cantidad."
     ],
     "importantNuances": [
-      "Las pensiones mínimas con baja tributación no obtendrían el mismo efecto que las altas."
+      "Quienes ya pagan poco o nada por una pensión baja no tendrían el mismo beneficio que quienes cobran una pensión alta."
     ],
     "relatedProposals": [
       "vox-pension-irpf"
@@ -287,27 +287,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "sociedades",
-    "title": "¿Debería reducirse el tipo general del impuesto de sociedades al 15 %?",
+    "title": "¿Debería bajarse al 15 % el impuesto general sobre los beneficios de las empresas?",
     "category": "business",
     "categories": [
       "business",
       "tax"
     ],
-    "neutralDescription": "Aplicar un tipo general del 15 % a los beneficios empresariales.",
-    "statement": "¿Debería reducirse el tipo general del impuesto de sociedades al 15 %?",
+    "neutralDescription": "Se propone un porcentaje general del 15 % en el impuesto de sociedades. No es lo mismo que exigir que las empresas paguen como mínimo un 15 %.",
+    "statement": "¿Debería bajarse al 15 % el impuesto general sobre los beneficios de las empresas?",
     "argumentsFor": [
-      "Puede aumentar los recursos disponibles para inversión."
+      "Puede dejar más recursos a las empresas para invertir."
     ],
     "argumentsAgainst": [
-      "Puede reducir ingresos públicos y el gravamen de beneficios elevados."
+      "Puede reducir los ingresos públicos procedentes de los beneficios empresariales."
     ],
     "importantNuances": [
-      "Un tipo mínimo efectivo del 15 % es una medida distinta y no se interpreta como apoyo a esta bajada."
+      "Bajar el porcentaje general al 15 % y fijar un mínimo efectivo del 15 % son medidas diferentes."
     ],
     "relatedProposals": [
       "vox-sociedades",
@@ -320,27 +320,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "cuota-autonomos",
-    "title": "¿Deberían pagar cuota cero los nuevos autónomos durante su primer año?",
+    "title": "¿Deberían los nuevos autónomos dejar de pagar su cuota durante el primer año?",
     "category": "self-employed",
     "categories": [
       "self-employed",
       "employment"
     ],
-    "neutralDescription": "Eximir de cotización inicial a quienes comienzan una actividad autónoma.",
-    "statement": "¿Deberían pagar cuota cero los nuevos autónomos durante su primer año?",
+    "neutralDescription": "Quien empieza a trabajar por cuenta propia no pagaría la cuota a la Seguridad Social durante su primer año.",
+    "statement": "¿Deberían los nuevos autónomos dejar de pagar su cuota durante el primer año?",
     "argumentsFor": [
-      "Puede reducir el coste de iniciar una actividad."
+      "Puede reducir el coste de empezar una actividad."
     ],
     "argumentsAgainst": [
-      "Puede financiar actividades que se habrían iniciado igualmente."
+      "Puede dar apoyo público a actividades que se habrían iniciado sin esa ayuda."
     ],
     "importantNuances": [
-      "Una exención vinculada a ingresos bajos es distinta de una exención universal por comenzar."
+      "No pagar por tener ingresos bajos y no pagar por ser nuevo autónomo son medidas distintas."
     ],
     "relatedProposals": [
       "pp-cuota-autonomos",
@@ -354,28 +354,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "contratos-paraisos",
-    "title": "¿Debería impedirse contratar con empresas que usan paraísos fiscales sin actividad real allí?",
+    "title": "¿Debería la Administración dejar de contratar empresas que usan paraísos fiscales sin actividad real allí?",
     "category": "business",
     "categories": [
       "business",
       "administration",
       "tax"
     ],
-    "neutralDescription": "Excluir de contratos públicos empresas con sociedades en esos territorios sin una actividad económica que lo justifique.",
-    "statement": "¿Debería impedirse contratar con empresas que usan paraísos fiscales sin actividad real allí?",
+    "neutralDescription": "Los paraísos fiscales son territorios con ventajas fiscales. La medida excluiría de contratos públicos a empresas que tengan sociedades allí sin una actividad económica que lo justifique.",
+    "statement": "¿Debería la Administración dejar de contratar empresas que usan paraísos fiscales sin actividad real allí?",
     "argumentsFor": [
-      "Puede reducir incentivos a estructuras de evasión fiscal."
+      "Puede reducir el uso de estructuras empresariales para evitar impuestos."
     ],
     "argumentsAgainst": [
-      "Puede exigir controles complejos sobre grupos empresariales."
+      "Puede exigir controles difíciles sobre las empresas de un mismo grupo."
     ],
     "importantNuances": [
-      "Requiere definir jurisdicciones, actividad real y garantías de revisión."
+      "Habría que definir qué territorios se incluyen, qué cuenta como actividad real y cómo puede revisarse una exclusión."
     ],
     "relatedProposals": [
       "bng-contratos-paraisos",
@@ -390,26 +390,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "alquiler",
-    "title": "¿Deberían limitarse los precios del alquiler en zonas con dificultades de acceso a vivienda?",
+    "title": "¿Debería ponerse un límite al precio del alquiler en zonas donde es difícil acceder a una vivienda?",
     "category": "housing",
     "categories": [
       "housing"
     ],
-    "neutralDescription": "Establecer límites de renta en zonas identificadas mediante criterios públicos.",
-    "statement": "¿Deberían limitarse los precios del alquiler en zonas con dificultades de acceso a vivienda?",
+    "neutralDescription": "El límite se aplicaría en zonas identificadas con criterios públicos, no en todos los alquileres del país.",
+    "statement": "¿Debería ponerse un límite al precio del alquiler en zonas donde es difícil acceder a una vivienda?",
     "argumentsFor": [
-      "Puede contener aumentos del coste para inquilinos."
+      "Puede frenar las subidas del alquiler para los inquilinos."
     ],
     "argumentsAgainst": [
-      "Puede reducir oferta o incentivar vías para eludir los límites."
+      "Puede reducir las viviendas disponibles o hacer que se busquen formas de evitar el límite."
     ],
     "importantNuances": [
-      "Los criterios de zona, contratos afectados y excepciones cambian entre documentos."
+      "Cada propuesta define qué zonas y contratos quedarían incluidos y qué excepciones habría."
     ],
     "relatedProposals": [
       "sumar-2023-alquiler",
@@ -435,26 +435,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "vivienda-publica",
-    "title": "¿Debería ampliarse el parque público de vivienda asequible?",
+    "title": "¿Debería haber más viviendas públicas a precios asequibles?",
     "category": "housing",
     "categories": [
       "housing"
     ],
-    "neutralDescription": "Aumentar viviendas promovidas o gestionadas públicamente con precios o rentas sujetos a condiciones.",
-    "statement": "¿Debería ampliarse el parque público de vivienda asequible?",
+    "neutralDescription": "Se propone aumentar las viviendas construidas o gestionadas por la Administración, con condiciones que limitan su precio o alquiler.",
+    "statement": "¿Debería haber más viviendas públicas a precios asequibles?",
     "argumentsFor": [
-      "Puede ampliar alternativas para hogares con dificultades de acceso."
+      "Puede dar más opciones a quienes tienen dificultades para acceder a una vivienda."
     ],
     "argumentsAgainst": [
-      "Requiere financiación, suelo y gestión a largo plazo."
+      "Necesita dinero público, suelo y gestión a largo plazo."
     ],
     "importantNuances": [
-      "Alquiler, propiedad y opción de compra son instrumentos distintos; se conservan en cada resumen."
+      "Las propuestas pueden incluir alquiler, compra u opción de compra. Esas formas de acceso no son iguales."
     ],
     "relatedProposals": [
       "pp-vivienda-publica",
@@ -488,27 +488,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "hipotecas-jovenes",
-    "title": "¿Debería el Estado avalar hipotecas de jóvenes para cubrir hasta el 95 % del precio de la vivienda?",
+    "title": "¿Debería el Estado avalar hipotecas para que los jóvenes puedan financiar hasta el 95 % de una vivienda?",
     "category": "housing",
     "categories": [
       "housing",
       "family"
     ],
-    "neutralDescription": "Garantizar parte de préstamos para reducir el ahorro inicial necesario.",
-    "statement": "¿Debería el Estado avalar hipotecas de jóvenes para cubrir hasta el 95 % del precio de la vivienda?",
+    "neutralDescription": "Avalar significa garantizar parte del préstamo ante el banco. Permite necesitar menos ahorro inicial, pero la hipoteca sigue teniendo que devolverse.",
+    "statement": "¿Debería el Estado avalar hipotecas para que los jóvenes puedan financiar hasta el 95 % de una vivienda?",
     "argumentsFor": [
-      "Puede facilitar el acceso a compra de personas solventes sin ahorro suficiente."
+      "Puede facilitar la compra a jóvenes que pueden pagar las cuotas pero no tienen suficiente ahorro."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el endeudamiento y la demanda sin ampliar la oferta."
+      "Puede aumentar las deudas y la demanda de vivienda sin que haya más viviendas disponibles."
     ],
     "importantNuances": [
-      "No equivale a subvencionar todo el precio ni elimina el riesgo de impago."
+      "El aval no es una ayuda que pague toda la vivienda ni elimina el riesgo de no poder devolver el préstamo."
     ],
     "relatedProposals": [
       "pp-hipotecas-jovenes",
@@ -521,27 +521,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "desahucios",
-    "title": "¿Deberían impedirse desahucios de hogares vulnerables sin una alternativa habitacional?",
+    "title": "¿Deberían evitarse los desahucios de hogares vulnerables mientras no tengan otro lugar donde vivir?",
     "category": "housing",
     "categories": [
       "housing",
       "civil-rights"
     ],
-    "neutralDescription": "Condicionar el desalojo a que exista una solución de vivienda para hogares definidos como vulnerables.",
-    "statement": "¿Deberían impedirse desahucios de hogares vulnerables sin una alternativa habitacional?",
+    "neutralDescription": "Se propone impedir que un hogar considerado vulnerable sea obligado a dejar su vivienda sin que exista una alternativa donde vivir.",
+    "statement": "¿Deberían evitarse los desahucios de hogares vulnerables mientras no tengan otro lugar donde vivir?",
     "argumentsFor": [
-      "Puede prevenir situaciones de falta de alojamiento."
+      "Puede evitar que alguien se quede sin alojamiento."
     ],
     "argumentsAgainst": [
       "Puede trasladar costes o retrasos a propietarios y administraciones."
     ],
     "importantNuances": [
-      "La vulnerabilidad, las obligaciones públicas y las situaciones cubiertas deben definirse."
+      "Hay que definir qué hogares son vulnerables, qué casos quedan incluidos y quién debe ofrecer la alternativa."
     ],
     "relatedProposals": [
       "erc-desahucios",
@@ -561,26 +561,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "dental",
-    "title": "¿Debería ampliarse la cobertura de salud bucodental de la sanidad pública?",
+    "title": "¿Debería la sanidad pública cubrir más tratamientos dentales?",
     "category": "health",
     "categories": [
       "health"
     ],
-    "neutralDescription": "Incluir más prestaciones dentales financiadas por el sistema público.",
-    "statement": "¿Debería ampliarse la cobertura de salud bucodental de la sanidad pública?",
+    "neutralDescription": "Se propone que el sistema público pague u ofrezca más cuidados de los dientes y la boca.",
+    "statement": "¿Debería la sanidad pública cubrir más tratamientos dentales?",
     "argumentsFor": [
-      "Puede reducir barreras económicas de acceso."
+      "Puede facilitar el acceso a quienes no pueden pagar esos tratamientos."
     ],
     "argumentsAgainst": [
-      "Exige presupuesto y profesionales adicionales."
+      "Necesita más presupuesto y profesionales."
     ],
     "importantNuances": [
-      "La cartera concreta y los grupos de población cubiertos importan."
+      "Las propuestas pueden cubrir tratamientos o grupos de población distintos."
     ],
     "relatedProposals": [
       "psoe-dental",
@@ -603,26 +603,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "espera-sanitaria",
-    "title": "¿Deberían fijarse por ley tiempos máximos de espera sanitaria?",
+    "title": "¿Debería la ley fijar un tiempo máximo de espera para consultas, pruebas y operaciones médicas?",
     "category": "health",
     "categories": [
       "health"
     ],
-    "neutralDescription": "Establecer plazos exigibles para determinadas intervenciones, consultas o pruebas.",
-    "statement": "¿Deberían fijarse por ley tiempos máximos de espera sanitaria?",
+    "neutralDescription": "Se propone poner plazos que la sanidad deba cumplir para determinadas consultas, pruebas u operaciones.",
+    "statement": "¿Debería la ley fijar un tiempo máximo de espera para consultas, pruebas y operaciones médicas?",
     "argumentsFor": [
-      "Puede dar garantías y hacer visibles los retrasos."
+      "Puede dar garantías a los pacientes y permitir conocer los retrasos."
     ],
     "argumentsAgainst": [
-      "Una garantía sin recursos puede desplazar esperas a otras prestaciones."
+      "Sin más recursos, puede trasladar las esperas a otros servicios sanitarios."
     ],
     "importantNuances": [
-      "Los plazos y las consecuencias de incumplirlos varían; no se asumen resultados garantizados."
+      "Los plazos y lo que ocurre si se incumplen varían. Fijar un plazo no garantiza por sí solo que se cumpla."
     ],
     "relatedProposals": [
       "psoe-espera-sanitaria",
@@ -639,27 +639,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "cannabis",
-    "title": "¿Debería regularse el uso medicinal del cannabis?",
+    "title": "¿Debería permitirse y regularse el uso del cannabis como tratamiento médico?",
     "category": "health",
     "categories": [
       "health",
       "civil-rights"
     ],
-    "neutralDescription": "Autorizar y regular su utilización terapéutica bajo condiciones sanitarias.",
-    "statement": "¿Debería regularse el uso medicinal del cannabis?",
+    "neutralDescription": "Se refiere al uso medicinal bajo condiciones sanitarias, no a permitir cualquier uso del cannabis.",
+    "statement": "¿Debería permitirse y regularse el uso del cannabis como tratamiento médico?",
     "argumentsFor": [
-      "Puede ofrecer una vía controlada a pacientes con indicación adecuada."
+      "Puede ofrecer una vía controlada para pacientes a quienes se les indique este tratamiento."
     ],
     "argumentsAgainst": [
-      "Exige evaluar indicaciones, seguridad y supervisión."
+      "Necesita evaluar para qué tratamientos sirve, sus riesgos y cómo se supervisa."
     ],
     "importantNuances": [
-      "La legalización de todos los usos no equivale por sí sola a una regulación medicinal concreta."
+      "Permitir el consumo para otros fines no equivale a regular su uso médico."
     ],
     "relatedProposals": [
       "pnv-cannabis",
@@ -682,27 +682,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "infantil",
-    "title": "¿Debería ser universal y gratuita la educación de 0 a 3 años?",
+    "title": "¿Debería la educación de 0 a 3 años ser gratuita y estar disponible para todos los niños?",
     "category": "education",
     "categories": [
       "education",
       "family"
     ],
-    "neutralDescription": "Garantizar el acceso al primer ciclo infantil sin coste de escolarización.",
-    "statement": "¿Debería ser universal y gratuita la educación de 0 a 3 años?",
+    "neutralDescription": "Se propone que todas las familias puedan acceder al primer ciclo de educación infantil sin pagar por la escolarización.",
+    "statement": "¿Debería la educación de 0 a 3 años ser gratuita y estar disponible para todos los niños?",
     "argumentsFor": [
-      "Puede facilitar cuidados y reducir diferencias de acceso."
+      "Puede facilitar los cuidados y reducir las diferencias de acceso."
     ],
     "argumentsAgainst": [
-      "Requiere plazas, personal y financiación estable."
+      "Necesita plazas, personal y financiación estable."
     ],
     "importantNuances": [
-      "Universalizar sin mencionar gratuidad no basta para atribuir apoyo completo a esta medida."
+      "Ofrecer plazas a todos y hacerlas gratuitas son dos condiciones de esta misma medida."
     ],
     "relatedProposals": [
       "pp-infantil",
@@ -732,27 +732,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "ebau",
-    "title": "¿Debería haber una prueba de acceso a la universidad común para todo el territorio?",
+    "title": "¿Debería haber una prueba de acceso a la universidad común en toda España?",
     "category": "universities",
     "categories": [
       "universities",
       "education"
     ],
-    "neutralDescription": "Unificar las condiciones básicas y evaluación del acceso universitario.",
-    "statement": "¿Debería haber una prueba de acceso a la universidad común para todo el territorio?",
+    "neutralDescription": "Se propone compartir las condiciones básicas y la evaluación del examen de acceso a la universidad entre territorios.",
+    "statement": "¿Debería haber una prueba de acceso a la universidad común en toda España?",
     "argumentsFor": [
-      "Puede facilitar comparar condiciones de acceso."
+      "Puede facilitar que se comparen las condiciones de acceso."
     ],
     "argumentsAgainst": [
-      "Puede limitar la adaptación a currículos y competencias territoriales."
+      "Puede limitar la adaptación a los contenidos educativos de cada territorio."
     ],
     "importantNuances": [
-      "Una base común no necesariamente implica preguntas idénticas en cada lengua."
+      "Una base común no significa necesariamente preguntas idénticas en todas las lenguas."
     ],
     "relatedProposals": [
       "pp-ebau",
@@ -769,27 +769,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "ciencia-abierta",
-    "title": "¿Deberían publicarse los resultados y datos científicos en repositorios de acceso abierto?",
+    "title": "¿Deberían poder consultarse libremente los resultados y datos de las investigaciones científicas?",
     "category": "technology",
     "categories": [
       "technology",
       "universities"
     ],
-    "neutralDescription": "Hacer consultables resultados y datos de investigación mediante repositorios abiertos.",
-    "statement": "¿Deberían publicarse los resultados y datos científicos en repositorios de acceso abierto?",
+    "neutralDescription": "Se publicarían en archivos digitales abiertos para que otras personas puedan consultarlos y reutilizarlos.",
+    "statement": "¿Deberían poder consultarse libremente los resultados y datos de las investigaciones científicas?",
     "argumentsFor": [
-      "Puede facilitar reutilización y acceso al conocimiento."
+      "Puede facilitar el acceso al conocimiento y su uso en otras investigaciones."
     ],
     "argumentsAgainst": [
-      "Puede exigir cambios en publicación, propiedad intelectual y costes."
+      "Puede exigir cambios en los derechos de publicación y en cómo se pagan las publicaciones."
     ],
     "importantNuances": [
-      "Los datos personales, la seguridad y determinadas patentes pueden requerir excepciones."
+      "Los datos personales, la seguridad y algunas patentes pueden requerir excepciones."
     ],
     "relatedProposals": [
       "sumar-2023-ciencia-abierta",
@@ -806,26 +806,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "pension-ipc",
-    "title": "¿Deberían actualizarse las pensiones según el IPC?",
+    "title": "¿Deberían actualizarse las pensiones según la subida de precios?",
     "category": "pensions",
     "categories": [
       "pensions"
     ],
-    "neutralDescription": "Vincular la revalorización a la evolución de precios al consumo.",
-    "statement": "¿Deberían actualizarse las pensiones según el IPC?",
+    "neutralDescription": "Se usaría el IPC, el indicador de los precios al consumo, para actualizar las pensiones.",
+    "statement": "¿Deberían actualizarse las pensiones según la subida de precios?",
     "argumentsFor": [
-      "Puede mantener poder adquisitivo frente a inflación."
+      "Puede ayudar a que las pensiones no pierdan capacidad de compra cuando suben los precios."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el gasto cuando los ingresos del sistema crecen menos."
+      "Puede aumentar el gasto en pensiones más que los ingresos del sistema."
     ],
     "importantNuances": [
-      "No implica que todas las pensiones suban lo mismo ni define por sí sola su financiación."
+      "La medida no define por sí sola cómo se paga la subida ni implica el mismo aumento en todas las pensiones."
     ],
     "relatedProposals": [
       "psoe-pension-ipc",
@@ -851,27 +851,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "jubilacion",
-    "title": "¿Debería situarse la edad ordinaria de jubilación en 65 años?",
+    "title": "¿Debería fijarse en 65 años la edad normal de jubilación?",
     "category": "pensions",
     "categories": [
       "pensions",
       "employment"
     ],
-    "neutralDescription": "Establecer esa edad como referencia ordinaria de acceso a la jubilación.",
-    "statement": "¿Debería situarse la edad ordinaria de jubilación en 65 años?",
+    "neutralDescription": "Se propone que los 65 años sean la edad de referencia para jubilarse de forma ordinaria.",
+    "statement": "¿Debería fijarse en 65 años la edad normal de jubilación?",
     "argumentsFor": [
-      "Puede adelantar el acceso al retiro."
+      "Puede permitir jubilarse antes."
     ],
     "argumentsAgainst": [
-      "Puede aumentar el tiempo de percepción de pensiones y las necesidades de financiación."
+      "Puede aumentar los años durante los que se cobra una pensión y el dinero necesario para financiarla."
     ],
     "importantNuances": [
-      "No se equipara una jubilación anticipada para oficios concretos con la edad ordinaria general."
+      "La pregunta no trata de adelantar la jubilación solo para determinados trabajos."
     ],
     "relatedProposals": [
       "bng-jubilacion",
@@ -888,27 +888,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "regularizacion",
-    "title": "¿Deberían ampliarse las vías de regularización de personas migrantes sin autorización de residencia?",
+    "title": "¿Debería haber más vías para obtener un permiso de residencia para quienes viven aquí sin él?",
     "category": "immigration",
     "categories": [
       "immigration",
       "employment"
     ],
-    "neutralDescription": "Crear o ampliar procedimientos para acceder a residencia legal.",
-    "statement": "¿Deberían ampliarse las vías de regularización de personas migrantes sin autorización de residencia?",
+    "neutralDescription": "Se propone crear o ampliar trámites para que personas migrantes sin permiso de residencia puedan conseguirlo legalmente.",
+    "statement": "¿Debería haber más vías para obtener un permiso de residencia para quienes viven aquí sin él?",
     "argumentsFor": [
-      "Puede facilitar empleo formal y acceso a derechos."
+      "Puede facilitar el trabajo con contrato y el acceso a derechos."
     ],
     "argumentsAgainst": [
-      "Puede exigir recursos administrativos y debatir los requisitos de acceso."
+      "Necesita recursos para tramitar las solicitudes y definir quién puede acceder."
     ],
     "importantNuances": [
-      "Regularización permanente, extraordinaria y arraigo tienen condiciones distintas."
+      "Las propuestas pueden ser permanentes o excepcionales y tener requisitos diferentes."
     ],
     "relatedProposals": [
       "sumar-2023-regularizacion",
@@ -935,7 +935,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
@@ -946,16 +946,16 @@
       "immigration",
       "civil-rights"
     ],
-    "neutralDescription": "Eliminar estos centros de privación de libertad administrativa vinculados a extranjería.",
+    "neutralDescription": "Son centros donde pueden permanecer retenidas personas extranjeras mientras se tramita una posible expulsión. Se propone cerrarlos.",
     "statement": "¿Deberían cerrarse los centros de internamiento de extranjeros?",
     "argumentsFor": [
-      "Puede evitar daños asociados al internamiento."
+      "Puede evitar los daños asociados a permanecer en estos centros."
     ],
     "argumentsAgainst": [
-      "Puede requerir alternativas para ejecutar procedimientos de retorno."
+      "Puede requerir otras formas de gestionar los procedimientos de expulsión."
     ],
     "importantNuances": [
-      "No implica eliminar todos los procedimientos de extranjería."
+      "Cerrar estos centros no significa eliminar todos los trámites y procedimientos de extranjería."
     ],
     "relatedProposals": [
       "sumar-2023-cie",
@@ -973,27 +973,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "residencia-trabajo",
-    "title": "¿Debería poder obtenerse residencia por contrato de trabajo sin pasar por el proceso de arraigo?",
+    "title": "¿Debería poder obtenerse un permiso de residencia mediante un contrato de trabajo, sin usar la vía del arraigo?",
     "category": "immigration",
     "categories": [
       "immigration",
       "employment"
     ],
-    "neutralDescription": "Permitir otra vía de residencia a personas migrantes con contrato laboral.",
-    "statement": "¿Debería poder obtenerse residencia por contrato de trabajo sin pasar por el proceso de arraigo?",
+    "neutralDescription": "El arraigo es una vía de residencia basada en los vínculos con el país. Se propone otra vía con un contrato de trabajo, sin eliminar los demás requisitos.",
+    "statement": "¿Debería poder obtenerse un permiso de residencia mediante un contrato de trabajo, sin usar la vía del arraigo?",
     "argumentsFor": [
-      "Puede facilitar la incorporación al empleo formal."
+      "Puede facilitar el acceso al trabajo con contrato."
     ],
     "argumentsAgainst": [
-      "Puede exigir controles sobre contratos y condiciones laborales."
+      "Necesita comprobar que los contratos y las condiciones de trabajo son válidos."
     ],
     "importantNuances": [
-      "La medida documentada no elimina todos los requisitos migratorios."
+      "Tener un contrato no supondría eliminar todos los demás requisitos de residencia."
     ],
     "relatedProposals": [
       "pnv-residencia-trabajo"
@@ -1005,27 +1005,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "pelotas-goma",
-    "title": "¿Debería prohibirse el uso policial de pelotas de goma?",
+    "title": "¿Debería prohibirse que la policía use pelotas de goma?",
     "category": "security",
     "categories": [
       "security",
       "civil-rights"
     ],
-    "neutralDescription": "Excluir este material de los dispositivos policiales.",
-    "statement": "¿Debería prohibirse el uso policial de pelotas de goma?",
+    "neutralDescription": "Se propone que la policía deje de usar este material en sus intervenciones.",
+    "statement": "¿Debería prohibirse que la policía use pelotas de goma?",
     "argumentsFor": [
-      "Puede reducir lesiones graves asociadas a su impacto."
+      "Puede reducir las lesiones graves causadas por sus impactos."
     ],
     "argumentsAgainst": [
-      "Puede exigir revisar medios alternativos de intervención."
+      "Puede exigir otros medios de intervención policial."
     ],
     "importantNuances": [
-      "Se compara este material concreto; no se deduce una posición sobre toda actuación policial."
+      "La pregunta trata solo de las pelotas de goma, no de toda la actuación policial."
     ],
     "relatedProposals": [
       "sumar-2023-pelotas-goma",
@@ -1047,26 +1047,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "cgpj",
-    "title": "¿Deberían los jueces elegir a los doce vocales judiciales del Consejo General del Poder Judicial?",
+    "title": "¿Deberían los propios jueces elegir a los 12 jueces del Consejo General del Poder Judicial?",
     "category": "justice",
     "categories": [
       "justice"
     ],
-    "neutralDescription": "Cambiar la elección de los vocales procedentes de la judicatura para que los elijan jueces y magistrados.",
-    "statement": "¿Deberían los jueces elegir a los doce vocales judiciales del Consejo General del Poder Judicial?",
+    "neutralDescription": "Este consejo es el órgano de gobierno de los jueces. La medida afecta solo a los 12 miembros que son jueces o magistrados.",
+    "statement": "¿Deberían los propios jueces elegir a los 12 jueces del Consejo General del Poder Judicial?",
     "argumentsFor": [
-      "Puede disminuir la intervención de partidos en esos nombramientos."
+      "Puede reducir la intervención de los partidos en esos nombramientos."
     ],
     "argumentsAgainst": [
-      "Puede reforzar el peso de asociaciones y limitar la participación parlamentaria."
+      "Puede dar más peso a las asociaciones de jueces y menos al Parlamento."
     ],
     "importantNuances": [
-      "Elegir todos los vocales mediante jueces excede esta medida; se muestra como propuesta relacionada con matices."
+      "Que los jueces elijan a los 12 miembros judiciales no es lo mismo que elegir a todos los miembros del consejo."
     ],
     "relatedProposals": [
       "pp-cgpj",
@@ -1083,27 +1083,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "seguridad-ciudadana",
-    "title": "¿Debería derogarse la Ley Orgánica de Seguridad Ciudadana de 2015?",
+    "title": "¿Debería eliminarse la Ley de Seguridad Ciudadana de 2015 y sustituirse por otra regulación?",
     "category": "civil-rights",
     "categories": [
       "civil-rights",
       "security"
     ],
-    "neutralDescription": "Derogar la norma de 2015 y sustituir su regulación.",
-    "statement": "¿Debería derogarse la Ley Orgánica de Seguridad Ciudadana de 2015?",
+    "neutralDescription": "Esta ley regula aspectos de la seguridad pública, las actuaciones policiales y las sanciones. Se propone quitar la ley completa, no cambiar solo algunos artículos.",
+    "statement": "¿Debería eliminarse la Ley de Seguridad Ciudadana de 2015 y sustituirse por otra regulación?",
     "argumentsFor": [
-      "Puede revisar restricciones de reunión y expresión."
+      "Puede revisar las restricciones a la reunión y la expresión."
     ],
     "argumentsAgainst": [
-      "Puede requerir nuevas reglas para mantener garantías y seguridad."
+      "Necesita nuevas reglas que mantengan las garantías y la seguridad."
     ],
     "importantNuances": [
-      "Modificar artículos concretos es distinto de derogar la ley completa."
+      "Cambiar algunos artículos no es lo mismo que eliminar la ley completa."
     ],
     "relatedProposals": [
       "sumar-2023-seguridad-ciudadana",
@@ -1128,27 +1128,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "planes-igualdad",
-    "title": "¿Deberían evaluarse los resultados de los planes de igualdad de las empresas?",
+    "title": "¿Debería comprobarse si los planes de igualdad de las empresas funcionan?",
     "category": "equality",
     "categories": [
       "equality",
       "business"
     ],
-    "neutralDescription": "Comprobar con indicadores los efectos de estos planes.",
-    "statement": "¿Deberían evaluarse los resultados de los planes de igualdad de las empresas?",
+    "neutralDescription": "Se evaluarían los resultados de las medidas que buscan la igualdad entre mujeres y hombres en el trabajo.",
+    "statement": "¿Debería comprobarse si los planes de igualdad de las empresas funcionan?",
     "argumentsFor": [
-      "Puede permitir detectar medidas que no cumplen sus objetivos."
+      "Puede ayudar a detectar medidas que no están dando resultado."
     ],
     "argumentsAgainst": [
-      "Puede aumentar obligaciones administrativas y exigir indicadores fiables."
+      "Puede aumentar los trámites para las empresas y exige datos fiables."
     ],
     "importantNuances": [
-      "Evaluar resultados no equivale a respaldar cualquier contenido de un plan."
+      "Evaluar los resultados no significa estar de acuerdo con todas las medidas de un plan."
     ],
     "relatedProposals": [
       "pp-planes-igualdad",
@@ -1170,28 +1170,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "aborto-publico",
-    "title": "¿Debería garantizarse el acceso a la interrupción voluntaria del embarazo en centros públicos?",
+    "title": "¿Debería garantizarse el acceso al aborto en centros de la sanidad pública?",
     "category": "equality",
     "categories": [
       "equality",
       "health",
       "civil-rights"
     ],
-    "neutralDescription": "Ofrecer esta prestación en la red sanitaria pública con acceso territorial efectivo.",
-    "statement": "¿Debería garantizarse el acceso a la interrupción voluntaria del embarazo en centros públicos?",
+    "neutralDescription": "Se propone que esta atención esté disponible de forma efectiva en la red pública, sin que el lugar donde se vive impida acceder a ella.",
+    "statement": "¿Debería garantizarse el acceso al aborto en centros de la sanidad pública?",
     "argumentsFor": [
-      "Puede reducir desplazamientos y barreras de acceso."
+      "Puede reducir los desplazamientos y las dificultades de acceso."
     ],
     "argumentsAgainst": [
-      "Puede exigir organizar equipos y compatibilizar distintos derechos en la prestación."
+      "Necesita organizar equipos sanitarios y compatibilizar los derechos de pacientes y profesionales."
     ],
     "importantNuances": [
-      "Se distingue garantizar acceso de las condiciones y plazos legales concretos."
+      "La pregunta trata del acceso en la sanidad pública, no de cambiar los plazos o requisitos legales para abortar."
     ],
     "relatedProposals": [
       "sumar-2023-aborto-publico",
@@ -1220,28 +1220,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "permiso-nacimiento",
-    "title": "¿Deberían ampliarse los permisos retribuidos por nacimiento?",
+    "title": "¿Deberían durar más los permisos pagados tras el nacimiento de un hijo?",
     "category": "family",
     "categories": [
       "family",
       "equality",
       "employment"
     ],
-    "neutralDescription": "Aumentar la duración financiada del permiso para cuidar tras un nacimiento.",
-    "statement": "¿Deberían ampliarse los permisos retribuidos por nacimiento?",
+    "neutralDescription": "Se propone ampliar el tiempo de permiso con ingresos para cuidar después de un nacimiento.",
+    "statement": "¿Deberían durar más los permisos pagados tras el nacimiento de un hijo?",
     "argumentsFor": [
-      "Puede ampliar el tiempo disponible para cuidado."
+      "Puede dar más tiempo para cuidar."
     ],
     "argumentsAgainst": [
-      "Puede aumentar gasto y necesidades de sustitución laboral."
+      "Puede aumentar el gasto y la necesidad de sustituir a quienes están de permiso."
     ],
     "importantNuances": [
-      "Las semanas y reglas de transferencia entre progenitores no se equiparan."
+      "Las propuestas pueden cambiar las semanas o la posibilidad de compartir parte del permiso entre los progenitores."
     ],
     "relatedProposals": [
       "psoe-permiso-nacimiento",
@@ -1261,27 +1261,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "crianza",
-    "title": "¿Debería crearse una prestación económica por crianza hasta los 18 años?",
+    "title": "¿Debería crearse una ayuda económica para criar a los hijos hasta los 18 años?",
     "category": "family",
     "categories": [
       "family",
       "economy"
     ],
-    "neutralDescription": "Establecer una ayuda periódica asociada a la crianza de menores.",
-    "statement": "¿Debería crearse una prestación económica por crianza hasta los 18 años?",
+    "neutralDescription": "Sería una ayuda periódica para familias con menores. La cantidad y los requisitos de ingresos dependen de cada propuesta.",
+    "statement": "¿Debería crearse una ayuda económica para criar a los hijos hasta los 18 años?",
     "argumentsFor": [
-      "Puede apoyar gastos familiares y reducir pobreza infantil."
+      "Puede ayudar con los gastos familiares y reducir la pobreza infantil."
     ],
     "argumentsAgainst": [
-      "Puede exigir decidir prioridades de gasto y criterios de acceso."
+      "Necesita financiación y decidir qué familias pueden recibirla."
     ],
     "importantNuances": [
-      "La cuantía y los límites de renta deben consultarse; no se presume universalidad si no se indica."
+      "La pregunta no supone que todas las familias reciban la misma cantidad ni que la ayuda llegue a todos sin requisitos."
     ],
     "relatedProposals": [
       "psoe-crianza",
@@ -1299,27 +1299,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "nuclear",
-    "title": "¿Debería prolongarse la vida de las centrales nucleares existentes?",
+    "title": "¿Deberían seguir funcionando las centrales nucleares actuales más allá de su fecha prevista de cierre?",
     "category": "energy",
     "categories": [
       "energy",
       "climate"
     ],
-    "neutralDescription": "Mantener operativas centrales más allá de sus calendarios de cierre.",
-    "statement": "¿Debería prolongarse la vida de las centrales nucleares existentes?",
+    "neutralDescription": "Se propone ampliar el tiempo de funcionamiento de las centrales existentes, con las autorizaciones de seguridad correspondientes.",
+    "statement": "¿Deberían seguir funcionando las centrales nucleares actuales más allá de su fecha prevista de cierre?",
     "argumentsFor": [
-      "Puede conservar generación eléctrica disponible."
+      "Puede mantener una fuente de producción de electricidad."
     ],
     "argumentsAgainst": [
-      "Puede prolongar necesidades de gestión de residuos y de seguridad."
+      "Puede prolongar la necesidad de gestionar residuos y asegurar las instalaciones."
     ],
     "importantNuances": [
-      "Las autorizaciones de seguridad y calendarios se conservan como condiciones del documento."
+      "Las condiciones de seguridad y las fechas de cierre de cada propuesta pueden ser distintas."
     ],
     "relatedProposals": [
       "pp-nuclear",
@@ -1342,27 +1342,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "energia-publica",
-    "title": "¿Debería haber una empresa pública de energía que gestione centrales hidroeléctricas al terminar sus concesiones?",
+    "title": "¿Debería una empresa pública gestionar las centrales hidroeléctricas cuando terminen sus concesiones?",
     "category": "energy",
     "categories": [
       "energy",
       "economy"
     ],
-    "neutralDescription": "Incorporar instalaciones con concesiones vencidas a una empresa pública energética.",
-    "statement": "¿Debería haber una empresa pública de energía que gestione centrales hidroeléctricas al terminar sus concesiones?",
+    "neutralDescription": "Estas centrales producen electricidad con agua. Cuando termine el permiso temporal para explotarlas, pasarían a ser gestionadas por una empresa pública.",
+    "statement": "¿Debería una empresa pública gestionar las centrales hidroeléctricas cuando terminen sus concesiones?",
     "argumentsFor": [
-      "Puede dar capacidad de gestión pública de generación eléctrica."
+      "Puede dar a la Administración más capacidad para gestionar la producción de electricidad."
     ],
     "argumentsAgainst": [
-      "Exige gestión, inversión y definir relación con otros operadores."
+      "Necesita gestión, inversión y reglas para relacionarse con las demás empresas del sector."
     ],
     "importantNuances": [
-      "Crear una comercializadora pública no demuestra por sí solo apoyo a esta gestión de centrales."
+      "Vender electricidad a través de una empresa pública no es lo mismo que gestionar estas centrales."
     ],
     "relatedProposals": [
       "sumar-2023-energia-publica",
@@ -1377,27 +1377,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "renovables",
-    "title": "¿Debería fijarse un objetivo de al menos el 90 % de electricidad renovable para 2030?",
+    "title": "¿Debería al menos el 90 % de la electricidad proceder de energías renovables para 2030?",
     "category": "climate",
     "categories": [
       "climate",
       "energy"
     ],
-    "neutralDescription": "Establecer una meta de generación eléctrica renovable para esa fecha.",
-    "statement": "¿Debería fijarse un objetivo de al menos el 90 % de electricidad renovable para 2030?",
+    "neutralDescription": "La meta se refiere a la electricidad producida, no a toda la energía que se consume, como el combustible de los vehículos.",
+    "statement": "¿Debería al menos el 90 % de la electricidad proceder de energías renovables para 2030?",
     "argumentsFor": [
-      "Puede acelerar la reducción de emisiones eléctricas."
+      "Puede reducir las emisiones al producir electricidad."
     ],
     "argumentsAgainst": [
-      "Requiere redes, almacenamiento e inversiones para mantener suministro."
+      "Necesita inversiones en redes y almacenamiento para asegurar el suministro."
     ],
     "importantNuances": [
-      "Electricidad no equivale al total de energía consumida; porcentajes inferiores son metas distintas."
+      "Un objetivo inferior al 90 % o un objetivo para toda la energía no es la misma medida."
     ],
     "relatedProposals": [
       "sumar-2023-renovables",
@@ -1410,27 +1410,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "restauracion",
-    "title": "¿Debería aprobarse una estrategia nacional para restaurar ecosistemas degradados?",
+    "title": "¿Debería haber un plan nacional para recuperar espacios naturales deteriorados?",
     "category": "environment",
     "categories": [
       "environment",
       "climate"
     ],
-    "neutralDescription": "Coordinar mediante una estrategia nacional la recuperación de ecosistemas.",
-    "statement": "¿Debería aprobarse una estrategia nacional para restaurar ecosistemas degradados?",
+    "neutralDescription": "Se propone coordinar la recuperación de ecosistemas, es decir, de espacios naturales y los seres vivos que los forman.",
+    "statement": "¿Debería haber un plan nacional para recuperar espacios naturales deteriorados?",
     "argumentsFor": [
-      "Puede recuperar funciones ecológicas y biodiversidad."
+      "Puede recuperar la diversidad de seres vivos y las funciones de esos espacios."
     ],
     "argumentsAgainst": [
-      "Puede exigir recursos y cambiar determinados usos del suelo."
+      "Necesita recursos y puede cambiar algunos usos del terreno."
     ],
     "importantNuances": [
-      "La restauración no implica prohibir de forma general toda actividad económica."
+      "Recuperar estos espacios no significa prohibir toda actividad económica en ellos."
     ],
     "relatedProposals": [
       "sumar-2023-restauracion",
@@ -1443,27 +1443,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "jets",
-    "title": "¿Deberían restringirse los vuelos en aviones privados?",
+    "title": "¿Deberían limitarse los vuelos en aviones privados?",
     "category": "transport",
     "categories": [
       "transport",
       "climate"
     ],
-    "neutralDescription": "Limitar el uso de aviación privada por razones ambientales.",
-    "statement": "¿Deberían restringirse los vuelos en aviones privados?",
+    "neutralDescription": "Se propone limitar la aviación privada por su impacto ambiental. Habría que definir qué vuelos quedarían incluidos.",
+    "statement": "¿Deberían limitarse los vuelos en aviones privados?",
     "argumentsFor": [
-      "Puede reducir emisiones de usos con pocos pasajeros."
+      "Puede reducir las emisiones de vuelos con pocos pasajeros."
     ],
     "argumentsAgainst": [
-      "Puede afectar a servicios y requerir delimitar excepciones."
+      "Puede afectar a algunos servicios y requiere definir excepciones."
     ],
     "importantNuances": [
-      "Se distinguen vuelos privados de servicios sanitarios o públicos esenciales."
+      "Se distinguen los vuelos privados de los servicios sanitarios y otros servicios públicos esenciales."
     ],
     "relatedProposals": [
       "sumar-2023-jets"
@@ -1475,27 +1475,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "transporte-joven",
-    "title": "¿Debería ser gratuito el transporte público para menores y estudiantes jóvenes?",
+    "title": "¿Debería ser gratis el transporte público para menores y estudiantes jóvenes?",
     "category": "transport",
     "categories": [
       "transport",
       "family"
     ],
-    "neutralDescription": "Eliminar el coste de determinados viajes para esos colectivos.",
-    "statement": "¿Debería ser gratuito el transporte público para menores y estudiantes jóvenes?",
+    "neutralDescription": "Se propone no cobrar determinados viajes a estos grupos. Las edades y los transportes incluidos dependen de cada propuesta.",
+    "statement": "¿Debería ser gratis el transporte público para menores y estudiantes jóvenes?",
     "argumentsFor": [
-      "Puede facilitar movilidad y uso de transporte colectivo."
+      "Puede facilitar los desplazamientos y el uso del transporte público."
     ],
     "argumentsAgainst": [
-      "Puede requerir financiación y ampliar servicios para absorber demanda."
+      "Necesita financiación y puede requerir más servicios si aumenta el número de viajeros."
     ],
     "importantNuances": [
-      "Los límites de edad, tipos de transporte y condición de estudiante varían."
+      "Las edades, los medios de transporte y los requisitos para estudiantes pueden ser distintos."
     ],
     "relatedProposals": [
       "psoe-transporte-joven",
@@ -1517,27 +1517,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "cadena-alimentaria",
-    "title": "¿Debería reforzarse la prohibición de pagar a productores agrarios por debajo de sus costes?",
+    "title": "¿Debería controlarse mejor que agricultores y ganaderos no cobren menos de lo que les cuesta producir?",
     "category": "agriculture",
     "categories": [
       "agriculture",
       "business"
     ],
-    "neutralDescription": "Mejorar reglas y control para que el precio recibido cubra costes de producción.",
-    "statement": "¿Debería reforzarse la prohibición de pagar a productores agrarios por debajo de sus costes?",
+    "neutralDescription": "Se propone reforzar las reglas y las inspecciones para que el precio recibido cubra los costes de producción.",
+    "statement": "¿Debería controlarse mejor que agricultores y ganaderos no cobren menos de lo que les cuesta producir?",
     "argumentsFor": [
-      "Puede reducir desequilibrios en la cadena alimentaria."
+      "Puede reducir la desventaja de los productores al negociar los precios."
     ],
     "argumentsAgainst": [
-      "Puede ser difícil calcular costes y trasladarse a precios finales."
+      "Puede ser difícil calcular los costes y puede afectar al precio final de los alimentos."
     ],
     "importantNuances": [
-      "Las referencias de coste y las herramientas de inspección cambian entre propuestas."
+      "Cada propuesta puede definir de forma distinta cómo se calculan los costes y cómo se controla su cumplimiento."
     ],
     "relatedProposals": [
       "bng-cadena-alimentaria",
@@ -1560,28 +1560,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "ganaderia",
-    "title": "¿Debería destinarse apoyo público específico a la ganadería extensiva?",
+    "title": "¿Deberían darse ayudas públicas específicas a la ganadería que aprovecha los pastos y el terreno?",
     "category": "livestock",
     "categories": [
       "livestock",
       "environment",
       "agriculture"
     ],
-    "neutralDescription": "Aplicar ayudas o incentivos a explotaciones basadas en aprovechamiento extensivo del territorio.",
-    "statement": "¿Debería destinarse apoyo público específico a la ganadería extensiva?",
+    "neutralDescription": "Se refiere a la ganadería extensiva, que utiliza los recursos del territorio para alimentar a los animales.",
+    "statement": "¿Deberían darse ayudas públicas específicas a la ganadería que aprovecha los pastos y el terreno?",
     "argumentsFor": [
-      "Puede contribuir a conservar actividad rural y gestión del paisaje."
+      "Puede mantener la actividad rural y contribuir al cuidado del paisaje."
     ],
     "argumentsAgainst": [
-      "Puede competir con otras prioridades y exigir criterios de evaluación."
+      "Puede competir con otras ayudas y necesita criterios para comprobar sus resultados."
     ],
     "importantNuances": [
-      "La ganadería extensiva engloba explotaciones con condiciones muy distintas."
+      "Dentro de la ganadería extensiva hay explotaciones con condiciones muy diferentes."
     ],
     "relatedProposals": [
       "psoe-ganaderia",
@@ -1605,27 +1605,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "ley-industria",
-    "title": "¿Debería aprobarse una nueva ley de industria?",
+    "title": "¿Debería aprobarse una nueva ley para regular la actividad industrial?",
     "category": "industry",
     "categories": [
       "industry",
       "business"
     ],
-    "neutralDescription": "Actualizar mediante ley el marco de actividad industrial.",
-    "statement": "¿Debería aprobarse una nueva ley de industria?",
+    "neutralDescription": "Se propone actualizar las reglas para fábricas y otras actividades industriales. La pregunta no presupone un contenido concreto de esa ley.",
+    "statement": "¿Debería aprobarse una nueva ley para regular la actividad industrial?",
     "argumentsFor": [
-      "Puede adaptar reglas a cambios tecnológicos y energéticos."
+      "Puede adaptar las reglas a los cambios tecnológicos y energéticos."
     ],
     "argumentsAgainst": [
-      "Puede aumentar incertidumbre durante la transición normativa."
+      "Puede generar dudas mientras se pasa de unas reglas a otras."
     ],
     "importantNuances": [
-      "El apoyo a una ley nueva no implica acuerdo sobre su contenido."
+      "Apoyar una nueva ley no significa estar de acuerdo con todas las medidas que incluya."
     ],
     "relatedProposals": [
       "psoe-ley-industria",
@@ -1642,27 +1642,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "convenios",
-    "title": "¿Deberían prevalecer los convenios autonómicos cuando sean más favorables para los trabajadores?",
+    "title": "¿Deberían tener prioridad los convenios laborales de una comunidad autónoma si mejoran las condiciones de los trabajadores?",
     "category": "territory",
     "categories": [
       "territory",
       "employment"
     ],
-    "neutralDescription": "Dar prioridad a convenios de comunidad autónoma frente a estatales bajo esa condición.",
-    "statement": "¿Deberían prevalecer los convenios autonómicos cuando sean más favorables para los trabajadores?",
+    "neutralDescription": "Un convenio fija condiciones de trabajo. Se propone aplicar antes el de la comunidad autónoma que el estatal cuando sea más favorable para los trabajadores.",
+    "statement": "¿Deberían tener prioridad los convenios laborales de una comunidad autónoma si mejoran las condiciones de los trabajadores?",
     "argumentsFor": [
-      "Puede adaptar condiciones y mejorar derechos en determinados sectores."
+      "Puede mejorar las condiciones y adaptarlas a la situación de cada territorio."
     ],
     "argumentsAgainst": [
-      "Puede aumentar diferencias territoriales y complejidad de negociación."
+      "Puede aumentar las diferencias entre territorios y hacer más compleja la negociación."
     ],
     "importantNuances": [
-      "No se presume apoyo a prevalencia incondicional ni a cualquier convenio de empresa."
+      "La prioridad solo se plantea cuando el convenio autonómico sea más favorable. No se refiere a cualquier convenio de empresa."
     ],
     "relatedProposals": [
       "pnv-convenios",
@@ -1678,28 +1678,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "reglas-fiscales",
-    "title": "¿Deberían flexibilizarse las reglas fiscales europeas para inversiones de transición ecológica y digital?",
+    "title": "¿Debería la Unión Europea dar más margen de gasto para invertir en medio ambiente y digitalización?",
     "category": "eu",
     "categories": [
       "eu",
       "economy",
       "climate"
     ],
-    "neutralDescription": "Permitir mayor margen de gasto o excluir determinadas inversiones de su cómputo.",
-    "statement": "¿Deberían flexibilizarse las reglas fiscales europeas para inversiones de transición ecológica y digital?",
+    "neutralDescription": "Se propone flexibilizar los límites europeos de gasto o deuda para estas inversiones. Digitalizar incluye pasar servicios y procesos a herramientas digitales.",
+    "statement": "¿Debería la Unión Europea dar más margen de gasto para invertir en medio ambiente y digitalización?",
     "argumentsFor": [
-      "Puede facilitar inversión a largo plazo."
+      "Puede facilitar inversiones a largo plazo."
     ],
     "argumentsAgainst": [
-      "Puede reducir límites comunes de disciplina presupuestaria."
+      "Puede reducir los límites comunes sobre el gasto y la deuda de los países."
     ],
     "importantNuances": [
-      "Eliminar umbrales generales y exceptuar inversiones son diseños distintos."
+      "Dar una excepción a ciertas inversiones no es lo mismo que eliminar todos los límites de gasto y deuda."
     ],
     "relatedProposals": [
       "sumar-2023-reglas-fiscales",
@@ -1715,26 +1715,26 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "palestina",
-    "title": "¿Debería España reconocer al Estado palestino?",
+    "title": "¿Estás de acuerdo con que España reconozca a Palestina como Estado?",
     "category": "foreign",
     "categories": [
       "foreign"
     ],
-    "neutralDescription": "Otorgar reconocimiento diplomático estatal.",
-    "statement": "¿Debería España reconocer al Estado palestino?",
+    "neutralDescription": "España aprobó este reconocimiento el 28 de mayo de 2024. La pregunta pide tu postura sobre esa decisión, no plantea un trámite pendiente.",
+    "statement": "¿Estás de acuerdo con que España reconozca a Palestina como Estado?",
     "argumentsFor": [
-      "Puede contribuir a una solución basada en dos Estados."
+      "Puede contribuir a una solución con dos Estados."
     ],
     "argumentsAgainst": [
-      "Puede generar desacuerdos sobre oportunidad y condiciones diplomáticas."
+      "Puede generar desacuerdos sobre el momento y las condiciones del reconocimiento."
     ],
     "importantNuances": [
-      "Se muestran propuestas fechadas; no se presenta el reconocimiento como un hecho todavía pendiente."
+      "Las posiciones de los partidos se muestran con la fecha de cada documento."
     ],
     "relatedProposals": [
       "bng-palestina",
@@ -1753,27 +1753,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "armas-nucleares",
-    "title": "¿Debería España adherirse al Tratado de Prohibición de las Armas Nucleares?",
+    "title": "¿Debería España sumarse al tratado internacional que prohíbe las armas nucleares?",
     "category": "defense",
     "categories": [
       "defense",
       "foreign"
     ],
-    "neutralDescription": "Incorporarse al tratado internacional que prohíbe estas armas.",
-    "statement": "¿Debería España adherirse al Tratado de Prohibición de las Armas Nucleares?",
+    "neutralDescription": "Se refiere al Tratado de Prohibición de las Armas Nucleares, no solo a expresar apoyo a reducir estas armas.",
+    "statement": "¿Debería España sumarse al tratado internacional que prohíbe las armas nucleares?",
     "argumentsFor": [
-      "Puede reforzar compromisos de desarme."
+      "Puede reforzar el compromiso con eliminar las armas nucleares."
     ],
     "argumentsAgainst": [
-      "Puede plantear tensiones con estrategias de defensa de aliados."
+      "Puede entrar en tensión con las estrategias de defensa de países aliados."
     ],
     "importantNuances": [
-      "Adhesión a este tratado y apoyo genérico al desarme no son equivalentes."
+      "Apoyar la reducción de armas nucleares no equivale a sumarse a este tratado."
     ],
     "relatedProposals": [
       "sumar-2023-armas-nucleares",
@@ -1788,27 +1788,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "cooperacion",
-    "title": "¿Debería destinarse el 0,7 % de la renta nacional bruta a ayuda oficial al desarrollo para 2030?",
+    "title": "¿Debería España destinar el 0,7 % de su renta nacional a ayudar al desarrollo de otros países para 2030?",
     "category": "foreign",
     "categories": [
       "foreign",
       "economy"
     ],
-    "neutralDescription": "Alcanzar esa proporción y fecha en cooperación internacional.",
-    "statement": "¿Debería destinarse el 0,7 % de la renta nacional bruta a ayuda oficial al desarrollo para 2030?",
+    "neutralDescription": "La referencia es la renta nacional bruta (RNB), una medida de los ingresos del país. La meta es dedicar el 0,7 % a ayuda oficial al desarrollo para 2030.",
+    "statement": "¿Debería España destinar el 0,7 % de su renta nacional a ayudar al desarrollo de otros países para 2030?",
     "argumentsFor": [
-      "Puede aumentar recursos para desarrollo y acción humanitaria."
+      "Puede aumentar los recursos para el desarrollo y la ayuda humanitaria."
     ],
     "argumentsAgainst": [
-      "Puede exigir priorizarla frente a otros gastos."
+      "Puede exigir darle prioridad frente a otros gastos públicos."
     ],
     "importantNuances": [
-      "PIB y renta nacional bruta son magnitudes diferentes; no se igualan automáticamente."
+      "La renta nacional bruta y el PIB son medidas distintas. No se intercambian al calcular este objetivo."
     ],
     "relatedProposals": [
       "psoe-cooperacion",
@@ -1831,7 +1831,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
@@ -1842,16 +1842,16 @@
       "defense",
       "economy"
     ],
-    "neutralDescription": "Adoptar esa referencia mínima de gasto.",
+    "neutralDescription": "El PIB mide el valor de lo que produce el país. Se propone dedicar al menos el 2 % de esa referencia a seguridad y defensa.",
     "statement": "¿Debería destinarse al menos el 2 % del PIB a seguridad y defensa?",
     "argumentsFor": [
-      "Puede financiar capacidades y compromisos de defensa."
+      "Puede financiar medios y compromisos de defensa."
     ],
     "argumentsAgainst": [
-      "Puede competir con otras prioridades presupuestarias."
+      "Puede dejar menos recursos disponibles para otras prioridades."
     ],
     "importantNuances": [
-      "Se muestra el compromiso de la fecha original; no se presupone que sea la meta actual de un partido."
+      "Se compara el compromiso de cada documento en su fecha, no se afirma que siga siendo la meta actual del partido."
     ],
     "relatedProposals": [
       "pp-defensa",
@@ -1868,28 +1868,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "ia-derechos",
-    "title": "¿Debería regularse la inteligencia artificial para proteger derechos fundamentales?",
+    "title": "¿Debería haber reglas para que la inteligencia artificial respete los derechos de las personas?",
     "category": "ai",
     "categories": [
       "ai",
       "technology",
       "civil-rights"
     ],
-    "neutralDescription": "Establecer garantías legales frente a riesgos de sistemas automatizados.",
-    "statement": "¿Debería regularse la inteligencia artificial para proteger derechos fundamentales?",
+    "neutralDescription": "Se propone poner garantías legales al uso de la inteligencia artificial, por ejemplo para evitar decisiones discriminatorias.",
+    "statement": "¿Debería haber reglas para que la inteligencia artificial respete los derechos de las personas?",
     "argumentsFor": [
-      "Puede reducir discriminación y hacer exigibles garantías."
+      "Puede reducir la discriminación y permitir exigir que se respeten los derechos."
     ],
     "argumentsAgainst": [
-      "Puede aumentar costes regulatorios y ralentizar determinados usos."
+      "Puede aumentar los costes y retrasar algunos usos de esta tecnología."
     ],
     "importantNuances": [
-      "Promover investigación en IA no demuestra apoyo a una regulación específica."
+      "Apoyar la investigación en inteligencia artificial no equivale a apoyar estas reglas."
     ],
     "relatedProposals": [
       "pp-ia-derechos",
@@ -1908,27 +1908,27 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "atencion-presencial",
-    "title": "¿Debería garantizarse atención presencial en la Administración aunque exista una vía digital?",
+    "title": "¿Debería la Administración atender en persona aunque también ofrezca atención por internet?",
     "category": "administration",
     "categories": [
       "administration",
       "digital"
     ],
-    "neutralDescription": "Mantener una alternativa de atención personal accesible.",
-    "statement": "¿Debería garantizarse atención presencial en la Administración aunque exista una vía digital?",
+    "neutralDescription": "Se propone mantener la atención presencial como alternativa accesible a los trámites digitales.",
+    "statement": "¿Debería la Administración atender en persona aunque también ofrezca atención por internet?",
     "argumentsFor": [
-      "Puede facilitar trámites a personas con barreras digitales."
+      "Puede facilitar los trámites a quienes tienen dificultades para usar internet."
     ],
     "argumentsAgainst": [
-      "Exige personal e instalaciones junto a los servicios digitales."
+      "Necesita personal e instalaciones además de los servicios digitales."
     ],
     "importantNuances": [
-      "Las reglas de cita previa y los plazos de atención no se consideran idénticos."
+      "Las reglas de cita previa y los tiempos de atención pueden ser distintos."
     ],
     "relatedProposals": [
       "pp-atencion-presencial",
@@ -1953,28 +1953,28 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   },
   {
     "id": "software-publico",
-    "title": "¿Debería priorizarse software libre en la contratación informática pública?",
+    "title": "¿Debería la Administración dar prioridad a programas informáticos que se puedan usar, estudiar y modificar libremente?",
     "category": "digital",
     "categories": [
       "digital",
       "technology",
       "administration"
     ],
-    "neutralDescription": "Dar preferencia a programas cuyo código permita uso, estudio y modificación bajo licencias abiertas.",
-    "statement": "¿Debería priorizarse software libre en la contratación informática pública?",
+    "neutralDescription": "Se llama software libre: su código se puede revisar y modificar según su licencia. No significa que siempre sea gratis.",
+    "statement": "¿Debería la Administración dar prioridad a programas informáticos que se puedan usar, estudiar y modificar libremente?",
     "argumentsFor": [
-      "Puede facilitar reutilización y reducir dependencia de proveedores."
+      "Puede permitir reutilizar programas y depender menos de un proveedor."
     ],
     "argumentsAgainst": [
-      "Puede exigir adaptación, mantenimiento y compatibilidad."
+      "Puede necesitar adaptación, mantenimiento y comprobar que funciona con otros sistemas."
     ],
     "importantNuances": [
-      "Software gratuito y software libre son conceptos distintos; no se presume ahorro automático."
+      "Software libre no es lo mismo que software gratuito. No implica ahorrar dinero en todos los casos."
     ],
     "relatedProposals": [
       "sumar-2023-software-publico",
@@ -1992,7 +1992,7 @@
       "singleMeasure": true,
       "blind": true,
       "editoriallyReviewed": true,
-      "reviewMethod": "Lectura del fragmento y contexto; comprobación de medida, ámbito y fecha. Revisión asistida, sin revisor externo independiente."
+      "reviewMethod": "Revisión asistida del enunciado y su explicación en lenguaje cotidiano, cotejados con la medida y sus condiciones originales. Se conservan alcance, cifras, fechas y dirección de comparación. Sin prueba de comprensión con usuarios ni revisor externo independiente."
     }
   }
 ]

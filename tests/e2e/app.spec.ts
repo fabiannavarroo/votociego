@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { readFileSync } from 'node:fs';
 const config=JSON.parse(readFileSync(new URL('../../src/config.json',import.meta.url),'utf8'));
-const questions = JSON.parse(readFileSync(new URL('../../src/data/questions.json', import.meta.url), 'utf8')) as { statement: string }[];
+const questions = JSON.parse(readFileSync(new URL('../../src/data/questions.json', import.meta.url), 'utf8')) as { id: string; statement: string; context: { meaning: string } }[];
 const answerLabels = ['Totalmente de acuerdo', 'De acuerdo', 'Neutral / No estoy seguro', 'En desacuerdo', 'Totalmente en desacuerdo'];
 test('neutral answers never create invented party percentages', async ({ page }) => {
   await page.addInitScript(({ measures, dataVersion }) => {
@@ -33,6 +33,9 @@ test('blind questionnaire, local resume, map, priorities, sources and download',
   await page.getByRole('button', { name: 'Siguiente', exact: true }).click();
   for (let index = 1; index < questions.length; index++) {
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(questions[index].statement);
+    await expect(page.locator('#question-help')).toHaveText(questions[index].context.meaning);
+    await expect(page.locator('#question-help')).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Necesito contexto' })).toHaveAttribute('aria-expanded', 'false');
     if (index === 7) await page.getByRole('button', { name: 'Saltar pregunta', exact: true }).click();
     else { await page.getByText(answerLabels[index % 5], { exact: true }).click(); await page.getByRole('button', { name: index === questions.length - 1 ? 'Ver resultados' : 'Siguiente', exact: true }).click(); }
   }
