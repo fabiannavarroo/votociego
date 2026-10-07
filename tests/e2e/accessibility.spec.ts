@@ -14,6 +14,12 @@ test('accessible landmarks, names and contrast in both themes', async ({ page })
       await expect(page.locator('.site-header .brand')).toHaveCSS('color', theme === 'Oscuro' ? 'rgb(240, 244, 245)' : 'rgb(36, 41, 45)');
       const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).analyze();
       expect(results.violations.map(v => ({ id: v.id, description: v.description, nodes: v.nodes.map(n => ({ target: n.target, summary: n.failureSummary })) })), `${theme}: ${route}`).toEqual([]);
+      if (route === 'resultados') {
+        for (const summary of ['.results-topics > summary', '.affinity-method > summary', '.affinity-unknown > summary']) await page.locator(summary).click();
+        await page.getByRole('button', { name: 'Personalizar temas' }).click();
+        const expanded = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).analyze();
+        expect(expanded.violations.map(violation => ({ id: violation.id, nodes: violation.nodes.map(node => node.target) })), `${theme}: expanded results`).toEqual([]);
+      }
     }
   }
 });

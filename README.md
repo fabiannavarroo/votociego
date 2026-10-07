@@ -47,13 +47,13 @@ Al modificar el contenido o significado de las preguntas, cambia `dataVersion` e
 
 ## Comparación y privacidad
 
-Los indicadores aparecen por cuestión: mismo sentido, coincidencia parcial por condiciones explícitas, sentido opuesto o información insuficiente. Acuerdo y acuerdo total no inventan una intensidad del partido. Neutralidad/incertidumbre y saltos no producen coincidencias. No hay radar de partidos, afinidad por tema ni ranking electoral. Las formaciones aparecen alfabéticamente.
+Al terminar el cuestionario, los resultados muestran logos y porcentajes de coincidencia por formación, con la base de preguntas comparable de cada una. La fórmula es 100 × (coincidencias + 0,5 × coincidencias parciales) / preguntas comparables, redondeada al entero más cercano y sin ponderación temática. Acuerdo y acuerdo total tienen el mismo sentido, sin inventar intensidad del partido. Neutrales, saltos, conflictos, baja certeza y posiciones desconocidas quedan fuera del denominador. Los resultados se ordenan por porcentaje; en empates, por mayor base y después alfabéticamente. La cobertura es desigual, por lo que no describen el programa completo ni recomiendan un voto. Sin base comparable se muestra ausencia de porcentaje, nunca un 0 % inventado. El desglose por temas, el método y las formaciones sin resultado quedan cerrados en desplegables. El comparador y la lista extensa de respuestas se retiraron del recorrido principal.
 
 Los programas conjuntos se atribuyen a su coalición o candidatura; sus componentes no heredan automáticamente posturas. Las actuaciones de grupos se distinguen de las del partido. La documentación de Compromís-Sumar se conserva como contexto conjunto; la intervención de Noemí Santana identifica a la diputada y su adscripción comprobada.
 
 Las respuestas y preferencias se guardan únicamente en `votociego:progress:v1` y `votociego:settings:v1`. No hay analítica ni envío de respuestas. El PNG se genera en el navegador, contiene el perfil personal y puede revisarse antes de compartir. Las tipografías e iconos se sirven localmente.
 
-Rutas principales: `/#/test`, `/#/resultados`, `/#/revelacion`, `/#/partidos/pp`, `/#/comparar`, `/#/fuentes`, `/#/metodologia` y `/#/admin-data`. Este último es un inspector público de solo lectura, sin credenciales ni operaciones administrativas.
+Rutas principales: `/#/test`, `/#/resultados`, `/#/revelacion`, `/#/partidos/pp`, `/#/fuentes`, `/#/metodologia` y `/#/admin-data`. La antigua ruta `/#/comparar` redirige a resultados. `/#/admin-data` es un inspector público de solo lectura, sin credenciales ni operaciones administrativas.
 
 ## Verificar
 

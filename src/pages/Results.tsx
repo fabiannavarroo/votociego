@@ -1,23 +1,74 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Download, SlidersHorizontal, BookOpen, ArrowUpRight, Check, Eye } from 'lucide-react';
+import { ArrowRight, ChevronDown, Download, SlidersHorizontal } from 'lucide-react';
 import { useAppState } from '../hooks/useAppState';
 import { alphabeticalParties, questions } from '../data';
-import { answerLabels } from '../utils/comparison';
+import { partyCoincidence } from '../utils/comparison';
 import { downloadProfile } from '../utils/share';
-import { PageHeading, EmptyState, PartyMark, PrivacyNote } from '../components/ui';
+import { PageHeading, EmptyState, PartyMark } from '../components/ui';
 import { Profile } from '../components/Profile';
 import ImportanceEditor from '../components/ImportanceEditor';
+
 export default function Results() {
-  const { progress } = useAppState(); const [importanceOpen, setImportanceOpen] = useState(false); const [downloadStatus, setDownloadStatus] = useState(''); const [downloading, setDownloading] = useState(false);
-  const answered = Object.values(progress.answers).filter(value => value !== null).length; const skipped = Object.values(progress.answers).filter(value => value === null).length;
-  if (!Object.keys(progress.answers).length) return <div className="container page"><PageHeading eyebrow="TUS IDEAS, EN PERSPECTIVA" title="Tu mapa de posiciones" description="Un espacio para entender qué piensas antes de comparar." /><EmptyState title="Tu mapa empieza con una propuesta" text="Responde el cuestionario ciego para descubrir tus posiciones por tema. También puedes saltar preguntas." /></div>;
-  async function download() { setDownloading(true); setDownloadStatus(''); try { await downloadProfile(progress.answers, progress.importance); setDownloadStatus('Imagen descargada. Solo incluye tu perfil temático.'); } catch (error) { setDownloadStatus(error instanceof Error ? error.message : 'No se pudo descargar la imagen.'); } finally { setDownloading(false); } }
-  return <div className="container page results-page"><PageHeading eyebrow="SIN ETIQUETAS. CON PERSPECTIVA." title="Tu mapa de posiciones" description="Tus ideas tienen matices. Aquí puedes explorar cada uno, a tu manera."><button className="button secondary" onClick={download} disabled={downloading}><Download size={18} aria-hidden="true" />{downloading ? 'Creando imagen…' : 'Descargar imagen'}</button></PageHeading>{downloadStatus && <p className="inline-notice" role="status">{downloadStatus}</p>}
-    <div className="result-summary"><div><span className="summary-icon"><Check size={22} aria-hidden="true" /></span><div><strong>{answered} propuestas respondidas</strong><p>{skipped} saltadas · {questions.length - Object.keys(progress.answers).length} pendientes</p></div></div><PrivacyNote compact />{!progress.completed && <Link className="text-link" to="/test">Continuar cuestionario<ArrowRight size={17} aria-hidden="true" /></Link>}</div>
-    <section className="profile-panel"><div className="panel-heading"><div><h2>Lo que piensas, tema a tema</h2><p>El grado de acuerdo se refiere a las medidas del cuestionario, sin asignarte una etiqueta política.</p></div><button className="button secondary small" onClick={() => setImportanceOpen(!importanceOpen)} aria-expanded={importanceOpen} aria-controls="importance-editor"><SlidersHorizontal size={17} aria-hidden="true" />Personalizar temas</button></div><div className="profile-legend"><span><i className="agree" />Acuerdo</span><span><i className="neutral" />Neutral / No estoy seguro</span><span><i className="disagree" />Desacuerdo</span></div>{importanceOpen && <div id="importance-editor"><ImportanceEditor /></div>}<Profile answers={progress.answers} importance={progress.importance} /></section>
-    <section className="results-parties"><div className="section-intro"><div><p className="eyebrow">DISTINTAS MIRADAS</p><h2>Comparar con partidos</h2></div><Link className="text-link" to="/comparar">Abrir comparador<ArrowRight size={18} aria-hidden="true" /></Link></div><p className="section-description">Formaciones en orden alfabético. Se informa de la cobertura de documentación, sin calcular afinidad por partido ni tema.</p><div className="comparison-cards">{alphabeticalParties.map(party => <article className="comparison-card" key={party.id}><div className="party-card-heading"><PartyMark party={party} small /><div><h3>{party.name}</h3><span>{party.type === 'coalition' ? 'Coalición' : 'Formación política'}</span></div></div><p>Posiciones comparables documentadas para {questions.filter(q => q.positions[party.id]?.position != null).length} de {questions.length} cuestiones. La ausencia de datos no expresa una postura.</p><Link className="text-link" to={`/comparar?parties=${party.id}`}>Ver comparación por cuestión<ArrowUpRight size={17} aria-hidden="true" /></Link></article>)}</div></section>
-    <section className="concrete-proposals"><h2>Tus respuestas, cuestión por cuestión</h2><div className="proposal-list">{questions.filter(q=>Object.hasOwn(progress.answers,q.id)).map(q=><article className="documented-card" key={q.id}><h3>{q.statement}</h3><p>Tu respuesta: {progress.answers[q.id]===null?'Pregunta saltada':answerLabels[progress.answers[q.id]!]}</p><Link className="text-link" to={`/comparar?issue=${q.issueId}`}>Comparar esta cuestión</Link></article>)}</div></section>
-    <div className="reveal-callout"><span className="callout-icon"><Eye size={26} aria-hidden="true" /></span><div><h2>Descubre quién defendía cada propuesta</h2><p>La parte ciega ha terminado. Puedes ver las propuestas documentadas, tus respuestas y sus documentos.</p></div><Link to="/revelacion" className="button primary">Revelar propuestas<ArrowRight size={18} aria-hidden="true" /></Link></div><p className="results-footnote"><BookOpen size={17} aria-hidden="true" />Una coincidencia describe respuestas similares a propuestas concretas. No implica respaldo al programa completo ni una recomendación de voto.</p>
+  const { progress } = useAppState();
+  const [importanceOpen, setImportanceOpen] = useState(false);
+  const [downloadStatus, setDownloadStatus] = useState('');
+  const [downloading, setDownloading] = useState(false);
+  const answered = Object.values(progress.answers).filter(value => value !== null).length;
+  const skipped = Object.values(progress.answers).filter(value => value === null).length;
+
+  if (!progress.completed) return <div className="container page">
+    <PageHeading eyebrow="TUS RESULTADOS" title="Coincidencia con partidos" description="Responde primero. Al terminar verás tus porcentajes de coincidencia." />
+    <EmptyState title={Object.keys(progress.answers).length ? 'Tu cuestionario sigue en marcha' : 'Empieza por tus ideas'} text={Object.keys(progress.answers).length ? `${Object.keys(progress.answers).length} de ${questions.length} preguntas revisadas. Continúa para ver los resultados.` : 'Un cuestionario anónimo, sin siglas durante las preguntas.'} action={Object.keys(progress.answers).length ? 'Continuar cuestionario' : 'Empezar cuestionario'} />
+  </div>;
+
+  const results = alphabeticalParties.map(party => ({ party, ...partyCoincidence(questions, progress.answers, party.id) }));
+  const comparable = results.filter(result => result.percentage !== null).sort((a, b) => b.percentage! - a.percentage! || b.compared - a.compared || a.party.name.localeCompare(b.party.name, 'es'));
+  const unknown = results.filter(result => result.percentage === null);
+
+  async function download() {
+    setDownloading(true); setDownloadStatus('');
+    try { await downloadProfile(progress.answers, progress.importance); setDownloadStatus('Imagen descargada. Incluye únicamente tu desglose por temas.'); }
+    catch (error) { setDownloadStatus(error instanceof Error ? error.message : 'No se pudo descargar la imagen.'); }
+    finally { setDownloading(false); }
+  }
+
+  return <div className="container page results-page">
+    <PageHeading eyebrow="TUS RESULTADOS" title="Coincidencia con partidos" description="Qué porcentaje de tus respuestas coincide con las posiciones documentadas de cada formación." />
+    <p className="affinity-summary">{answered} propuestas respondidas · {skipped} saltadas · Solo en tu dispositivo</p>
+    <p className="affinity-coverage-note" id="affinity-coverage">Cada porcentaje usa las preguntas comparables de ese partido. La base varía: un 100 % en una pregunta no equivale a un 100 % en veinte.</p>
+
+    {comparable.length ? <section aria-label="Porcentajes de coincidencia" aria-describedby="affinity-coverage">
+      <ul className="affinity-list">{comparable.map(result => <li className="affinity-card" key={result.party.id}>
+        <div className="affinity-card-top"><PartyMark party={result.party} small />
+          <Link className="affinity-party-name" to={`/partidos/${result.party.slug}`} aria-label={`Ver documentación de ${result.party.name}`}><h2>{result.party.acronym}</h2><span>{result.party.name}</span></Link>
+          <strong className="affinity-percentage" aria-label={`${result.percentage} por ciento de coincidencia`}>{result.percentage}<span> %</span></strong>
+        </div>
+        <div className="affinity-bar" aria-hidden="true"><span style={{ width: `${result.percentage}%` }} /></div>
+        <p>Base: {result.compared} de {result.eligibleAnswers} respuestas con postura{result.compared < 5 ? ' · Base muy limitada' : ''}</p>
+      </li>)}</ul>
+    </section> : <div className="affinity-no-results"><h2>No hay respuestas comparables</h2><p>Las respuestas neutrales y los saltos no definen una postura. Puedes empezar de nuevo o consultar las fuentes.</p><Link className="text-link" to="/test">Revisar cuestionario<ArrowRight size={17} aria-hidden="true" /></Link></div>}
+
+    {unknown.length > 0 && <details className="results-disclosure affinity-unknown">
+      <summary><span>Formaciones sin porcentaje calculable ({unknown.length})</span><ChevronDown size={20} aria-hidden="true" /></summary>
+      <ul>{unknown.map(result => <li key={result.party.id}><PartyMark party={result.party} small /><div><Link className="text-link" to={`/partidos/${result.party.slug}`}>{result.party.acronym}</Link><p>{result.available ? 'Tus respuestas no permiten comparar las posiciones disponibles.' : 'Sin posiciones comparables en las fuentes consultadas.'}</p></div></li>)}</ul>
+    </details>}
+
+    <details className="results-disclosure affinity-method">
+      <summary><span>Cómo se calcula el porcentaje</span><ChevronDown size={20} aria-hidden="true" /></summary>
+      <div className="results-disclosure-content"><p>Cada coincidencia suma 1; una coincidencia parcial por condiciones explícitas, 0,5; una postura opuesta, 0. Se divide por las preguntas comparables y se multiplica por 100, redondeando al entero más cercano.</p><p>Todas las preguntas tienen el mismo peso. Acuerdo y acuerdo total expresan el mismo sentido: no inventamos una intensidad del partido. No se cuentan respuestas neutrales, saltos, conflictos ni posiciones desconocidas.</p><p>La documentación es principalmente de 2023, con actividad posterior fechada. Estos porcentajes describen el corpus disponible; no son una probabilidad de voto ni una valoración del programa completo.</p><Link className="text-link" to="/metodologia">Ver metodología<ArrowRight size={17} aria-hidden="true" /></Link></div>
+    </details>
+
+    <details className="results-disclosure results-topics">
+      <summary><span>Lo que piensas, tema a tema</span><ChevronDown size={20} aria-hidden="true" /></summary>
+      <div className="results-disclosure-content">
+        <div className="results-topic-actions"><button className="button secondary small" onClick={() => setImportanceOpen(!importanceOpen)} aria-expanded={importanceOpen} aria-controls="importance-editor"><SlidersHorizontal size={17} aria-hidden="true" />Personalizar temas</button><button className="button secondary small" onClick={download} disabled={downloading}><Download size={17} aria-hidden="true" />{downloading ? 'Creando imagen…' : 'Descargar mis temas'}</button></div>
+        {downloadStatus && <p className="inline-notice" role="status">{downloadStatus}</p>}
+        {importanceOpen && <div id="importance-editor"><ImportanceEditor /></div>}
+        <div className="profile-legend"><span><i className="agree" />Acuerdo</span><span><i className="neutral" />Neutral / No estoy seguro</span><span><i className="disagree" />Desacuerdo</span></div>
+        <Profile answers={progress.answers} importance={progress.importance} />
+      </div>
+    </details>
+    <div className="results-end-actions"><Link className="button secondary" to="/revelacion">Consultar propuestas y fuentes<ArrowRight size={17} aria-hidden="true" /></Link><Link className="text-link" to="/test">Volver al cuestionario</Link></div>
   </div>;
 }
