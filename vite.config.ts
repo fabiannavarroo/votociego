@@ -19,7 +19,7 @@ export default defineConfig(({ mode }) => {
       closeBundle() {
         const assets = (dir: string): string[] => readdirSync(dir, { withFileTypes: true }).flatMap(entry => entry.isDirectory() ? assets(join(dir, entry.name)) : [join(dir, entry.name).replace(/^dist\//, '')]);
         const files = assets('dist').filter(file => !['sw.js', 'sitemap.xml'].includes(file));
-        writeFileSync('dist/manifest.webmanifest', JSON.stringify({ name: config.name, short_name: config.name, description: config.description, lang: 'es', id: './', start_url: './', scope: './', display: 'standalone', background_color: '#f7f8fa', theme_color: '#7460d4', icons: [{ src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' }, { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }] }));
+        writeFileSync('dist/manifest.webmanifest', JSON.stringify({ name: config.name, short_name: config.name, description: config.description, lang: 'es', id: './', start_url: './', scope: './', display: 'standalone', background_color: '#fafbfb', theme_color: '#444851', icons: [{ src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' }, { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }] }));
         if (!files.includes('manifest.webmanifest')) files.push('manifest.webmanifest');
         const hash = createHash('sha256');
         files.forEach(file => hash.update(readFileSync(join('dist', file))));

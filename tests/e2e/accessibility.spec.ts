@@ -11,7 +11,7 @@ test('accessible landmarks, names and contrast in both themes', async ({ page })
     for (const route of ['', 'test', 'resultados', 'comparar', 'partidos', 'partidos/pp', 'revelacion', 'metodologia', 'fuentes', 'admin-data']) {
       await page.goto(`/#/${route}`); await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
       await page.getByRole('button', { name: theme, exact: true }).click();
-      await expect(page.locator('.site-header .brand')).toHaveCSS('color', theme === 'Oscuro' ? 'rgb(243, 241, 248)' : 'rgb(36, 35, 42)');
+      await expect(page.locator('.site-header .brand')).toHaveCSS('color', theme === 'Oscuro' ? 'rgb(240, 244, 245)' : 'rgb(36, 41, 45)');
       const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).analyze();
       expect(results.violations.map(v => ({ id: v.id, description: v.description, nodes: v.nodes.map(n => ({ target: n.target, summary: n.failureSummary })) })), `${theme}: ${route}`).toEqual([]);
     }
