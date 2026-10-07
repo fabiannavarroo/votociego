@@ -1,3 +1,4 @@
 research/documents/** -text -diff
+public/logos/*.svg -text -diff
 *.png binary
 *.jpg binary

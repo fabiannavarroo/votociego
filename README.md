@@ -82,4 +82,4 @@ Repositorio: [fabiannavarroo/votociego](https://github.com/fabiannavarroo/votoci
 
 El repositorio conserva únicamente los documentos y extracciones utilizados por el corpus publicado para reproducir sus comprobaciones. Los borradores de investigación, respuestas de controles de acceso y datos locales quedan fuera de Git; los PDF de auditoría tampoco se incluyen en `dist/`.
 
-El código conserva su licencia MIT. Los documentos y marcas enlazados conservan las condiciones de sus titulares. Los identificadores tipográficos de las fichas son siglas, no logotipos oficiales inventados.
+El código conserva su licencia MIT. Los documentos y marcas conservan las condiciones de sus titulares. Las fichas usan logotipos obtenidos de las webs oficiales, servidos localmente y disponibles sin conexión. Su procedencia, fecha y hashes constan en [docs/LOGOS.md](docs/LOGOS.md) y `public/logos/ATTRIBUTIONS.json`. Si una imagen no carga, se muestran las siglas. El cuestionario ciego sigue ocultando toda identidad de las formaciones.

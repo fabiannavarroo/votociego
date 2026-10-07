@@ -136,3 +136,10 @@ img { display: block; max-width: 100%; }
 .admin-data-page .prose { overflow-wrap: anywhere; min-width: 0; }
 
 .party-checkbox .party-monogram { overflow-wrap: normal; white-space: nowrap; }
+
+/* Official marks keep their proportions and original colors on a legible canvas. */
+.party-logo{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;min-width:112px;width:112px;height:64px;padding:8px;border:1px solid var(--line);border-radius:12px;background:#fff;overflow:hidden}
+.party-logo img{display:block;width:100%;height:100%;object-fit:contain}
+.party-logo.small,.party-checkbox .party-logo{min-width:64px;width:64px;height:40px;padding:5px;border-radius:9px}
+.party-detail-header>.party-logo{min-width:128px;width:128px;height:80px}
+@media(max-width:600px){.party-detail-header>.party-logo{min-width:96px;width:96px;height:64px}}

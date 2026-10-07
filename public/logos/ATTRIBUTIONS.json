@@ -1,0 +1,179 @@
+[
+  {
+    "partyId": "ahi",
+    "path": "logos/ahi.png",
+    "sourceUrl": "https://ahi-elhierro.es/wp-content/uploads/2023/04/AHI-Logo-02b-Horizontal-300x133.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "855c4f5a2e66106d27eaa81b30e1e1f97a5122b2a3b5a24c3c61f6f1860d3e29",
+    "bytes": 16388,
+    "sourcePage": "https://ahi-elhierro.es/",
+    "name": "Agrupación Herreña Independiente"
+  },
+  {
+    "partyId": "asg",
+    "path": "logos/asg.png",
+    "sourceUrl": "https://www.agrupacionsocialistagomera.es/wp-content/themes/asg/images/logo-sup-asg.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "0d455235c70745055e29ec580cfa902c3465b68687278f195b5dc9add76f4462",
+    "bytes": 15740,
+    "sourcePage": "https://www.agrupacionsocialistagomera.es/",
+    "name": "Agrupación Socialista Gomera",
+    "presentationNote": "Fondo rojo de la cabecera oficial, rgb(184,31,29)."
+  },
+  {
+    "partyId": "bng",
+    "path": "logos/bng.png",
+    "sourceUrl": "https://www.bng.gal/media/bnggaliza/images/2021/07/20/2021072018022443378.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "a8400a61b05904bfc071fd5e5eefff04e640d99c571826a1c0119d0b0d2a29ea",
+    "sourcePage": "https://www.bng.gal/",
+    "name": "Bloque Nacionalista Galego"
+  },
+  {
+    "partyId": "cc",
+    "path": "logos/cc.png",
+    "sourceUrl": "https://coalicioncanaria.org/wp-content/uploads/2021/05/cropped-favicon_512x512-192x192.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "5a28c47d8353418f4e7aeb77c433b68abc704cd758b5c9deb588327c1bc35edd",
+    "sourcePage": "https://coalicioncanaria.org/",
+    "name": "Coalición Canaria"
+  },
+  {
+    "partyId": "eh-bildu",
+    "path": "logos/eh-bildu.png",
+    "sourceUrl": "https://ehbildu.eus/img/logoa1.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "d3ba92a1220e21fe96d0e051efe947469b29e91f4b53a80b0806f247786df6a6",
+    "bytes": 8434,
+    "sourcePage": "https://ehbildu.eus/",
+    "name": "Euskal Herria Bildu",
+    "presentationNote": "Versión blanca original sobre fondo oscuro neutro para mantener contraste."
+  },
+  {
+    "partyId": "pnv",
+    "path": "logos/pnv.png",
+    "sourceUrl": "https://www.eaj-pnv.eus/img/logotipo-eaj-pnv-2025-300.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "682669f909faaa7f1d56c6625b7c09abc5564600c2f63d68fe1b673a7b5d7978",
+    "bytes": 16371,
+    "sourcePage": "https://www.eaj-pnv.eus/",
+    "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco"
+  },
+  {
+    "partyId": "geroa-bai",
+    "path": "logos/geroa-bai.svg",
+    "sourceUrl": "https://www.geroabai.eus/img/logo.svg?1677663868",
+    "lastVerified": "2026-10-07",
+    "sha256": "9e77dcc2feaa910c50a28cdeb2431d3153d741b9d6d2274f31723e169411eae5",
+    "bytes": 37309,
+    "sourcePage": "https://www.geroabai.eus/",
+    "name": "Geroa Bai"
+  },
+  {
+    "partyId": "iu",
+    "path": "logos/iu.png",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2021/04/logo-web-IU-triangulo-normal.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "a7300f25b3b655b834a94c7494bdedacb5637b7dc410d9e824ecf755d7b02281",
+    "bytes": 8037,
+    "sourcePage": "https://izquierdaunida.org/",
+    "name": "Izquierda Unida"
+  },
+  {
+    "partyId": "mas-madrid",
+    "path": "logos/mas-madrid.png",
+    "sourceUrl": "https://masmadrid.org/wp-content/uploads/2023/03/Mas-Madrid-600px_Mesa-de-trabajo-1-1.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "12eae93852556300aaab4a90a71cda720b8aaa44456954cdfb77595fe58b687b",
+    "bytes": 19604,
+    "sourcePage": "https://masmadrid.org/",
+    "name": "Más Madrid"
+  },
+  {
+    "partyId": "pp",
+    "path": "logos/pp.svg",
+    "sourceUrl": "https://www.pp.es/wp-content/uploads/2022/08/logo-short.svg",
+    "lastVerified": "2026-10-07",
+    "sha256": "d6a1dcd18fe4ad0f91797c19811827acd2a6a06ca294c5d63be20d7b9aa46f39",
+    "sourcePage": "https://www.pp.es/",
+    "name": "Partido Popular"
+  },
+  {
+    "partyId": "psoe",
+    "path": "logos/psoe.png",
+    "sourceUrl": "https://xn--espaaavanza-4db.es/wp-content/uploads/2023/07/logo2cubos.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "634eb5974d7644f068ba10f590b1afca3de75f17121b10e21cb169013ed9f465",
+    "bytes": 9266,
+    "sourcePage": "https://www.psoe.es/",
+    "name": "Partido Socialista Obrero Español"
+  },
+  {
+    "partyId": "sumar-2023",
+    "path": "logos/sumar-2023.svg",
+    "sourceUrl": "https://movimientosumar.es/wp-content/uploads/2023/06/logo-white-00.svg",
+    "lastVerified": "2026-10-07",
+    "sha256": "9d80223b83dd2d48dd4e6d78b3b363c899cd5fe62111304e8442dce4736c12a1",
+    "bytes": 4066,
+    "sourcePage": "https://movimientosumar.es/",
+    "name": "Sumar · coalición electoral de 2023",
+    "backgroundSource": "https://movimientosumar.es/"
+  },
+  {
+    "partyId": "upn",
+    "path": "logos/upn.png",
+    "sourceUrl": "https://www.upn.org/wp-content/uploads/2023/04/logo-200.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "fa2805c13a45966eff714ca2df1673878074170ead19b664c9a1c363715be8dd",
+    "bytes": 8334,
+    "sourcePage": "https://www.upn.org/",
+    "name": "Unión del Pueblo Navarro"
+  },
+  {
+    "partyId": "compromis",
+    "path": "logos/compromis.png",
+    "sourceUrl": "https://compromis.net/wp-content/themes/compromis-net/dist/images/favicons/android-icon-192x192_8c1eb6c4.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "a63938a79bc674ffc02c6bce9e18b4d5b3a9519e46ad63cab0ac7c57e3197050",
+    "sourcePage": "https://compromis.net/",
+    "name": "Compromís"
+  },
+  {
+    "partyId": "erc",
+    "path": "logos/erc.png",
+    "sourceUrl": "https://www.esquerra.cat/wp-content/uploads/erc-logo.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "9953dc8b72eaffc0e2a25cb8c538463db59d8527c32280d756a431effa5b16f1",
+    "bytes": 8140,
+    "sourcePage": "https://www.esquerra.cat/",
+    "name": "Esquerra Republicana de Catalunya"
+  },
+  {
+    "partyId": "junts",
+    "path": "logos/junts.svg",
+    "sourceUrl": "https://junts.cat/wp-content/uploads/2026/03/logo-junts.svg",
+    "lastVerified": "2026-10-07",
+    "sha256": "e802dce248e8c12cb0c14437205d913a512e8120a51ea739fa624137c651c49b",
+    "bytes": 2127,
+    "sourcePage": "https://junts.cat/",
+    "name": "Junts per Catalunya"
+  },
+  {
+    "partyId": "podemos",
+    "path": "logos/podemos.png",
+    "sourceUrl": "https://podemos.info/wp-content/uploads/2022/11/logo-morado.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "51e3ce6e298aa760c42376ac5050b9ba6dc3d581e7306e592bb5516c0e74a07c",
+    "sourcePage": "https://podemos.info/",
+    "name": "Podemos"
+  },
+  {
+    "partyId": "vox",
+    "path": "logos/vox.png",
+    "sourceUrl": "https://www.voxespana.es/wp-content/uploads/2019/02/logo-vox-espana.png",
+    "lastVerified": "2026-10-07",
+    "sha256": "0df0f7df7ef6c6e3ecaecc3d5f8cc513cef4f3f0086b7ca7db9ece7a95f7b5b1",
+    "sourcePage": "https://www.voxespana.es/",
+    "name": "VOX"
+  }
+]

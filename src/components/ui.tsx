@@ -1,5 +1,6 @@
 import { ArrowUpRight, ArrowRight, ShieldCheck } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useState } from 'react';
 import type { ReactNode } from 'react';
 import type { Match, Party, Source } from '../types';
 import { formatDate } from '../utils/format';
@@ -11,7 +12,11 @@ export function PrivacyNote({ compact = false }: { compact?: boolean }) { return
 export function DatasetBadge() { return <span className="dataset-badge"><span aria-hidden="true" /> FUENTES REALES</span>; }
 export function MatchBadge({ match }: { match: Match }) { return <span className={`match-badge ${match}`}><span aria-hidden="true">{matchSymbols[match]}</span> {matchLabels[match]}</span>; }
 export function PartyMark({ party, small = false }: { party: Party; small?: boolean }) {
+  const [failedLogo, setFailedLogo] = useState<string | null>(null);
   const mark=party.acronym.length<=4?party.acronym:party.acronym.split(/[\s·-]+/).map(word=>word[0]).join('').slice(0,3).toUpperCase();
+  if (party.logo && failedLogo !== party.logo) {
+    return <span className={`party-mark party-logo ${small ? 'small' : ''}`} aria-hidden="true" title={`Logotipo de ${party.name}`} style={party.logoBackground ? { backgroundColor: party.logoBackground } : undefined}><img src={`${import.meta.env.BASE_URL}${party.logo.replace(/^\/+/, '')}`} alt="" width="112" height="64" loading="lazy" decoding="async" onError={() => setFailedLogo(party.logo)} /></span>;
+  }
   return <span className={`party-mark party-monogram ${small ? 'small' : ''}`} aria-hidden="true" title="Identificador tipográfico; no es un logotipo oficial">{mark}</span>;
 }
 export function SourceLink({ source }: { source: Source }) {

@@ -131,6 +131,13 @@ test('source filters, issue links and the four-formation limit preserve context'
  await expect(page.locator('.comparison-table tbody tr')).toHaveCount(1);
  await page.locator('.comparison-table tbody tr th a').click();
  await expect(page.locator('#issue-fortunas')).toHaveAttribute('open','');
- await page.getByRole('link',{name:'GitHub',exact:false}).last().click();
- await expect(page.getByRole('heading',{level:1})).toHaveText('Tus ideas. Tu criterio.');
+ const githubLink=page.getByRole('link',{name:'GitHub',exact:false}).last();
+ if(config.githubUrl){
+  await expect(githubLink).toHaveAttribute('href',config.githubUrl);
+  await expect(githubLink).toHaveAttribute('target','_blank');
+  await expect(githubLink).toHaveAttribute('rel','noopener noreferrer');
+ }else{
+  await githubLink.click();
+  await expect(page.getByRole('heading',{level:1})).toHaveText('Tus ideas. Tu criterio.');
+ }
 });
