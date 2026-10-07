@@ -8,6 +8,7 @@ const normalize=s=>s.replace(/\s+/g,' ').trim();
 for(const list of [sources,proposals,questions,parties,issues,categories]) assert.equal(new Set(list.map(x=>x.id)).size,list.length,'Duplicated identifier');
 for(const s of sources) {
   assert.match(s.sourceUrl,/^https:\/\//); assert.equal(s.demo,false);
+  assert.ok(s.partyIds.every(id=>parties.some(p=>p.id===id)),s.id+' party attribution');
   if(s.localFile&&s.sha256) assert.equal(createHash('sha256').update(readFileSync(new URL(s.localFile,root))).digest('hex'),s.sha256,s.id+' document hash');
 }
 for(const p of proposals) {

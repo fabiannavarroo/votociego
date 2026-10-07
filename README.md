@@ -2,9 +2,9 @@
 
 Aplicación estática para responder a medidas políticas sin identificar su autor y consultar después las posiciones documentadas, cuestión por cuestión. Mantiene la interfaz existente y funciona sin backend, cuentas ni claves.
 
-La primera base real contiene **18 fichas, 19 fuentes primarias, 130 propuestas o actuaciones, 50 preguntas y 31 categorías**. La comprobación editorial corresponde al **07/10/2026**. Los programas son antecedentes de las generales de 2023; se distinguen de actividad parlamentaria y declaraciones posteriores. La cobertura es incompleta y desigual. Las casillas desconocidas no expresan neutralidad ni ausencia de postura del partido.
+El corpus actual contiene **18 fichas, 136 fuentes primarias, 448 propuestas o actuaciones, 50 preguntas y 31 categorías**. La comprobación editorial corresponde al **07/10/2026**. El corpus reúne principalmente programas de 2023 y páginas programáticas históricas; se distinguen de actividad parlamentaria y declaraciones posteriores. Hay 330 posturas comparables de 900 casillas; la cobertura es incompleta y desigual. Los compromisos autonómicos, municipales y de otras convocatorias conservan su alcance y fecha. Las casillas desconocidas no expresan neutralidad ni ausencia de postura del partido.
 
-Consulta [DATA_REPORT.md](DATA_REPORT.md) para conocer la cobertura, los documentos, las incidencias y las decisiones editoriales. Las Cámaras fueron disueltas el 06/10/2026 y las elecciones están convocadas para el 29/11/2026. No se incorporan candidatos sin confirmación oficial para esa convocatoria.
+Consulta [DATA_REPORT.md](DATA_REPORT.md) y la [matriz de cobertura de las 900 casillas](docs/comparison-coverage-2026-10-07.csv) para conocer la cobertura, los documentos, las incidencias y las decisiones editoriales. Las Cámaras fueron disueltas el 06/10/2026 y las elecciones están convocadas para el 29/11/2026. No se incorporan candidatos sin confirmación oficial para esa convocatoria.
 
 ## Ejecutar
 
@@ -83,3 +83,9 @@ Repositorio: [fabiannavarroo/votociego](https://github.com/fabiannavarroo/votoci
 El repositorio conserva únicamente los documentos y extracciones utilizados por el corpus publicado para reproducir sus comprobaciones. Los borradores de investigación, respuestas de controles de acceso y datos locales quedan fuera de Git; los PDF de auditoría tampoco se incluyen en `dist/`.
 
 El código conserva su licencia MIT. Los documentos y marcas conservan las condiciones de sus titulares. Las fichas usan logotipos obtenidos de las webs oficiales, servidos localmente y disponibles sin conexión. Su procedencia, fecha y hashes constan en [docs/LOGOS.md](docs/LOGOS.md) y `public/logos/ATTRIBUTIONS.json`. Si una imagen no carga, se muestran las siglas. El cuestionario ciego sigue ocultando toda identidad de las formaciones.
+
+La ampliación de documentación se conserva en `docs/comparison-evidence.json`. `python3 scripts/expand-comparison.py` importa las decisiones revisadas y comprueba literalmente las citas; después se ejecutan `npm run generate-data` y `npm run verify-data`. Las fuentes web llevan un localizador de texto en lugar de página PDF. Las declaraciones territoriales mantienen su ámbito y las fechas desconocidas permanecen nulas. Los fragmentos oficiales indexados se identifican expresamente y no se presentan como descargas completas.
+
+`python3 scripts/export-comparison-coverage.py` actualiza la matriz CSV desde las preguntas generadas. Los [criterios de comparación](docs/comparison-criteria.md) explican cómo se distingue una postura comparable de información relacionada y qué significa el inventario de fuentes de cada formación.
+
+El desglose de propuestas muestra la postura documentada aunque la respuesta del usuario sea neutral o una pregunta esté saltada. Si solo existe documentación relacionada, muestra su contenido sin atribuir una coincidencia.

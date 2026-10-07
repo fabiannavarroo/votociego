@@ -27,7 +27,27 @@
       "junts-jornada-devolucion-2025",
       "bng-jornada-iniciativa-2025",
       "compromis-jornada-compromis-sumar-2023",
-      "podemos-jornada-congreso-jornada-2025"
+      "podemos-jornada-congreso-jornada-2025",
+      "psoe-jornada-ampliacion-2026",
+      "iu-jornada-ampliacion-2026",
+      "podemos-jornada-podemos-jornada-2019",
+      "geroa-bai-jornada-geroa-bai-forales-2023-revision",
+      "psoe-jornada-psoe-mayo-2024-revision",
+      "pp-jornada-pp-jornada-2025-revision",
+      "iu-jornada-iu-jornada-2024-revision",
+      "compromis-jornada-compromis-generales-2011-societat-revision",
+      "compromis-jornada-compromis-corts-2023-revision",
+      "junts-jornada-congreso-jornada-2025-revision",
+      "vox-jornada-congreso-jornada-2025-revision",
+      "pnv-jornada-congreso-jornada-2025-revision",
+      "compromis-jornada-congreso-jornada-2025-revision",
+      "upn-jornada-congreso-jornada-2025-revision",
+      "ahi-jornada-canarias-jornada-2025-revision",
+      "asg-jornada-canarias-jornada-2025-revision",
+      "cc-jornada-canarias-jornada-2025-revision",
+      "erc-jornada-erc-europeas-2024-revision",
+      "mas-madrid-jornada-mas-madrid-jornada-2024-revision",
+      "erc-jornada-erc-jornada-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -61,7 +81,19 @@
     "relatedProposals": [
       "psoe-smi",
       "bng-smi",
-      "eh-bildu-smi"
+      "eh-bildu-smi",
+      "pp-smi-ampliacion-2026",
+      "sumar-2023-smi-ampliacion-2026",
+      "erc-smi-ampliacion-2026",
+      "junts-smi-junts-catalunya-2024-revision",
+      "podemos-smi-podemos-smi-programa-revision",
+      "iu-smi-iu-2023-revision",
+      "compromis-smi-compromis-generales-2011-societat-revision",
+      "asg-smi-senado-smi-2022-revision",
+      "pnv-smi-senado-smi-2022-revision",
+      "pp-smi-senado-smi-2022-revision",
+      "junts-smi-senado-smi-2022-revision",
+      "erc-smi-erc-catalunya-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -96,7 +128,15 @@
       "pp-fortunas",
       "sumar-2023-fortunas",
       "bng-fortunas",
-      "eh-bildu-fortunas"
+      "eh-bildu-fortunas",
+      "psoe-fortunas-ampliacion-2026",
+      "erc-fortunas-ampliacion-2026",
+      "iu-fortunas-ampliacion-2026",
+      "podemos-fortunas-podemos-justicia-fiscal-revision",
+      "psoe-fortunas-psoe-fortunas-2025-revision",
+      "vox-fortunas-vox-fortunas-2024-revision",
+      "mas-madrid-fortunas-mas-madrid-fortunas-carta-2023-revision",
+      "pnv-fortunas-pnv-fortunas-acuerdo-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -130,7 +170,12 @@
     "relatedProposals": [
       "sumar-2023-banca-energia",
       "bng-banca-energia",
-      "eh-bildu-banca-energia"
+      "eh-bildu-banca-energia",
+      "psoe-banca-energia-ampliacion-2026",
+      "erc-banca-energia-ampliacion-2026",
+      "pp-banca-energia-pp-banca-jornada-revision",
+      "psoe-banca-energia-psoe-fortunas-2025-revision",
+      "vox-banca-energia-senado-cooperacion-2022-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -163,7 +208,14 @@
     "relatedProposals": [
       "pp-irpf-inflacion",
       "vox-irpf-inflacion",
-      "upn-irpf-inflacion"
+      "upn-irpf-inflacion",
+      "bng-irpf-inflacion-ampliacion-2026",
+      "cc-irpf-inflacion-cc-fiscalidad",
+      "junts-irpf-inflacion-junts-catalunya-2024-revision",
+      "asg-irpf-inflacion-asg-vivienda-2026-revision",
+      "pnv-irpf-inflacion-pnv-irpf-2022-revision",
+      "geroa-bai-irpf-inflacion-geroa-irpf-2025-revision",
+      "vox-irpf-inflacion-vox-fortunas-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -292,7 +344,8 @@
     ],
     "relatedProposals": [
       "pp-cuota-autonomos",
-      "vox-cuota-autonomos"
+      "vox-cuota-autonomos",
+      "upn-cuota-autonomos-upn-forales-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -325,7 +378,10 @@
       "Requiere definir jurisdicciones, actividad real y garantías de revisión."
     ],
     "relatedProposals": [
-      "bng-contratos-paraisos"
+      "bng-contratos-paraisos",
+      "erc-contratos-paraisos-ampliacion-2026",
+      "podemos-contratos-paraisos-podemos-murcia-igualdad-2017-revision",
+      "iu-contratos-paraisos-iu-europeas-2019-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -358,7 +414,19 @@
     "relatedProposals": [
       "sumar-2023-alquiler",
       "erc-alquiler",
-      "upn-alquiler"
+      "upn-alquiler",
+      "pp-alquiler-ampliacion-2026",
+      "vox-alquiler-ampliacion-2026",
+      "eh-bildu-alquiler-ampliacion-2026",
+      "iu-alquiler-ampliacion-2026",
+      "compromis-alquiler-compromis-alquiler-2025",
+      "podemos-alquiler-podemos-alquiler-programa",
+      "junts-alquiler-junts-catalunya-2024-revision",
+      "psoe-alquiler-psoe-alquiler-2025-revision",
+      "bng-alquiler-bng-galegas-2024-revision",
+      "upn-alquiler-upn-alquiler-2026-revision",
+      "mas-madrid-alquiler-mas-madrid-alquiler-2026-revision",
+      "pp-alquiler-pp-alquiler-2025-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -395,7 +463,23 @@
       "vox-vivienda-publica",
       "eh-bildu-vivienda-publica",
       "pnv-vivienda-publica",
-      "compromis-vivienda-publica-compromis-sumar-2023"
+      "compromis-vivienda-publica-compromis-sumar-2023",
+      "erc-vivienda-publica-ampliacion-2026",
+      "iu-vivienda-publica-ampliacion-2026",
+      "compromis-vivienda-publica-compromis-alquiler-2025",
+      "ahi-vivienda-publica-ahi-vivienda-2025",
+      "geroa-bai-vivienda-publica-geroa-bai-fiscalidad-2025",
+      "geroa-bai-vivienda-publica-geroa-bai-forales-2023-revision",
+      "cc-vivienda-publica-cc-canarias-2023-revision",
+      "mas-madrid-vivienda-publica-mas-madrid-cm-2023-revision",
+      "ahi-vivienda-publica-ahi-frontera-2023-revision",
+      "junts-vivienda-publica-junts-catalunya-2024-revision",
+      "bng-vivienda-publica-bng-2023-revision",
+      "upn-vivienda-publica-upn-forales-2023-revision",
+      "asg-vivienda-publica-asg-vivienda-2026-revision",
+      "podemos-vivienda-publica-podemos-vivienda-publica-programa-revision",
+      "erc-vivienda-publica-erc-vivienda-2018-revision",
+      "pp-vivienda-publica-pp-alquiler-2025-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -427,7 +511,8 @@
       "No equivale a subvencionar todo el precio ni elimina el riesgo de impago."
     ],
     "relatedProposals": [
-      "pp-hipotecas-jovenes"
+      "pp-hipotecas-jovenes",
+      "junts-hipotecas-jovenes-junts-catalunya-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -459,7 +544,15 @@
       "La vulnerabilidad, las obligaciones públicas y las situaciones cubiertas deben definirse."
     ],
     "relatedProposals": [
-      "erc-desahucios"
+      "erc-desahucios",
+      "iu-desahucios-ampliacion-2026",
+      "sumar-2023-desahucios-ampliacion-2026",
+      "mas-madrid-desahucios-mas-madrid-cm-2023-revision",
+      "podemos-desahucios-podemos-desahucios-programa-revision",
+      "bng-desahucios-bng-galegas-2024-revision",
+      "psoe-desahucios-psoe-desahucios-2026-revision",
+      "compromis-desahucios-compromis-acuerdo-2016-revision",
+      "upn-desahucios-upn-alquiler-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -493,7 +586,15 @@
       "psoe-dental",
       "vox-dental",
       "eh-bildu-dental",
-      "sumar-2023-dental"
+      "sumar-2023-dental",
+      "bng-dental-ampliacion-2026",
+      "iu-dental-ampliacion-2026",
+      "mas-madrid-dental-mas-madrid-cm-2023-revision",
+      "compromis-dental-compromis-corts-2023-revision",
+      "junts-dental-junts-catalunya-2024-revision",
+      "podemos-dental-podemos-murcia-dental-2023-revision",
+      "eh-bildu-dental-bildu-gasteiz-programa-revision",
+      "erc-dental-erc-dental-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -524,7 +625,12 @@
       "Los plazos y las consecuencias de incumplirlos varían; no se asumen resultados garantizados."
     ],
     "relatedProposals": [
-      "psoe-espera-sanitaria"
+      "psoe-espera-sanitaria",
+      "geroa-bai-espera-sanitaria-geroa-bai-forales-2023-revision",
+      "mas-madrid-espera-sanitaria-mas-madrid-cm-2023-revision",
+      "upn-espera-sanitaria-upn-forales-2023-revision",
+      "sumar-2023-espera-sanitaria-sumar-2023-revision",
+      "bng-espera-sanitaria-bng-galegas-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -556,7 +662,18 @@
       "La legalización de todos los usos no equivale por sí sola a una regulación medicinal concreta."
     ],
     "relatedProposals": [
-      "pnv-cannabis"
+      "pnv-cannabis",
+      "sumar-2023-cannabis-ampliacion-2026",
+      "iu-cannabis-ampliacion-2026",
+      "podemos-cannabis-podemos-cannabis-programa-revision",
+      "mas-madrid-cannabis-mas-madrid-cm-2023-revision",
+      "erc-cannabis-erc-cannabis-2021-revision",
+      "vox-cannabis-vox-cannabis-2022-revision",
+      "ahi-cannabis-canarias-cannabis-2024-revision",
+      "asg-cannabis-canarias-cannabis-2024-revision",
+      "pp-cannabis-canarias-cannabis-2024-revision",
+      "psoe-cannabis-canarias-cannabis-2024-revision",
+      "cc-cannabis-canarias-cannabis-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -593,7 +710,20 @@
       "vox-infantil",
       "erc-infantil",
       "iu-infantil",
-      "sumar-2023-infantil"
+      "sumar-2023-infantil",
+      "psoe-infantil-ampliacion-2026",
+      "bng-infantil-ampliacion-2026",
+      "podemos-infantil-podemos-infantil-programa",
+      "geroa-bai-infantil-geroa-bai-forales-2023-revision",
+      "cc-infantil-cc-canarias-2023-revision",
+      "mas-madrid-infantil-mas-madrid-cm-2023-revision",
+      "junts-infantil-junts-catalunya-2024-revision",
+      "erc-infantil-erc-2023-revision",
+      "upn-infantil-upn-forales-2023-revision",
+      "pnv-infantil-pnv-euskadi-2024-revision",
+      "asg-infantil-canarias-infantil-2020-revision",
+      "cc-infantil-canarias-infantil-2020-revision",
+      "compromis-infantil-compromis-acuerdo-2016-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -626,7 +756,11 @@
     ],
     "relatedProposals": [
       "pp-ebau",
-      "vox-ebau"
+      "vox-ebau",
+      "pnv-ebau-ampliacion-2026",
+      "upn-ebau-navarra-ebau-2023-revision",
+      "geroa-bai-ebau-navarra-ebau-2023-revision",
+      "eh-bildu-ebau-navarra-ebau-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -659,7 +793,11 @@
     ],
     "relatedProposals": [
       "sumar-2023-ciencia-abierta",
-      "psoe-ciencia-abierta"
+      "psoe-ciencia-abierta",
+      "iu-ciencia-abierta-ampliacion-2026",
+      "bng-ciencia-abierta-bng-galegas-2024-revision",
+      "junts-ciencia-abierta-junts-catalunya-2024-revision",
+      "erc-ciencia-abierta-erc-europeas-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -695,7 +833,16 @@
       "bng-pension-ipc",
       "pnv-pension-ipc",
       "upn-pension-ipc",
-      "pp-pension-ipc"
+      "pp-pension-ipc",
+      "iu-pension-ipc-ampliacion-2026",
+      "cc-pension-ipc-cc-pensiones",
+      "asg-pension-ipc-asg-pensiones-2018",
+      "podemos-pension-ipc-podemos-pensiones-programa",
+      "geroa-bai-pension-ipc-geroa-bai-fiscalidad-2025",
+      "pp-pension-ipc-pp-pension-ipc-2026-revision",
+      "junts-pension-ipc-junts-catalunya-2024-revision",
+      "erc-pension-ipc-erc-cuestionario-pensiones-revision",
+      "geroa-bai-pension-ipc-geroa-pensiones-enmienda-2014-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -728,7 +875,11 @@
     ],
     "relatedProposals": [
       "bng-jubilacion",
-      "iu-jubilacion"
+      "iu-jubilacion",
+      "erc-jubilacion-ampliacion-2026",
+      "eh-bildu-jubilacion-bildu-gasteiz-programa-revision",
+      "erc-jubilacion-erc-cuestionario-pensiones-revision",
+      "podemos-jubilacion-podemos-jubilacion-declaracion-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -765,7 +916,17 @@
       "eh-bildu-regularizacion",
       "erc-regularizacion",
       "iu-regularizacion",
-      "cc-regularizacion-cc-menores-2024"
+      "cc-regularizacion-cc-menores-2024",
+      "bng-regularizacion-bng-2023-revision",
+      "podemos-regularizacion-podemos-murcia-regularizacion-2026-revision",
+      "vox-regularizacion-vox-regularizacion-2026-revision",
+      "cc-regularizacion-cc-regularizacion-2026-revision",
+      "asg-regularizacion-canarias-regularizacion-2026-revision",
+      "ahi-regularizacion-canarias-regularizacion-2026-revision",
+      "cc-regularizacion-canarias-regularizacion-2026-revision",
+      "pp-regularizacion-canarias-regularizacion-2026-revision",
+      "mas-madrid-regularizacion-mas-madrid-alquiler-2026-revision",
+      "psoe-regularizacion-psoe-regularizacion-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -800,7 +961,10 @@
       "sumar-2023-cie",
       "bng-cie",
       "erc-cie",
-      "iu-cie"
+      "iu-cie",
+      "pnv-cie-ampliacion-2026",
+      "compromis-cie-compromis-corts-2023-revision",
+      "podemos-cie-podemos-cie-programa-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -865,7 +1029,16 @@
     ],
     "relatedProposals": [
       "sumar-2023-pelotas-goma",
-      "eh-bildu-pelotas-goma"
+      "eh-bildu-pelotas-goma",
+      "bng-pelotas-goma-ampliacion-2026",
+      "erc-pelotas-goma-ampliacion-2026",
+      "junts-pelotas-goma-senado-pelotas-2021-revision",
+      "vox-pelotas-goma-senado-pelotas-2021-revision",
+      "pp-pelotas-goma-senado-pelotas-2021-revision",
+      "psoe-pelotas-goma-senado-pelotas-2021-revision",
+      "pnv-pelotas-goma-senado-pelotas-2021-revision",
+      "geroa-bai-pelotas-goma-geroa-pelotas-2021-revision",
+      "psoe-pelotas-goma-psoe-mordaza-ppl-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -897,7 +1070,11 @@
     ],
     "relatedProposals": [
       "pp-cgpj",
-      "vox-cgpj"
+      "vox-cgpj",
+      "psoe-cgpj-psoe-2023-revision",
+      "sumar-2023-cgpj-sumar-2023-revision",
+      "compromis-cgpj-compromis-acuerdo-2016-revision",
+      "podemos-cgpj-podemos-cgpj-programa-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -932,7 +1109,17 @@
       "sumar-2023-seguridad-ciudadana",
       "bng-seguridad-ciudadana",
       "eh-bildu-seguridad-ciudadana",
-      "erc-seguridad-ciudadana"
+      "erc-seguridad-ciudadana",
+      "iu-seguridad-ciudadana-ampliacion-2026",
+      "geroa-bai-seguridad-ciudadana-geroa-bai-generales-2019-revision",
+      "podemos-seguridad-ciudadana-podemos-mordaza-declaracion-revision",
+      "psoe-seguridad-ciudadana-psoe-mordaza-2024-revision",
+      "pp-seguridad-ciudadana-pp-mordaza-pnl-2021-revision",
+      "compromis-seguridad-ciudadana-compromis-mordaza-2019-revision",
+      "vox-seguridad-ciudadana-vox-mordaza-2024-revision",
+      "pnv-seguridad-ciudadana-pnv-mordaza-2024-revision",
+      "iu-seguridad-ciudadana-iu-mordaza-2025-revision",
+      "mas-madrid-seguridad-ciudadana-mas-madrid-mordaza-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -964,7 +1151,17 @@
       "Evaluar resultados no equivale a respaldar cualquier contenido de un plan."
     ],
     "relatedProposals": [
-      "pp-planes-igualdad"
+      "pp-planes-igualdad",
+      "vox-planes-igualdad-ampliacion-2026",
+      "sumar-2023-planes-igualdad-ampliacion-2026",
+      "iu-planes-igualdad-ampliacion-2026",
+      "geroa-bai-planes-igualdad-geroa-bai-forales-2023-revision",
+      "mas-madrid-planes-igualdad-mas-madrid-cm-2023-revision",
+      "compromis-planes-igualdad-compromis-corts-2023-revision",
+      "upn-planes-igualdad-upn-forales-2023-revision",
+      "podemos-planes-igualdad-podemos-murcia-igualdad-2017-revision",
+      "erc-planes-igualdad-erc-europeas-2024-revision",
+      "iu-planes-igualdad-iu-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -998,7 +1195,23 @@
     ],
     "relatedProposals": [
       "sumar-2023-aborto-publico",
-      "vox-aborto-publico"
+      "vox-aborto-publico",
+      "psoe-aborto-publico-ampliacion-2026",
+      "pp-aborto-publico-ampliacion-2026",
+      "erc-aborto-publico-ampliacion-2026",
+      "mas-madrid-aborto-publico-mas-madrid-aborto-2025",
+      "geroa-bai-aborto-publico-geroa-bai-forales-2023-revision",
+      "iu-aborto-publico-iu-2023-revision",
+      "podemos-aborto-publico-podemos-andalucia-aborto-2023-revision",
+      "eh-bildu-aborto-publico-bildu-euskadi-2024-revision",
+      "psoe-aborto-publico-psoe-aborto-pnl-indexada-2025-revision",
+      "bng-aborto-publico-bng-galegas-2024-revision",
+      "compromis-aborto-publico-compromis-aborto-2025-revision",
+      "asg-aborto-publico-canarias-aborto-2025-revision",
+      "cc-aborto-publico-canarias-aborto-2025-revision",
+      "ahi-aborto-publico-canarias-aborto-2025-revision",
+      "erc-aborto-publico-erc-catalunya-2024-revision",
+      "junts-aborto-publico-junts-catalunya-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1032,7 +1245,14 @@
     ],
     "relatedProposals": [
       "psoe-permiso-nacimiento",
-      "pp-permiso-nacimiento"
+      "pp-permiso-nacimiento",
+      "sumar-2023-permiso-nacimiento-ampliacion-2026",
+      "erc-permiso-nacimiento-ampliacion-2026",
+      "compromis-permiso-nacimiento-compromis-corts-2023-revision",
+      "podemos-permiso-nacimiento-podemos-permiso-nacimiento-programa-revision",
+      "pnv-permiso-nacimiento-pnv-euskadi-2024-revision",
+      "mas-madrid-permiso-nacimiento-mas-madrid-cm-2023-revision",
+      "asg-permiso-nacimiento-senado-permisos-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1065,7 +1285,12 @@
     ],
     "relatedProposals": [
       "psoe-crianza",
-      "sumar-2023-crianza"
+      "sumar-2023-crianza",
+      "erc-crianza-ampliacion-2026",
+      "mas-madrid-crianza-mas-madrid-cm-2023-revision",
+      "eh-bildu-crianza-bildu-euskadi-2024-revision",
+      "pnv-crianza-pnv-euskadi-2024-revision",
+      "erc-crianza-erc-catalunya-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1099,7 +1324,16 @@
     "relatedProposals": [
       "pp-nuclear",
       "psoe-nuclear",
-      "vox-nuclear"
+      "vox-nuclear",
+      "compromis-nuclear-compromis-corts-2023-revision",
+      "sumar-2023-nuclear-sumar-2023-revision",
+      "podemos-nuclear-podemos-nuclear-programa-revision",
+      "bng-nuclear-bng-galegas-2024-revision",
+      "geroa-bai-nuclear-navarra-nuclear-2025-revision",
+      "eh-bildu-nuclear-navarra-nuclear-2025-revision",
+      "upn-nuclear-navarra-nuclear-votacion-2025-revision",
+      "erc-nuclear-erc-europeas-2024-revision",
+      "iu-nuclear-iu-nuclear-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1132,7 +1366,9 @@
     ],
     "relatedProposals": [
       "sumar-2023-energia-publica",
-      "iu-energia-publica"
+      "iu-energia-publica",
+      "bng-energia-publica-ampliacion-2026",
+      "podemos-energia-publica-podemos-hidroelectricas-programa-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1197,7 +1433,8 @@
       "La restauración no implica prohibir de forma general toda actividad económica."
     ],
     "relatedProposals": [
-      "sumar-2023-restauracion"
+      "sumar-2023-restauracion",
+      "psoe-restauracion-ampliacion-2026"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1261,7 +1498,17 @@
       "Los límites de edad, tipos de transporte y condición de estudiante varían."
     ],
     "relatedProposals": [
-      "psoe-transporte-joven"
+      "psoe-transporte-joven",
+      "eh-bildu-transporte-joven-ampliacion-2026",
+      "geroa-bai-transporte-joven-geroa-bai-forales-2023-revision",
+      "mas-madrid-transporte-joven-mas-madrid-cm-2023-revision",
+      "compromis-transporte-joven-compromis-corts-2023-revision",
+      "ahi-transporte-joven-ahi-decreto-canarias-2025-revision",
+      "asg-transporte-joven-asg-transporte-2025-revision",
+      "podemos-transporte-joven-podemos-transporte-joven-europa-revision",
+      "eh-bildu-transporte-joven-bildu-euskadi-2024-revision",
+      "erc-transporte-joven-erc-catalunya-2024-revision",
+      "junts-transporte-joven-junts-catalunya-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1294,7 +1541,17 @@
     ],
     "relatedProposals": [
       "bng-cadena-alimentaria",
-      "erc-cadena-alimentaria"
+      "erc-cadena-alimentaria",
+      "pp-cadena-alimentaria-ampliacion-2026",
+      "vox-cadena-alimentaria-ampliacion-2026",
+      "asg-cadena-alimentaria-canarias-cadena-julio-2022-revision",
+      "pp-cadena-alimentaria-canarias-cadena-julio-2022-revision",
+      "psoe-cadena-alimentaria-psoe-2023-revision",
+      "sumar-2023-cadena-alimentaria-sumar-2023-revision",
+      "erc-cadena-alimentaria-erc-2023-revision",
+      "compromis-cadena-alimentaria-compromis-corts-2023-revision",
+      "eh-bildu-cadena-alimentaria-bildu-euskadi-2024-revision",
+      "iu-cadena-alimentaria-iu-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1331,7 +1588,15 @@
       "sumar-2023-ganaderia",
       "vox-ganaderia",
       "erc-ganaderia",
-      "iu-ganaderia"
+      "iu-ganaderia",
+      "geroa-bai-ganaderia-geroa-bai-forales-2023-revision",
+      "junts-ganaderia-junts-catalunya-2024-revision",
+      "podemos-ganaderia-podemos-ganaderia-europa-revision",
+      "bng-ganaderia-bng-galegas-2024-revision",
+      "compromis-ganaderia-compromis-corts-2023-revision",
+      "ahi-ganaderia-canarias-ganaderia-2026-revision",
+      "asg-ganaderia-canarias-ganaderia-2026-revision",
+      "pp-ganaderia-pp-murcia-2025-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1364,7 +1629,11 @@
     ],
     "relatedProposals": [
       "psoe-ley-industria",
-      "eh-bildu-ley-industria"
+      "eh-bildu-ley-industria",
+      "geroa-bai-ley-industria-geroa-bai-forales-2023-revision",
+      "pnv-ley-industria-pnv-2023-revision",
+      "vox-ley-industria-vox-2023-revision",
+      "erc-ley-industria-erc-industria-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1396,7 +1665,11 @@
       "No se presume apoyo a prevalencia incondicional ni a cualquier convenio de empresa."
     ],
     "relatedProposals": [
-      "pnv-convenios"
+      "pnv-convenios",
+      "bng-convenios-ampliacion-2026",
+      "eh-bildu-convenios-ampliacion-2026",
+      "bng-convenios-bng-galegas-2024-revision",
+      "pnv-convenios-pnv-euskadi-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1430,7 +1703,10 @@
     ],
     "relatedProposals": [
       "sumar-2023-reglas-fiscales",
-      "pnv-reglas-fiscales"
+      "pnv-reglas-fiscales",
+      "sumar-2023-reglas-fiscales-ampliacion-2026",
+      "erc-reglas-fiscales-erc-europeas-2024-revision",
+      "iu-reglas-fiscales-iu-2023-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1461,7 +1737,14 @@
       "Se muestran propuestas fechadas; no se presenta el reconocimiento como un hecho todavía pendiente."
     ],
     "relatedProposals": [
-      "bng-palestina"
+      "bng-palestina",
+      "sumar-2023-palestina-sumar-2023-revision",
+      "psoe-palestina-psoe-palestina-discurso-revision",
+      "podemos-palestina-podemos-palestina-2016-revision",
+      "erc-palestina-erc-palestina-2026-revision",
+      "pnv-palestina-pnv-palestina-2024-revision",
+      "iu-palestina-iu-palestina-2024-revision",
+      "pp-palestina-pp-palestina-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1495,7 +1778,8 @@
     "relatedProposals": [
       "sumar-2023-armas-nucleares",
       "erc-armas-nucleares",
-      "iu-armas-nucleares"
+      "iu-armas-nucleares",
+      "podemos-armas-nucleares-podemos-tpan-europa-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1529,7 +1813,16 @@
     "relatedProposals": [
       "psoe-cooperacion",
       "sumar-2023-cooperacion",
-      "iu-cooperacion"
+      "iu-cooperacion",
+      "junts-cooperacion-junts-catalunya-2024-revision",
+      "sumar-2023-cooperacion-sumar-2023-revision",
+      "bng-cooperacion-bng-galegas-2024-revision",
+      "upn-cooperacion-upn-forales-2023-revision",
+      "podemos-cooperacion-podemos-cooperacion-programa-revision",
+      "iu-cooperacion-iu-europeas-2019-revision",
+      "erc-cooperacion-erc-catalunya-2024-revision",
+      "mas-madrid-cooperacion-senado-cooperacion-2022-revision",
+      "junts-cooperacion-senado-cooperacion-2022-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1561,7 +1854,12 @@
       "Se muestra el compromiso de la fecha original; no se presupone que sea la meta actual de un partido."
     ],
     "relatedProposals": [
-      "pp-defensa"
+      "pp-defensa",
+      "psoe-defensa-ampliacion-2026",
+      "bng-defensa-ampliacion-2026",
+      "iu-defensa-ampliacion-2026",
+      "psoe-defensa-psoe-defensa-plan-2025-revision",
+      "vox-defensa-vox-defensa-2025-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1595,7 +1893,13 @@
     ],
     "relatedProposals": [
       "pp-ia-derechos",
-      "pnv-ia-derechos"
+      "pnv-ia-derechos",
+      "psoe-ia-derechos-ampliacion-2026",
+      "sumar-2023-ia-derechos-ampliacion-2026",
+      "iu-ia-derechos-ampliacion-2026",
+      "bng-ia-derechos-bng-galegas-2024-revision",
+      "pnv-ia-derechos-pnv-euskadi-2024-revision",
+      "erc-ia-derechos-erc-europeas-2024-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1632,7 +1936,15 @@
       "eh-bildu-atencion-presencial",
       "erc-atencion-presencial",
       "vox-atencion-presencial",
-      "bng-atencion-presencial"
+      "bng-atencion-presencial",
+      "cc-atencion-presencial-cc-canarias-2023-revision",
+      "mas-madrid-atencion-presencial-mas-madrid-cm-2023-revision",
+      "compromis-atencion-presencial-compromis-corts-2023-revision",
+      "upn-atencion-presencial-upn-forales-2023-revision",
+      "eh-bildu-atencion-presencial-bildu-euskadi-2024-revision",
+      "sumar-2023-atencion-presencial-sumar-2023-revision",
+      "pnv-atencion-presencial-pnv-euskadi-2024-revision",
+      "asg-atencion-presencial-senado-permisos-2026-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {
@@ -1665,7 +1977,13 @@
       "Software gratuito y software libre son conceptos distintos; no se presume ahorro automático."
     ],
     "relatedProposals": [
-      "sumar-2023-software-publico"
+      "sumar-2023-software-publico",
+      "mas-madrid-software-publico-mas-madrid-cm-2023-revision",
+      "compromis-software-publico-compromis-corts-2023-revision",
+      "podemos-software-publico-podemos-software-2015-revision",
+      "iu-software-publico-iu-europeas-2019-revision",
+      "erc-software-publico-erc-catalunya-2024-revision",
+      "geroa-bai-software-publico-geroa-bai-forales-2015-revision"
     ],
     "lastVerified": "2026-10-07",
     "qualityReview": {

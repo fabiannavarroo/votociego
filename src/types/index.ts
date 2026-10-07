@@ -4,7 +4,7 @@ export type Answers = Record<string, Answer>;
 export type Importance = Record<string, 1 | 2 | 3>;
 export type SourceType = 'electoral_program' | 'programmatic_document' | 'parliamentary_activity' | 'official_statement' | 'institutional';
 export type Stance = 'support' | 'oppose' | 'conditional' | 'related';
-export interface Source { sourceTitle: string; sourceUrl: string; sourceDate: string | null; sourceDateLabel?: string; sourcePage?: number | string | null; sourcePages?: number[]; lastVerified: string; demo: boolean; sourceType?: SourceType | null; election?: string | null; validity?: string }
+export interface Source { sourceTitle: string; sourceUrl: string; sourceDate: string | null; sourceDateLabel?: string; sourcePage?: number | string | null; sourcePages?: number[]; sourceLocator?: string | null; lastVerified: string; demo: boolean; sourceType?: SourceType | null; election?: string | null; validity?: string }
 export interface DocumentSource extends Source { id: string; partyIds: string[]; sha256: string | null; pageCount: number | null; verificationStatus: string; verificationMethod: string; verificationNote?: string; pageConvention?: string }
 export interface PartyPosition extends Source { position: Position | null; quote: string; summary: string; stance: Stance | null; certainty: 'high' | 'medium' | null; proposalIds: string[]; conflict: boolean; comparisonNote: string }
 export interface Question { id: string; issueId: string; category: string; categories: string[]; statement: string; context: { meaning: string; objectives: string; for: string; against: string; implications: string }; sourceContext: string; positions: Record<string, PartyPosition>; relatedProposals: string[]; importantNuances: string[]; lastVerified: string }

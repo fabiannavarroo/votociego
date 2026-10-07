@@ -15,7 +15,24 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Grupo Plural (Senado)",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "ahi-canarias-2023",
+        "title": "AHI · programa autonómico de 2023",
+        "election": "Elecciones autonómicas · 28/05/2023",
+        "date": null,
+        "url": "https://ahi-elhierro.es/programa-electoral-elecciones-28m-canarias-2023/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "ahi-frontera-2023",
+        "title": "AHI · propuestas municipales para La Frontera de 2023",
+        "election": "Elecciones municipales · 28/05/2023",
+        "date": null,
+        "url": "https://ahi-elhierro.es/lista-ahi-a-la-frontera/",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "senado",
       "legislature": "XV (2023–2026), disuelta",
@@ -90,6 +107,14 @@
         "date": null,
         "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
         "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "bng-galegas-2024",
+        "title": "BNG · programa de goberno das galegas de 2024",
+        "election": "Elecciones al Parlamento de Galicia · 18/02/2024",
+        "date": null,
+        "url": "https://www.bng.gal/media/bnggaliza/files/2024/01/24/24_bng_galegas_programa_goberno.pdf",
+        "lastVerified": "2026-10-07"
       }
     ],
     "representation": {
@@ -124,7 +149,16 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Grupo Plural (Senado)",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "cc-canarias-2023",
+        "title": "Coalición Canaria · Canarias por delante 2023-2027",
+        "election": "Elecciones autonómicas · 28/05/2023",
+        "date": null,
+        "url": "https://coalicioncanaria.org/wp-content/uploads/cc-pdf/programas-electorales/00%20Programa%20Electoral%20Elecciones%20auton%C3%B3micas%20y%20municipales%202023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "congreso y senado",
       "legislature": "XV (2023–2026), disuelta",
@@ -164,6 +198,38 @@
         "election": "Generales · candidatura Compromís-Sumar · 23/07/2023",
         "date": null,
         "url": "https://sumar.compromis.net/docs/programa-val.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "compromis-corts-2023",
+        "title": "Compromís · programa para las Corts Valencianes de 2023",
+        "election": "Elecciones a las Corts Valencianes · 28/05/2023",
+        "date": null,
+        "url": "https://28m.compromis.net/docs/PROGRAMA_ELECTORAL_2023_%20CAS.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "compromis-generales-2011-societat",
+        "title": "Compromís · programa de las generales de 2011, sociedad y empleo",
+        "election": "Elecciones generales · 20/11/2011",
+        "date": null,
+        "url": "https://programa2011.compromis.net/?seccio=societat",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "compromis-mordaza-2019",
+        "title": "Compromís · Derechos de la ciudadanía, programa Imparables 2019",
+        "election": "Programa Imparables · elecciones de 2019",
+        "date": null,
+        "url": "https://imparables.compromis.net/cas/programa/drets-ciutadania/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "compromis-acuerdo-2016",
+        "title": "Compromís · propuesta para un acuerdo de Gobierno de 2016",
+        "election": null,
+        "date": null,
+        "url": "https://compromis.net/wp-content/uploads/2016/09/31_medidas_acuerdo_gobierno.pdf",
         "lastVerified": "2026-10-07"
       }
     ],
@@ -213,6 +279,22 @@
         "date": null,
         "url": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
         "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "erc-europeas-2024",
+        "title": "ERC · Europa Republicana, programa europeo de 2024",
+        "election": "Elecciones europeas · 09/06/2024",
+        "date": null,
+        "url": "https://static.esquerra.cat/uploads/20240527/Programa-electoral-eleccions-Parlament-Europeu-2024.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "erc-catalunya-2024",
+        "title": "ERC · programa de las elecciones catalanas de 2024",
+        "election": "Elecciones al Parlament · 12/05/2024",
+        "date": null,
+        "url": "https://static.esquerra.cat/uploads/20240529/c2024-programa.pdf",
+        "lastVerified": "2026-10-07"
       }
     ],
     "representation": {
@@ -254,6 +336,22 @@
         "election": "Elecciones generales · 23/07/2023",
         "date": null,
         "url": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "bildu-gasteiz-programa",
+        "title": "EH Bildu · programa municipal de Gasteiz 2019-2023",
+        "election": "Elecciones municipales · 26/05/2019",
+        "date": null,
+        "url": "https://ehbildu.eus/herriak/gasteiz/dokumentuak/EU_1578673322.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "bildu-euskadi-2024",
+        "title": "EH Bildu · programa de Gobierno 2024-2028",
+        "election": "Elecciones al Parlamento Vasco · 21/04/2024",
+        "date": "2024-04-04",
+        "url": "https://pello.eus/wp-content/uploads/2024/04/Programa_de_Gobierno_EH_Bildu_CAS.pdf",
         "lastVerified": "2026-10-07"
       }
     ],
@@ -298,6 +396,14 @@
         "date": "2023-07-23",
         "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
         "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "pnv-euskadi-2024",
+        "title": "EAJ-PNV · programa electoral 21A de 2024",
+        "election": "Elecciones al Parlamento Vasco · 21/04/2024",
+        "date": "2024-04-03",
+        "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21243/pdf/programa-electoral-21a",
+        "lastVerified": "2026-10-07"
       }
     ],
     "representation": {
@@ -332,7 +438,32 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Izquierda Confederal (Senado)",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "geroa-bai-forales-2023",
+        "title": "Geroa Bai · programa de las elecciones forales de 2023",
+        "election": "Elecciones forales de Navarra · 28/05/2023",
+        "date": "2023-05-03",
+        "url": "https://geroabai.eus/files/2023/05/programa-parlamento-completo-pag-4.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "geroa-bai-generales-2019",
+        "title": "Geroa Bai · bases políticas de las generales de 2019",
+        "election": "Elecciones generales · 10/11/2019",
+        "date": "2019-10-28",
+        "url": "https://geroabai.eus/files/2019/10/BASES%20POLITICAS-10N-2019-VF.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "geroa-bai-forales-2015",
+        "title": "Geroa Bai · bases programáticas de 2015",
+        "election": null,
+        "date": null,
+        "url": "https://geroabai.eus/files/2016/12/basesprogram%C3%A1ticas2015castellano.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "senado",
       "legislature": "XV (2023–2026), disuelta",
@@ -372,6 +503,14 @@
         "election": "Elecciones generales · 23/07/2023",
         "date": "2023-07-01",
         "url": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "iu-europeas-2019",
+        "title": "IU · programa propio para las europeas de 2019",
+        "election": "Elecciones europeas · 26/05/2019",
+        "date": null,
+        "url": "https://izquierdaunida.org/wp-content/uploads/2019/05/Programa-completo-IU-Europeas-2019.pdf",
         "lastVerified": "2026-10-07"
       }
     ],
@@ -413,7 +552,16 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Grupo Plural (Senado)",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "junts-catalunya-2024",
+        "title": "Junts+Puigdemont per Catalunya · programa de gobierno de 2024",
+        "election": "Elecciones al Parlament de Catalunya · 12/05/2024",
+        "date": null,
+        "url": "https://carlespuigdemont.cat/wp-content/uploads/2024/04/PROGRAMA-DE-GOVERN.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "congreso y senado",
       "legislature": "XV (2023–2026), disuelta",
@@ -446,7 +594,16 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Izquierda Confederal (Senado)",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "mas-madrid-cm-2023",
+        "title": "Más Madrid · Para vivir mejor, programa de 2023",
+        "election": "Elecciones autonómicas · 28/05/2023",
+        "date": null,
+        "url": "https://programa.masmadrid.org/pdf/Comunidad%20de%20Madrid/Programa%20M%C3%A1s%20Madrid%20-%20CM%202023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "senado",
       "legislature": "XV (2023–2026), disuelta",
@@ -569,7 +726,160 @@
     "lastUpdated": "2026-10-07",
     "lastVerified": "2026-10-07",
     "parliamentaryGroup": "Grupo Mixto; cámara indicada en la relación",
-    "programs": [],
+    "programs": [
+      {
+        "sourceId": "podemos-jornada-2019",
+        "title": "Podemos · propuesta histórica de jornada de 34 horas",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/jornada-laboral-de-34-horas-semanales-y-reorganizacion-de-los-tiempos-de-trabajo-ocio-y-cuidados/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-infantil-programa",
+        "title": "Podemos · educación infantil universal y gratuita",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/garantizar-la-cobertura-universal-y-gratuita-de-la-educacion-infantil-de-0-a-3-anos/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-alquiler-programa",
+        "title": "Podemos · regulación del alquiler",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/intervenir-el-mercado-del-alquiler-para-impedir-subidas-abusivas-mediante-el-control-de-precios-y-garantizar-un-alquiler-estable-y-seguro-para-personas-inquilinas-y-pequenas-propietarias/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-pensiones-programa",
+        "title": "Podemos · revalorización de pensiones con el IPC",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/materia/pensiones/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-smi-programa",
+        "title": "Podemos · objetivo de salario mínimo en el 60 % del salario medio",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/eu/medida/alcanzar-un-salario-minimo-interprofesional-de-1200-euros-en-la-proxima-legislatura/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-cie-programa",
+        "title": "Podemos · cierre de los centros de internamiento de extranjeros",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/materia/migraciones/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-cannabis-programa",
+        "title": "Podemos · regulación del cannabis y uso medicinal",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/bloque/garantias-democraticas-ciudadania/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-vivienda-publica-programa",
+        "title": "Podemos · parque público de alquiler asequible",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/gal/medida/crear-un-gran-parque-de-alquiler-publico-de-precio-asequible-mediante-la-cesion-obligatoria-y-las-sanciones-a-los-grandes-tenedores-de-vivienda-vacia-asi-como-la-construccion-de-vivienda-donde-sea-ne/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-desahucios-programa",
+        "title": "Podemos · prohibición de desalojos sin alternativa habitacional",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/eu/medida/prohibir-los-desalojos-sin-alternativa-habitacional/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-hidroelectricas-programa",
+        "title": "Podemos · gestión pública de hidroeléctricas tras caducar concesiones",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/recuperar-automaticamente-la-gestion-publica-de-las-centrales-hidroelectricas-cuyas-concesiones-para-la-explotacion-privada-hayan-caducado-o-lo-hagan-en-el-futuro/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-nuclear-programa",
+        "title": "Podemos · objetivo histórico de cierre nuclear",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/objetivos-de-cierre-de-las-centrales-de-carbon-antes-del-final-de-2025-y-siempre-garantizando-el-uso-de-carbon-nacional-y-de-las-centrales-nucleares-antes-del-final-de-2024/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-permiso-nacimiento-programa",
+        "title": "Podemos · ampliación retribuida de permisos por nacimiento",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida/permisos-por-nacimiento-y-cuidado-del-menor-iguales-e-intransferibles/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-transporte-joven-europa",
+        "title": "Podemos · tarjeta europea de transporte gratuito para menores de 26 años",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/en/medida-europa/tarjeta-europea-de-transporte-gratuita-para-menores-de-26-anos/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-software-2015",
+        "title": "Podemos · programa de cultura y comunicación de 2015",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/documento-programatico-de-cultura-y-comunicacion-elecciones-generales-de-2015/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-ganaderia-europa",
+        "title": "Podemos · ayudas de la PAC a la ganadería extensiva",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/medida-europa/un-reparto-justo-y-adecuado-de-las-ayudas-directas/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-tpan-europa",
+        "title": "Podemos · adhesión al Tratado de Prohibición de Armas Nucleares",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/as/medida-europa/un-compromiso-activo-para-la-paz/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-justicia-fiscal",
+        "title": "Podemos · impuesto progresivo sobre grandes fortunas",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/eu/bloque/garantias-justicia-fiscal/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-cgpj-programa",
+        "title": "Podemos · elección ciudadana del CGPJ",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/materia/democracia-participacion/",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "podemos-cooperacion-programa",
+        "title": "Podemos · ayuda al desarrollo del cero coma siete por ciento de la RNB",
+        "election": null,
+        "date": null,
+        "url": "https://podemos.info/materia/cooperacion-internacional/",
+        "lastVerified": "2026-10-07"
+      }
+    ],
     "representation": {
       "scope": "congreso",
       "legislature": "XV (2023–2026), disuelta",
@@ -658,6 +968,14 @@
         "election": "Elecciones generales · 23/07/2023",
         "date": null,
         "url": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+        "lastVerified": "2026-10-07"
+      },
+      {
+        "sourceId": "upn-forales-2023",
+        "title": "UPN · programa de las elecciones forales y municipales de 2023",
+        "election": "Elecciones forales y municipales · 28/05/2023",
+        "date": null,
+        "url": "https://www.upn.org/wp-content/uploads/2024/01/programacastellano.pdf",
         "lastVerified": "2026-10-07"
       }
     ],

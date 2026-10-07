@@ -30,81 +30,81 @@
     "id": "junts-programa",
     "partyId": "junts",
     "url": "https://junts.cat/",
-    "status": "blocked_or_unavailable",
-    "reason": "Web oficial bloqueada; no se localizó un PDF oficial de las generales de 2023 descargable. Las fuentes municipales/europeas se excluyeron del test nacional.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Se conserva actividad parlamentaria, sin atribuir un programa no procesado."
+    "resolution": "Se descargó el programa de gobierno de Junts+Puigdemont para Catalunya 2024 desde la web oficial de campaña de Carles Puigdemont. Se mantiene la convocatoria y el ámbito, sin atribuir posturas a otros integrantes."
   },
   {
     "id": "ahi-coverage",
     "partyId": "ahi",
     "url": "https://ahi-elhierro.es/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+    "resolution": "Se incorpora el programa autonómico de 2023 para su revisión, las propuestas propias de La Frontera sobre vivienda pública y el apoyo de noviembre de 2025 al transporte gratuito en Canarias."
   },
   {
     "id": "asg-coverage",
     "partyId": "asg",
     "url": "https://www.agrupacionsocialistagomera.es/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+    "resolution": "Se añaden declaraciones propias sobre vivienda pública, IRPF y transporte de 2025, además de la declaración histórica de pensiones de 2018."
   },
   {
     "id": "cc-coverage",
     "partyId": "cc",
     "url": "https://coalicioncanaria.org/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Se procesó una declaración oficial de 2024 sobre menores migrantes. No se infiere una posición sobre regularización."
+    "resolution": "Se incorpora el programa canario de 2023 y declaraciones propias sobre pensiones y fiscalidad. El programa conjunto con Nueva Canarias de 2019 no se hereda a CC."
   },
   {
     "id": "compromis-coverage",
     "partyId": "compromis",
     "url": "https://compromis.net/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Se procesó el programa conjunto Compromís-Sumar de 2023 como contexto con atribución a la candidatura; no se hereda a Compromís."
+    "resolution": "Se incorpora el programa propio de las Corts de 2023 y la declaración de València de marzo de 2025. El documento Compromís-Sumar conserva su atribución conjunta."
   },
   {
     "id": "geroa-bai-coverage",
     "partyId": "geroa-bai",
     "url": "https://www.geroabai.eus/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+    "resolution": "Se incorporan el programa foral de 2023 y las bases políticas propias de las generales de 2019. Se indican ámbito y fecha y se mantienen como relacionadas las medidas que no equivalen al enunciado."
   },
   {
     "id": "junts-coverage",
     "partyId": "junts",
     "url": "https://junts.cat/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+    "resolution": "Se incorporan compromisos documentados del programa de la campaña catalana de 2024. Las preguntas sin equivalencia suficiente permanecen desconocidas."
   },
   {
     "id": "mas-madrid-coverage",
     "partyId": "mas-madrid",
     "url": "https://masmadrid.org/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+    "resolution": "Se incorpora el programa autonómico propio de 2023 y la propuesta de noviembre de 2025 sobre aborto en centros públicos madrileños."
   },
   {
     "id": "podemos-coverage",
     "partyId": "podemos",
     "url": "https://podemos.info/",
-    "status": "missing_coverage",
-    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "status": "partial_coverage",
+    "reason": "Cobertura propia ampliada; quedan preguntas sin evidencia comparable.",
     "lastVerified": "2026-10-07",
-    "resolution": "Se conservó intervención de Noemí Santana de 2025 con adscripción oficial comprobada. El PDF europeo de 2024 bloqueado no se mezcla con generales."
+    "resolution": "Se incorporan páginas programáticas propias leídas mediante fragmentos oficiales indexados, incluidas SMI, cierre de CIE y cannabis. No se hereda el programa de Sumar. Fechas de publicación no acreditadas: nulas."
   }
 ]

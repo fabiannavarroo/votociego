@@ -1,158 +1,158 @@
 {
   "lastVerified": "2026-10-07",
   "formations": 18,
-  "sources": 19,
-  "downloadedPrograms": 11,
-  "proposals": 130,
+  "sources": 136,
+  "downloadedPrograms": 25,
+  "proposals": 448,
   "questions": 50,
-  "unknownPositions": 799,
-  "medium": 5,
+  "unknownPositions": 570,
+  "medium": 71,
   "missingSources": 0,
   "rejectedQuestions": 0,
   "parties": [
     {
       "id": "ahi",
       "name": "Agrupación Herreña Independiente",
-      "proposals": 0,
-      "sources": 0,
-      "questions": 0,
-      "missing": 50
+      "proposals": 8,
+      "sources": 8,
+      "questions": 5,
+      "missing": 45
     },
     {
       "id": "asg",
       "name": "Agrupación Socialista Gomera",
-      "proposals": 0,
-      "sources": 0,
-      "questions": 0,
-      "missing": 50
+      "proposals": 14,
+      "sources": 12,
+      "questions": 13,
+      "missing": 37
     },
     {
       "id": "bng",
       "name": "Bloque Nacionalista Galego",
-      "proposals": 13,
-      "sources": 2,
-      "questions": 12,
-      "missing": 38
+      "proposals": 32,
+      "sources": 3,
+      "questions": 26,
+      "missing": 24
     },
     {
       "id": "cc",
       "name": "Coalición Canaria",
-      "proposals": 1,
-      "sources": 1,
-      "questions": 0,
-      "missing": 50
-    },
-    {
-      "id": "compromis",
-      "name": "Compromís",
-      "proposals": 2,
-      "sources": 1,
-      "questions": 0,
-      "missing": 50
-    },
-    {
-      "id": "erc",
-      "name": "Esquerra Republicana de Catalunya",
-      "proposals": 10,
-      "sources": 1,
+      "proposals": 12,
+      "sources": 10,
       "questions": 8,
       "missing": 42
     },
     {
+      "id": "compromis",
+      "name": "Compromís",
+      "proposals": 23,
+      "sources": 8,
+      "questions": 13,
+      "missing": 37
+    },
+    {
+      "id": "erc",
+      "name": "Esquerra Republicana de Catalunya",
+      "proposals": 42,
+      "sources": 10,
+      "questions": 27,
+      "missing": 23
+    },
+    {
       "id": "eh-bildu",
       "name": "Euskal Herria Bildu",
-      "proposals": 11,
-      "sources": 1,
-      "questions": 9,
-      "missing": 41
+      "proposals": 23,
+      "sources": 5,
+      "questions": 16,
+      "missing": 34
     },
     {
       "id": "pnv",
       "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
-      "proposals": 7,
-      "sources": 1,
-      "questions": 7,
-      "missing": 43
+      "proposals": 23,
+      "sources": 9,
+      "questions": 14,
+      "missing": 36
     },
     {
       "id": "geroa-bai",
       "name": "Geroa Bai",
-      "proposals": 0,
-      "sources": 0,
-      "questions": 0,
-      "missing": 50
+      "proposals": 18,
+      "sources": 9,
+      "questions": 11,
+      "missing": 39
     },
     {
       "id": "iu",
       "name": "Izquierda Unida",
-      "proposals": 9,
-      "sources": 1,
-      "questions": 7,
-      "missing": 43
+      "proposals": 34,
+      "sources": 6,
+      "questions": 28,
+      "missing": 22
     },
     {
       "id": "junts",
       "name": "Junts per Catalunya",
-      "proposals": 1,
-      "sources": 1,
-      "questions": 0,
-      "missing": 50
+      "proposals": 18,
+      "sources": 5,
+      "questions": 10,
+      "missing": 40
     },
     {
       "id": "mas-madrid",
       "name": "Más Madrid",
-      "proposals": 0,
-      "sources": 0,
-      "questions": 0,
-      "missing": 50
+      "proposals": 19,
+      "sources": 7,
+      "questions": 13,
+      "missing": 37
     },
     {
       "id": "pp",
       "name": "Partido Popular",
-      "proposals": 16,
-      "sources": 2,
-      "questions": 13,
-      "missing": 37
+      "proposals": 33,
+      "sources": 14,
+      "questions": 26,
+      "missing": 24
     },
     {
       "id": "psoe",
       "name": "Partido Socialista Obrero Español",
-      "proposals": 15,
-      "sources": 1,
-      "questions": 13,
-      "missing": 37
+      "proposals": 38,
+      "sources": 13,
+      "questions": 29,
+      "missing": 21
     },
     {
       "id": "podemos",
       "name": "Podemos",
-      "proposals": 1,
-      "sources": 1,
-      "questions": 0,
-      "missing": 50
+      "proposals": 28,
+      "sources": 27,
+      "questions": 27,
+      "missing": 23
     },
     {
       "id": "sumar-2023",
       "name": "Sumar · coalición electoral de 2023",
-      "proposals": 24,
+      "proposals": 38,
       "sources": 1,
-      "questions": 20,
-      "missing": 30
+      "questions": 33,
+      "missing": 17
     },
     {
       "id": "upn",
       "name": "Unión del Pueblo Navarro",
-      "proposals": 4,
-      "sources": 1,
-      "questions": 1,
-      "missing": 49
+      "proposals": 16,
+      "sources": 6,
+      "questions": 8,
+      "missing": 42
     },
     {
       "id": "vox",
       "name": "VOX",
-      "proposals": 16,
-      "sources": 2,
-      "questions": 11,
-      "missing": 39
+      "proposals": 29,
+      "sources": 9,
+      "questions": 23,
+      "missing": 27
     }
   ]
 }
