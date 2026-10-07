@@ -9,7 +9,6 @@ export function PageHeading({ eyebrow, title, description, children }: { eyebrow
   return <header className="page-heading"><p className="eyebrow">{eyebrow}</p><div className="heading-row"><div><h1>{title}</h1><p className="lead">{description}</p></div>{children}</div></header>;
 }
 export function PrivacyNote({ compact = false }: { compact?: boolean }) { return <p className={`privacy-note ${compact ? 'compact' : ''}`}><ShieldCheck size={17} aria-hidden="true" /><span>{compact ? 'Anónimo. Sin registro. Solo en tu dispositivo.' : 'Tus respuestas permanecen en este dispositivo y no se envían a ningún servidor.'}</span></p>; }
-export function DatasetBadge() { return <span className="dataset-badge"><span aria-hidden="true" /> FUENTES REALES</span>; }
 export function MatchBadge({ match }: { match: Match }) { return <span className={`match-badge ${match}`}><span aria-hidden="true">{matchSymbols[match]}</span> {matchLabels[match]}</span>; }
 export function PartyMark({ party, small = false }: { party: Party; small?: boolean }) {
   const [failedLogo, setFailedLogo] = useState<string | null>(null);

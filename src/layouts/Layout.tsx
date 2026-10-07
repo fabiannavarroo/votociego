@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import { NavLink, Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
 import { Menu, X, ArrowUpRight, Sun, Moon, Monitor, Type, Trash2, Download, ArrowRight } from 'lucide-react';
 import { useAppState } from '../hooks/useAppState';
-import { DatasetBadge } from '../components/ui';
 import config from '../config.json';
 import { dataset } from '../data';
 import { formatDate } from '../utils/format';
@@ -30,7 +29,7 @@ export default function Layout() {
     <a className="skip-link" href="#main" onClick={event => { event.preventDefault(); mainRef.current?.focus(); mainRef.current?.scrollIntoView(); }}>Saltar al contenido</a>
     <header className="site-header"><div className="nav-shell"><Link to="/" className="brand" aria-label={`${config.name}, inicio`}><span className="brand-icon"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="m8 12 8 10 8-10M12 8h8" /></svg></span>{config.name}<span className="brand-dot">.</span></Link>
       <nav className={`main-nav ${menuOpen ? 'open' : ''}`} aria-label="Navegación principal" id="main-nav" onKeyDown={event => { if (event.key === 'Escape') { setMenuOpen(false); menuButtonRef.current?.focus(); } }}>{nav.map(item => <NavLink key={item.to} to={item.to} onClick={() => setMenuOpen(false)}>{item.label}</NavLink>)}</nav>
-      <div className="nav-actions"><DatasetBadge /><Link className="button primary nav-start" to={progress.completed ? '/resultados' : '/test'}>{progress.completed ? 'Mi mapa' : 'Empezar'}<ArrowRight size={16} aria-hidden="true" /></Link><button ref={menuButtonRef} className="icon-button menu-toggle" onClick={() => setMenuOpen(!menuOpen)} onKeyDown={event => { if (event.key === 'Escape') { setMenuOpen(false); menuButtonRef.current?.focus(); } }} aria-label={menuOpen ? 'Cerrar menú' : 'Abrir menú'} aria-expanded={menuOpen} aria-controls="main-nav">{menuOpen ? <X /> : <Menu />}</button></div>
+      <div className="nav-actions"><Link className="button primary nav-start" to={progress.completed ? '/resultados' : '/test'}>{progress.completed ? 'Mi mapa' : 'Empezar'}<ArrowRight size={16} aria-hidden="true" /></Link><button ref={menuButtonRef} className="icon-button menu-toggle" onClick={() => setMenuOpen(!menuOpen)} onKeyDown={event => { if (event.key === 'Escape') { setMenuOpen(false); menuButtonRef.current?.focus(); } }} aria-label={menuOpen ? 'Cerrar menú' : 'Abrir menú'} aria-expanded={menuOpen} aria-controls="main-nav">{menuOpen ? <X /> : <Menu />}</button></div>
     </div></header>
     {menuOpen && <div className="menu-backdrop" onClick={() => { setMenuOpen(false); menuButtonRef.current?.focus(); }} onKeyDown={event => { if (event.key === 'Escape') { setMenuOpen(false); menuButtonRef.current?.focus(); } }} role="presentation" />}
     <div className="data-strip"><span className="data-dot" aria-hidden="true" />España · Datos comprobados: {formatDate(dataset.lastVerified)} · <Link to="/metodologia">Programas de 2023 y actividad fechada. Convocatoria: {formatDate(dataset.election.date)}.</Link></div>
