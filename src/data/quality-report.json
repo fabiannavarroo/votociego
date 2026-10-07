@@ -1,0 +1,158 @@
+{
+  "lastVerified": "2026-10-07",
+  "formations": 18,
+  "sources": 19,
+  "downloadedPrograms": 11,
+  "proposals": 130,
+  "questions": 50,
+  "unknownPositions": 799,
+  "medium": 5,
+  "missingSources": 0,
+  "rejectedQuestions": 0,
+  "parties": [
+    {
+      "id": "ahi",
+      "name": "Agrupación Herreña Independiente",
+      "proposals": 0,
+      "sources": 0,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "asg",
+      "name": "Agrupación Socialista Gomera",
+      "proposals": 0,
+      "sources": 0,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "bng",
+      "name": "Bloque Nacionalista Galego",
+      "proposals": 13,
+      "sources": 2,
+      "questions": 12,
+      "missing": 38
+    },
+    {
+      "id": "cc",
+      "name": "Coalición Canaria",
+      "proposals": 1,
+      "sources": 1,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "compromis",
+      "name": "Compromís",
+      "proposals": 2,
+      "sources": 1,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "erc",
+      "name": "Esquerra Republicana de Catalunya",
+      "proposals": 10,
+      "sources": 1,
+      "questions": 8,
+      "missing": 42
+    },
+    {
+      "id": "eh-bildu",
+      "name": "Euskal Herria Bildu",
+      "proposals": 11,
+      "sources": 1,
+      "questions": 9,
+      "missing": 41
+    },
+    {
+      "id": "pnv",
+      "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
+      "proposals": 7,
+      "sources": 1,
+      "questions": 7,
+      "missing": 43
+    },
+    {
+      "id": "geroa-bai",
+      "name": "Geroa Bai",
+      "proposals": 0,
+      "sources": 0,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "iu",
+      "name": "Izquierda Unida",
+      "proposals": 9,
+      "sources": 1,
+      "questions": 7,
+      "missing": 43
+    },
+    {
+      "id": "junts",
+      "name": "Junts per Catalunya",
+      "proposals": 1,
+      "sources": 1,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "mas-madrid",
+      "name": "Más Madrid",
+      "proposals": 0,
+      "sources": 0,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "pp",
+      "name": "Partido Popular",
+      "proposals": 16,
+      "sources": 2,
+      "questions": 13,
+      "missing": 37
+    },
+    {
+      "id": "psoe",
+      "name": "Partido Socialista Obrero Español",
+      "proposals": 15,
+      "sources": 1,
+      "questions": 13,
+      "missing": 37
+    },
+    {
+      "id": "podemos",
+      "name": "Podemos",
+      "proposals": 1,
+      "sources": 1,
+      "questions": 0,
+      "missing": 50
+    },
+    {
+      "id": "sumar-2023",
+      "name": "Sumar · coalición electoral de 2023",
+      "proposals": 24,
+      "sources": 1,
+      "questions": 20,
+      "missing": 30
+    },
+    {
+      "id": "upn",
+      "name": "Unión del Pueblo Navarro",
+      "proposals": 4,
+      "sources": 1,
+      "questions": 1,
+      "missing": 49
+    },
+    {
+      "id": "vox",
+      "name": "VOX",
+      "proposals": 16,
+      "sources": 2,
+      "questions": 11,
+      "missing": 39
+    }
+  ]
+}

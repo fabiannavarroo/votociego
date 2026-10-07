@@ -1,0 +1,110 @@
+[
+  {
+    "id": "psoe-2023-access",
+    "partyId": "psoe",
+    "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+    "status": "blocked_or_unavailable",
+    "reason": "Se recibió HTML de un control de acceso en lugar del PDF.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se obtuvo un PDF oficial alternativo de campaña."
+  },
+  {
+    "id": "vox-2023-access",
+    "partyId": "vox",
+    "url": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+    "status": "blocked_or_unavailable",
+    "reason": "HTTP Error 404: Not Found",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se obtuvo un PDF oficial alternativo de campaña."
+  },
+  {
+    "id": "upn-2023-access",
+    "partyId": "upn",
+    "url": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+    "status": "resolved",
+    "reason": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se recuperó y procesó el PDF oficial de seis páginas con curl del sistema. Las condiciones no explícitas siguen sin posición."
+  },
+  {
+    "id": "junts-programa",
+    "partyId": "junts",
+    "url": "https://junts.cat/",
+    "status": "blocked_or_unavailable",
+    "reason": "Web oficial bloqueada; no se localizó un PDF oficial de las generales de 2023 descargable. Las fuentes municipales/europeas se excluyeron del test nacional.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se conserva actividad parlamentaria, sin atribuir un programa no procesado."
+  },
+  {
+    "id": "ahi-coverage",
+    "partyId": "ahi",
+    "url": "https://ahi-elhierro.es/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+  },
+  {
+    "id": "asg-coverage",
+    "partyId": "asg",
+    "url": "https://www.agrupacionsocialistagomera.es/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+  },
+  {
+    "id": "cc-coverage",
+    "partyId": "cc",
+    "url": "https://coalicioncanaria.org/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se procesó una declaración oficial de 2024 sobre menores migrantes. No se infiere una posición sobre regularización."
+  },
+  {
+    "id": "compromis-coverage",
+    "partyId": "compromis",
+    "url": "https://compromis.net/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se procesó el programa conjunto Compromís-Sumar de 2023 como contexto con atribución a la candidatura; no se hereda a Compromís."
+  },
+  {
+    "id": "geroa-bai-coverage",
+    "partyId": "geroa-bai",
+    "url": "https://www.geroabai.eus/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+  },
+  {
+    "id": "junts-coverage",
+    "partyId": "junts",
+    "url": "https://junts.cat/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+  },
+  {
+    "id": "mas-madrid-coverage",
+    "partyId": "mas-madrid",
+    "url": "https://masmadrid.org/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Posiciones desconocidas. Ampliación editorial pendiente."
+  },
+  {
+    "id": "podemos-coverage",
+    "partyId": "podemos",
+    "url": "https://podemos.info/",
+    "status": "missing_coverage",
+    "reason": "Se consultó el índice institucional y se buscó programa propio de generales; no se obtuvo un documento propio comparable procesado. No se heredan programas de coalición ni de comicios autonómicos/europeos.",
+    "lastVerified": "2026-10-07",
+    "resolution": "Se conservó intervención de Noemí Santana de 2025 con adscripción oficial comprobada. El PDF europeo de 2024 bloqueado no se mezcla con generales."
+  }
+]

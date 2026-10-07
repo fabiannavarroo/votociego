@@ -1,0 +1,13 @@
+{
+  "country": "España",
+  "lastVerified": "2026-10-07",
+  "election": {
+    "date": "2026-11-29",
+    "status": "Convocada; sin candidaturas oficiales publicadas en este conjunto",
+    "sourceId": "boe-convocatoria-2026"
+  },
+  "scope": "Formaciones del índice del Senado, Podemos documentado en GP Mixto, coalición Sumar de 2023 y aportación propia de IU. Referencias de la XV legislatura, disuelta el 06/10/2026. No es un censo exhaustivo de afiliación individual de diputados.",
+  "candidatesStatus": "Candidatura todavía no oficializada",
+  "coverageNote": "La cobertura es incompleta y desigual; las casillas vacías son ausencia de evidencia en este corpus, no silencio del partido.",
+  "questionGeneration": "Medidas revisadas editorialmente; solo propuestas explícitas comparables con certeza alta/media. No hay inferencia por ideología."
+}

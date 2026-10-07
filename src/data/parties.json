@@ -1,0 +1,719 @@
+[
+  {
+    "id": "ahi",
+    "slug": "ahi",
+    "name": "Agrupación Herreña Independiente",
+    "acronym": "AHI",
+    "website": "https://ahi-elhierro.es/",
+    "officialWebsite": "https://ahi-elhierro.es/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plural (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-plural",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "asg",
+    "slug": "asg",
+    "name": "Agrupación Socialista Gomera",
+    "acronym": "ASG",
+    "website": "https://www.agrupacionsocialistagomera.es/",
+    "officialWebsite": "https://www.agrupacionsocialistagomera.es/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierda Confederal (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-confederal",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "bng",
+    "slug": "bng",
+    "name": "Bloque Nacionalista Galego",
+    "acronym": "BNG",
+    "website": "https://www.bng.gal/",
+    "officialWebsite": "https://www.bng.gal/",
+    "logo": null,
+    "type": "coalition",
+    "description": "Coalición electoral. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plural (Senado)",
+    "programs": [
+      {
+        "sourceId": "bng-2023",
+        "title": "Programa electoral · Eleccións Xerais 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-plural",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "cc",
+    "slug": "cc",
+    "name": "Coalición Canaria",
+    "acronym": "CC",
+    "website": "https://coalicioncanaria.org/",
+    "officialWebsite": "https://coalicioncanaria.org/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plural (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-plural",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "compromis",
+    "slug": "compromis",
+    "name": "Compromís",
+    "acronym": "Compromís",
+    "website": "https://compromis.net/",
+    "officialWebsite": "https://compromis.net/",
+    "logo": null,
+    "type": "coalition",
+    "description": "Coalición electoral. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierda Confederal (Senado)",
+    "programs": [
+      {
+        "sourceId": "compromis-sumar-2023",
+        "title": "Compromís-Sumar · programa conjunto 23J 2023",
+        "election": "Generales · candidatura Compromís-Sumar · 23/07/2023",
+        "date": null,
+        "url": "https://sumar.compromis.net/docs/programa-val.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-confederal",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf"
+      },
+      {
+        "type": "coalition_member_2023",
+        "entityId": "sumar-2023",
+        "validity": "Convocatoria 23/07/2023; no presume continuidad en 2026 ni posición común.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "erc",
+    "slug": "erc",
+    "name": "Esquerra Republicana de Catalunya",
+    "acronym": "ERC",
+    "website": "https://www.esquerra.cat/",
+    "officialWebsite": "https://www.esquerra.cat/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierdas por la Independencia (Senado)",
+    "programs": [
+      {
+        "sourceId": "erc-2023",
+        "title": "Programa electoral · Eleccions Generals 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-erc-bildu",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "eh-bildu",
+    "slug": "eh-bildu",
+    "name": "Euskal Herria Bildu",
+    "acronym": "EH Bildu",
+    "website": "https://ehbildu.eus/",
+    "officialWebsite": "https://ehbildu.eus/",
+    "logo": null,
+    "type": "coalition",
+    "description": "Coalición electoral. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierdas por la Independencia (Senado)",
+    "programs": [
+      {
+        "sourceId": "bildu-2023",
+        "title": "Compromiso de Euskal Herria Bildu · 23J",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-erc-bildu",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "pnv",
+    "slug": "pnv",
+    "name": "Euzko Alderdi Jeltzalea–Partido Nacionalista Vasco",
+    "acronym": "EAJ-PNV",
+    "website": "https://www.eaj-pnv.eus/",
+    "officialWebsite": "https://www.eaj-pnv.eus/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+    "programDate": "2023-07-23",
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Vasco (Senado)",
+    "programs": [
+      {
+        "sourceId": "pnv-2023",
+        "title": "Con voz propia · Programa electoral 23J",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": "2023-07-23",
+        "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-vasco",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "geroa-bai",
+    "slug": "geroa-bai",
+    "name": "Geroa Bai",
+    "acronym": "Geroa Bai",
+    "website": "https://www.geroabai.eus/",
+    "officialWebsite": "https://www.geroabai.eus/",
+    "logo": null,
+    "type": "coalition",
+    "description": "Coalición electoral. Referencia: senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierda Confederal (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-confederal",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "iu",
+    "slug": "iu",
+    "name": "Izquierda Unida",
+    "acronym": "IU",
+    "website": "https://izquierdaunida.org/",
+    "officialWebsite": "https://izquierdaunida.org/",
+    "logo": null,
+    "type": "federation",
+    "description": "Federación política. Referencia: formación integrante de Sumar en 2023 en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "programDate": "2023-07-01",
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plurinacional Sumar (Congreso)",
+    "programs": [
+      {
+        "sourceId": "iu-2023",
+        "title": "Aportación de IU al programa · Generales 23J",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": "2023-07-01",
+        "url": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "formación integrante de Sumar en 2023",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+      "lastVerified": "2026-10-07",
+      "note": "La inclusión de IU se apoya en su aportación propia al programa y relación de coalición; no se atribuyen automáticamente las posiciones de Sumar."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-sumar",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      },
+      {
+        "type": "coalition_member_2023",
+        "entityId": "sumar-2023",
+        "validity": "Convocatoria 23/07/2023; no presume continuidad en 2026 ni posición común.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "junts",
+    "slug": "junts",
+    "name": "Junts per Catalunya",
+    "acronym": "Junts",
+    "website": "https://junts.cat/",
+    "officialWebsite": "https://junts.cat/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plural (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-plural",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "mas-madrid",
+    "slug": "mas-madrid",
+    "name": "Más Madrid",
+    "acronym": "Más Madrid",
+    "website": "https://masmadrid.org/",
+    "officialWebsite": "https://masmadrid.org/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Izquierda Confederal (Senado)",
+    "programs": [],
+    "representation": {
+      "scope": "senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-confederal",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      },
+      {
+        "type": "coalition_member_2023",
+        "entityId": "sumar-2023",
+        "validity": "Convocatoria 23/07/2023; no presume continuidad en 2026 ni posición común.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "pp",
+    "slug": "pp",
+    "name": "Partido Popular",
+    "acronym": "PP",
+    "website": "https://www.pp.es/",
+    "officialWebsite": "https://www.pp.es/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+    "programDate": "2023-07-04",
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Popular",
+    "programs": [
+      {
+        "sourceId": "pp-2023",
+        "title": "Programa electoral · Generales 23J 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": "2023-07-04",
+        "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-popular",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "psoe",
+    "slug": "psoe",
+    "name": "Partido Socialista Obrero Español",
+    "acronym": "PSOE",
+    "website": "https://www.psoe.es/",
+    "officialWebsite": "https://www.psoe.es/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://xn--espaaavanza-4db.es/wp-content/uploads/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+    "programDate": "2023-07-07",
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Socialista",
+    "programs": [
+      {
+        "sourceId": "psoe-2023",
+        "title": "Programa electoral · Generales 23J 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": "2023-07-07",
+        "url": "https://xn--espaaavanza-4db.es/wp-content/uploads/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-socialista",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "podemos",
+    "slug": "podemos",
+    "name": "Podemos",
+    "acronym": "Podemos",
+    "website": "https://podemos.info/",
+    "officialWebsite": "https://podemos.info/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": null,
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Mixto; cámara indicada en la relación",
+    "programs": [],
+    "representation": {
+      "scope": "congreso",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-mixto",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf"
+      },
+      {
+        "type": "coalition_member_2023",
+        "entityId": "sumar-2023",
+        "validity": "Convocatoria 23/07/2023; no presume continuidad en 2026 ni posición común.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sumar-2023",
+    "slug": "sumar-2023",
+    "name": "Sumar · coalición electoral de 2023",
+    "acronym": "Sumar 2023",
+    "website": "https://movimientosumar.es/",
+    "officialWebsite": "https://movimientosumar.es/",
+    "logo": null,
+    "type": "coalition",
+    "description": "Coalición electoral. Referencia: candidatura de 2023 con representación en el Congreso en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Plurinacional Sumar (Congreso)",
+    "programs": [
+      {
+        "sourceId": "sumar-2023",
+        "title": "Un programa para ti · Coalición Sumar · Generales 23J",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "candidatura de 2023 con representación en el Congreso",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-sumar",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "upn",
+    "slug": "upn",
+    "name": "Unión del Pueblo Navarro",
+    "acronym": "UPN",
+    "website": "https://www.upn.org/",
+    "officialWebsite": "https://www.upn.org/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Mixto; cámara indicada en la relación",
+    "programs": [
+      {
+        "sourceId": "upn-2023",
+        "title": "Programa electoral · Generales 23J 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-mixto",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  },
+  {
+    "id": "vox",
+    "slug": "vox",
+    "name": "VOX",
+    "acronym": "VOX",
+    "website": "https://www.voxespana.es/",
+    "officialWebsite": "https://www.voxespana.es/",
+    "logo": null,
+    "type": "party",
+    "description": "Partido político. Referencia: congreso y senado en la XV legislatura o convocatoria de 2023. Las Cámaras fueron disueltas el 06/10/2026.",
+    "demo": false,
+    "programUrl": "https://www.votaabascal.es/assets/pdf/Programa-VOX-2023.pdf",
+    "programDate": null,
+    "lastUpdated": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "parliamentaryGroup": "Grupo Mixto; cámara indicada en la relación",
+    "programs": [
+      {
+        "sourceId": "vox-2023",
+        "title": "Programa electoral · Generales 23J 2023",
+        "election": "Elecciones generales · 23/07/2023",
+        "date": null,
+        "url": "https://www.votaabascal.es/assets/pdf/Programa-VOX-2023.pdf",
+        "lastVerified": "2026-10-07"
+      }
+    ],
+    "representation": {
+      "scope": "congreso y senado",
+      "legislature": "XV (2023–2026), disuelta",
+      "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "lastVerified": "2026-10-07",
+      "note": "La ficha no afirma escaños actuales de la Cámara disuelta ni una candidatura oficial de 2026."
+    },
+    "relations": [
+      {
+        "type": "parliamentary_group_reference",
+        "entityId": "gp-mixto",
+        "validity": "Referencia histórica de la XV legislatura; revisar adscripción individual y cámara.",
+        "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html"
+      }
+    ]
+  }
+]

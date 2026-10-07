@@ -1,0 +1,3 @@
+research/documents/** -text -diff
+*.png binary
+*.jpg binary

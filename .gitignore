@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+test-results/
+playwright-report/
+*.tsbuildinfo
+.interface-design/
+docs/votociego-desktop.jpg
+research/*
+!research/documents/
+!research/text/
+research/documents/*
+research/text/*

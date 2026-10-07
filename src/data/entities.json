@@ -1,0 +1,213 @@
+[
+  {
+    "id": "gp-plural",
+    "type": "parliamentary_group",
+    "name": "Grupo Plural (Senado)",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-confederal",
+    "type": "parliamentary_group",
+    "name": "Izquierda Confederal (Senado)",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-erc-bildu",
+    "type": "parliamentary_group",
+    "name": "Izquierdas por la Independencia (Senado)",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-vasco",
+    "type": "parliamentary_group",
+    "name": "Grupo Vasco (Senado)",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-sumar",
+    "type": "parliamentary_group",
+    "name": "Grupo Plurinacional Sumar (Congreso)",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.congreso.es/es/grupos-parlamentarios",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-popular",
+    "type": "parliamentary_group",
+    "name": "Grupo Popular",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-socialista",
+    "type": "parliamentary_group",
+    "name": "Grupo Socialista",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-mixto",
+    "type": "parliamentary_group",
+    "name": "Grupo Mixto; cámara indicada en la relación",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+    "validity": "XV legislatura; referencias históricas tras disolución. No equivale a partido."
+  },
+  {
+    "id": "gp-popular-congreso",
+    "type": "parliamentary_group",
+    "name": "Grupo Parlamentario Popular en el Congreso",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.congreso.es/es/grupos-parlamentarios",
+    "validity": "XV legislatura; actuación de 2025."
+  },
+  {
+    "id": "gp-vox-congreso",
+    "type": "parliamentary_group",
+    "name": "Grupo Parlamentario VOX en el Congreso",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.congreso.es/es/grupos-parlamentarios",
+    "validity": "XV legislatura; actuación de 2025."
+  },
+  {
+    "id": "gp-junts-congreso",
+    "type": "parliamentary_group",
+    "name": "Grupo Parlamentario Junts per Catalunya en el Congreso",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.congreso.es/es/grupos-parlamentarios",
+    "validity": "XV legislatura; actuación de 2025."
+  },
+  {
+    "id": "movimiento-sumar",
+    "type": "party",
+    "name": "Movimiento Sumar",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://movimientosumar.es/transparencia/wp-content/uploads/sites/6/2024/08/Memoria-anual-2023-2.pdf",
+    "validity": "Organización distinta de coalición Sumar 2023 y grupo parlamentario."
+  },
+  {
+    "id": "sumar-candidatura-2023",
+    "type": "electoral_candidacy",
+    "name": "Sumar · candidatura a las generales de 2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+    "election": "2023-07-23",
+    "coalitionId": "sumar-2023"
+  },
+  {
+    "id": "catalunya-en-comu",
+    "type": "coalition_component",
+    "name": "Catalunya en Comú",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "cha",
+    "type": "coalition_component",
+    "name": "Chunta Aragonesista",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "ara-mes",
+    "type": "coalition_component",
+    "name": "Ara MÉS",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "verdes-equo",
+    "type": "coalition_component",
+    "name": "Los Verdes Equo",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "alianza-verde",
+    "type": "coalition_component",
+    "name": "Alianza Verde",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "drago",
+    "type": "coalition_component",
+    "name": "Drago",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "iniciativa-andalucia",
+    "type": "coalition_component",
+    "name": "Iniciativa del Pueblo Andaluz",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "batzarre",
+    "type": "coalition_component",
+    "name": "Batzarre",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "izquierda-asturiana",
+    "type": "coalition_component",
+    "name": "Izquierda Asturiana",
+    "coalitionId": "sumar-2023",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+    "sourcePage": 6,
+    "validity": "Relación electoral de 2023, no evidencia por sí sola representación ni adscripción actual."
+  },
+  {
+    "id": "compromis-sumar-candidatura-2023",
+    "type": "electoral_candidacy",
+    "name": "Compromís-Sumar · candidatura conjunta valenciana de 2023",
+    "sourceUrl": "https://sumar.compromis.net/docs/programa-val.pdf",
+    "lastVerified": "2026-10-07",
+    "validity": "Atribución conjunta, no programa propio exclusivo de Compromís ni candidatura de 2026."
+  },
+  {
+    "id": "noemi-santana-xv",
+    "type": "parliamentarian",
+    "name": "Noemí Santana Perera · diputada de Podemos en la XV legislatura",
+    "sourceUrl": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=33&idLegislatura=XV&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+    "lastVerified": "2026-10-07",
+    "validity": "Intervención parlamentaria de 2025; no etiqueta de candidata."
+  }
+]

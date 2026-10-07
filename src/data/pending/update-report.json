@@ -1,0 +1,574 @@
+{
+  "checkedAt": "2026-10-07T10:01:36.793Z",
+  "policy": "Solo diagnóstico. No modifica fuentes, propuestas ni preguntas verificadas. Los cambios requieren lectura y revisión editorial.",
+  "counts": {
+    "accessible": 12,
+    "unchanged": 13,
+    "blocked": 12,
+    "unexpected_content": 1,
+    "broken": 1
+  },
+  "results": [
+    {
+      "url": "https://ahi-elhierro.es/",
+      "partyIds": [
+        "ahi"
+      ],
+      "checkedAt": "2026-10-07T10:01:32.783Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "091a7165887e077f5632ca75bd168b794a803db64d85a15b6a5a3b365a8ffba6",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://ahi-elhierro.es/",
+      "error": null
+    },
+    {
+      "url": "https://coalicioncanaria.org/",
+      "partyIds": [
+        "cc"
+      ],
+      "checkedAt": "2026-10-07T10:01:33.782Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "822de314e0b14cf95c4b96096b90fd97c3aa8099e67b287a6ecfdbf5439091a6",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://coalicioncanaria.org/",
+      "error": null
+    },
+    {
+      "url": "https://coalicioncanaria.org/coalicion-canaria-continua-su-hoja-de-ruta-para-conseguir-un-trato-digno-a-los-menores-migrantes-en-todo-el-estado/",
+      "sourceId": "cc-menores-2024",
+      "partyIds": [
+        "cc"
+      ],
+      "baseline": "6b00294bd95cf13f093eb7fb0ae6e4ce5d3da2bf541148a28ee8721ac2a42d5c",
+      "expectedPdf": false,
+      "checkedAt": "2026-10-07T10:01:32.125Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "6b00294bd95cf13f093eb7fb0ae6e4ce5d3da2bf541148a28ee8721ac2a42d5c",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://coalicioncanaria.org/coalicion-canaria-continua-su-hoja-de-ruta-para-conseguir-un-trato-digno-a-los-menores-migrantes-en-todo-el-estado/",
+      "error": null
+    },
+    {
+      "url": "https://compromis.net/",
+      "partyIds": [
+        "compromis"
+      ],
+      "checkedAt": "2026-10-07T10:01:32.913Z",
+      "httpStatus": 200,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://compromis.net/",
+      "error": null
+    },
+    {
+      "url": "https://ehbildu.eus/",
+      "partyIds": [
+        "eh-bildu"
+      ],
+      "checkedAt": "2026-10-07T10:01:33.315Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "6cef39416983a77984c24f6f24301a85007375d8ece7eb503aaaab508da45118",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://ehbildu.eus/",
+      "error": null
+    },
+    {
+      "url": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+      "sourceId": "bildu-2023",
+      "partyIds": [
+        "eh-bildu"
+      ],
+      "baseline": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:22.735Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+      "error": null
+    },
+    {
+      "url": "https://izquierdaunida.org/",
+      "partyIds": [
+        "iu"
+      ],
+      "checkedAt": "2026-10-07T10:01:35.409Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "b04e9a28f139fa781780ef4734cc8ea4611e3fb636854d93487ba4c10c09eb57",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://izquierdaunida.org/",
+      "error": null
+    },
+    {
+      "url": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+      "sourceId": "iu-2023",
+      "partyIds": [
+        "iu"
+      ],
+      "baseline": "448ee780729948421ba1b9ace26a38f6cf0871d10dd436020192963e8499e1a8",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:26.817Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "448ee780729948421ba1b9ace26a38f6cf0871d10dd436020192963e8499e1a8",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://izquierdaunida.org/wp-content/uploads/2023/07/Programa-IU-Elecciones-Generales-Jl2023.pdf",
+      "error": null
+    },
+    {
+      "url": "https://junts.cat/",
+      "partyIds": [
+        "junts"
+      ],
+      "checkedAt": "2026-10-07T10:01:33.681Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html",
+      "effectiveUrl": "https://junts.cat/",
+      "error": null
+    },
+    {
+      "url": "https://masmadrid.org/",
+      "partyIds": [
+        "mas-madrid"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.752Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "983621a115d28bf5e977e7b0c396a4ff8df3a88dd9688fcef2d14a135f77ab29",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://masmadrid.org/",
+      "error": null
+    },
+    {
+      "url": "https://movimientosumar.es/",
+      "partyIds": [
+        "sumar-2023"
+      ],
+      "checkedAt": "2026-10-07T10:01:35.029Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "fa1e6c1b85b0c2da7b0bc4e0e25efcff29b12c43cf7d9edd602dc5f35af6f2fa",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://movimientosumar.es/",
+      "error": null
+    },
+    {
+      "url": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "sourceId": "sumar-2023",
+      "partyIds": [
+        "sumar-2023"
+      ],
+      "baseline": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:22.035Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://movimientosumar.es/wp-content/uploads/2023/07/Un-Programa-para-ti.pdf",
+      "error": null
+    },
+    {
+      "url": "https://podemos.info/",
+      "partyIds": [
+        "podemos"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.820Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://podemos.info/",
+      "error": null
+    },
+    {
+      "url": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
+      "sourceId": "erc-2023",
+      "partyIds": [
+        "erc"
+      ],
+      "baseline": "760db25e48422b74a9b0c3172cab16cf39d010345849e50b921ff8bf61be2854",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:23.313Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "760db25e48422b74a9b0c3172cab16cf39d010345849e50b921ff8bf61be2854",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://static.esquerra.cat/uploads/20230905/e2023-programa.pdf",
+      "error": null
+    },
+    {
+      "url": "https://sumar.compromis.net/docs/programa-val.pdf",
+      "sourceId": "compromis-sumar-2023",
+      "partyIds": [
+        "compromis"
+      ],
+      "baseline": "096c7b59a336ee5495dc5e058d383f0d3fad627116fcb0fe447111be135dfedb",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:31.462Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "096c7b59a336ee5495dc5e058d383f0d3fad627116fcb0fe447111be135dfedb",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://sumar.compromis.net/docs/programa-val.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.agrupacionsocialistagomera.es/",
+      "partyIds": [
+        "asg"
+      ],
+      "checkedAt": "2026-10-07T10:01:32.421Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "aa4c84e2cb0cbfe87c679973c7939b65d583b4ae50ecf4ea74b39905291f4a74",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.agrupacionsocialistagomera.es/",
+      "error": null
+    },
+    {
+      "url": "https://www.bng.gal/",
+      "partyIds": [
+        "bng"
+      ],
+      "checkedAt": "2026-10-07T10:01:32.523Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "a1374de0806ef9e52903a81d2fd7143b07a030fe2d57817e7788eba4420ce127",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.bng.gal/",
+      "error": null
+    },
+    {
+      "url": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "sourceId": "bng-2023",
+      "partyIds": [
+        "bng"
+      ],
+      "baseline": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:22.363Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf",
+      "sourceId": "boe-convocatoria-2026",
+      "partyIds": [],
+      "baseline": "ffb9da47295e6d9f4a75657428ad3ba755fb9e313a61f7d044f18f77fdf005d5",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:27.354Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "ffb9da47295e6d9f4a75657428ad3ba755fb9e313a61f7d044f18f77fdf005d5",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf",
+      "sourceId": "congreso-mixto",
+      "partyIds": [],
+      "baseline": null,
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:29.658Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html",
+      "effectiveUrl": "https://www.congreso.es/backoffice_doc/atp/odiapleno_textos/210.144_Sol.Comp.y.Inc.Firma.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-135.PDF",
+      "sourceId": "congreso-jornada-2025",
+      "partyIds": [
+        "pp",
+        "vox",
+        "junts",
+        "podemos"
+      ],
+      "baseline": "f13091b135216acd7094d4394c173531c6b0bbb86fc27a6e97a8c213cb2ea7aa",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:28.235Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html",
+      "effectiveUrl": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-135.PDF",
+      "error": null
+    },
+    {
+      "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-142.PDF",
+      "sourceId": "congreso-jornada-35",
+      "partyIds": [
+        "bng"
+      ],
+      "baseline": "ef8741a83a536b7f4be7d9a32ec8584bb6de46b08064c1da909ef500c610f477",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:28.475Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html",
+      "effectiveUrl": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-142.PDF",
+      "error": null
+    },
+    {
+      "url": "https://www.eaj-pnv.eus/",
+      "partyIds": [
+        "pnv"
+      ],
+      "checkedAt": "2026-10-07T10:01:33.476Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "187152766bb85c6ed2c4faae91ca85a4b24a6ff108bea69e2be7f8ffac1ff953",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.eaj-pnv.eus/",
+      "error": null
+    },
+    {
+      "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "sourceId": "pnv-2023",
+      "partyIds": [
+        "pnv"
+      ],
+      "baseline": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:31.779Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "error": null
+    },
+    {
+      "url": "https://www.esquerra.cat/",
+      "partyIds": [
+        "erc"
+      ],
+      "checkedAt": "2026-10-07T10:01:33.000Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.esquerra.cat/",
+      "error": null
+    },
+    {
+      "url": "https://www.geroabai.eus/",
+      "partyIds": [
+        "geroa-bai"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.261Z",
+      "httpStatus": 200,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://geroabai.eus/es",
+      "error": null
+    },
+    {
+      "url": "https://www.juntaelectoralcentral.es/cs/jec/loreg/contenido?idContenido=2740540",
+      "sourceId": "jec-candidaturas",
+      "partyIds": [],
+      "baseline": null,
+      "expectedPdf": false,
+      "checkedAt": "2026-10-07T10:01:31.143Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "9ef36d2910dad359d35d0095eb6edc95fc9960a827c704b94fbfd3f46de7ba33",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.juntaelectoralcentral.es/cs/jec/loreg/contenido?idContenido=2740540",
+      "error": null
+    },
+    {
+      "url": "https://www.pp.es/",
+      "partyIds": [
+        "pp"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.697Z",
+      "httpStatus": 200,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.pp.es/",
+      "error": null
+    },
+    {
+      "url": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "sourceId": "pp-2023",
+      "partyIds": [
+        "pp"
+      ],
+      "baseline": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:23.336Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.pp.es/storage/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.psoe.es/",
+      "partyIds": [
+        "psoe"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.773Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "0de0716eaefd514766d203aa2250dd9b6007ebcc2c506d6ab267471f255b29b5",
+      "contentType": "text/html",
+      "effectiveUrl": "https://www.psoe.es/",
+      "error": null
+    },
+    {
+      "url": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "partyIds": [
+        "psoe"
+      ],
+      "incidentId": "psoe-2023-access",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:35.131Z",
+      "httpStatus": 200,
+      "status": "unexpected_content",
+      "sha256": null,
+      "contentType": "text/html",
+      "effectiveUrl": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "error": "La respuesta no es el PDF esperado. No se publica como fuente verificada."
+    },
+    {
+      "url": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+      "sourceId": "senado-grupos",
+      "partyIds": [],
+      "baseline": null,
+      "expectedPdf": false,
+      "checkedAt": "2026-10-07T10:01:29.462Z",
+      "httpStatus": 200,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html;charset=UTF-8",
+      "effectiveUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/composiciongruposparlamentarios/index.html?lang=es_ES",
+      "error": null
+    },
+    {
+      "url": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "sourceId": "senado-partidos",
+      "partyIds": [],
+      "baseline": null,
+      "expectedPdf": false,
+      "checkedAt": "2026-10-07T10:01:29.022Z",
+      "httpStatus": 200,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html;charset=UTF-8",
+      "effectiveUrl": "https://www.senado.es/web/composicionorganizacion/gruposparlamentarios/programaselectoralespartidos/index.html",
+      "error": null
+    },
+    {
+      "url": "https://www.upn.org/",
+      "partyIds": [
+        "upn"
+      ],
+      "checkedAt": "2026-10-07T10:01:36.764Z",
+      "httpStatus": 200,
+      "status": "accessible",
+      "sha256": "c6899c34be8f159039c32c31a30c269ed020e97e75d16510051eee5da8ad741a",
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.upn.org/",
+      "error": null
+    },
+    {
+      "url": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+      "sourceId": "upn-2023",
+      "partyIds": [
+        "upn"
+      ],
+      "baseline": "6bbf12c4fe8acc17d8deb2ddc68a89cbee9e07ec70472ed7463655e8a59e15d6",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:25.594Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "6bbf12c4fe8acc17d8deb2ddc68a89cbee9e07ec70472ed7463655e8a59e15d6",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.upn.org/wp-content/uploads/2023/07/Programa-Generales-23J_V2-1.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.votaabascal.es/assets/pdf/Programa-VOX-2023.pdf",
+      "sourceId": "vox-2023",
+      "partyIds": [
+        "vox"
+      ],
+      "baseline": "4573922e4bf755a428cdd528662c67dd71842317595e7d9a5bbe6b5886507d31",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:30.496Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "4573922e4bf755a428cdd528662c67dd71842317595e7d9a5bbe6b5886507d31",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://www.votaabascal.es/assets/pdf/Programa-VOX-2023.pdf",
+      "error": null
+    },
+    {
+      "url": "https://www.voxespana.es/",
+      "partyIds": [
+        "vox"
+      ],
+      "checkedAt": "2026-10-07T10:01:34.975Z",
+      "httpStatus": 403,
+      "status": "blocked",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.voxespana.es/",
+      "error": null
+    },
+    {
+      "url": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+      "partyIds": [
+        "vox"
+      ],
+      "incidentId": "vox-2023-access",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:35.182Z",
+      "httpStatus": 404,
+      "status": "broken",
+      "sha256": null,
+      "contentType": "text/html; charset=UTF-8",
+      "effectiveUrl": "https://www.voxespana.es/wp-content/uploads/2023/07/Programa-VOX-2023-con-menos-peso.pdf",
+      "error": null
+    },
+    {
+      "url": "https://xn--espaaavanza-4db.es/wp-content/uploads/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "sourceId": "psoe-2023",
+      "partyIds": [
+        "psoe"
+      ],
+      "baseline": "fb504a6891ad2afc236634bc8fed9c95e10e75cad5b302526dfabb5d1d647cd7",
+      "expectedPdf": true,
+      "checkedAt": "2026-10-07T10:01:32.843Z",
+      "httpStatus": 200,
+      "status": "unchanged",
+      "sha256": "fb504a6891ad2afc236634bc8fed9c95e10e75cad5b302526dfabb5d1d647cd7",
+      "contentType": "application/pdf",
+      "effectiveUrl": "https://xn--espaaavanza-4db.es/wp-content/uploads/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+import { ChartNoAxesCombined, BriefcaseBusiness, Receipt, House, HeartPulse, GraduationCap, Landmark, Globe, Scale, Shield, Equal, Sprout, Zap, Wheat, Fingerprint, Map, Orbit, Flag, Laptop, Cpu } from 'lucide-react';
+const icons = { ChartNoAxesCombined, BriefcaseBusiness, Receipt, House, HeartPulse, GraduationCap, Landmark, Globe, Scale, Shield, Equal, Sprout, Zap, Wheat, Fingerprint, Map, Orbit, Flag, Laptop, Cpu };
+export function CategoryIcon({ name, size = 20 }: { name: string; size?: number }) { const Icon = icons[name as keyof typeof icons] || Globe; return <Icon size={size} strokeWidth={1.7} aria-hidden="true" />; }

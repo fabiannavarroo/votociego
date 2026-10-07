@@ -1,0 +1,188 @@
+[
+  {
+    "id": "economy",
+    "name": "Economía",
+    "icon": "Landmark",
+    "description": "Medidas documentadas relacionadas con economía."
+  },
+  {
+    "id": "tax",
+    "name": "Fiscalidad",
+    "icon": "Receipt",
+    "description": "Medidas documentadas relacionadas con fiscalidad."
+  },
+  {
+    "id": "employment",
+    "name": "Empleo",
+    "icon": "BriefcaseBusiness",
+    "description": "Medidas documentadas relacionadas con empleo."
+  },
+  {
+    "id": "self-employed",
+    "name": "Autónomos",
+    "icon": "BriefcaseBusiness",
+    "description": "Medidas documentadas relacionadas con autónomos."
+  },
+  {
+    "id": "business",
+    "name": "Empresas",
+    "icon": "Building2",
+    "description": "Medidas documentadas relacionadas con empresas."
+  },
+  {
+    "id": "housing",
+    "name": "Vivienda",
+    "icon": "House",
+    "description": "Medidas documentadas relacionadas con vivienda."
+  },
+  {
+    "id": "health",
+    "name": "Sanidad",
+    "icon": "HeartPulse",
+    "description": "Medidas documentadas relacionadas con sanidad."
+  },
+  {
+    "id": "education",
+    "name": "Educación",
+    "icon": "GraduationCap",
+    "description": "Medidas documentadas relacionadas con educación."
+  },
+  {
+    "id": "universities",
+    "name": "Universidades",
+    "icon": "GraduationCap",
+    "description": "Medidas documentadas relacionadas con universidades."
+  },
+  {
+    "id": "pensions",
+    "name": "Pensiones",
+    "icon": "PiggyBank",
+    "description": "Medidas documentadas relacionadas con pensiones."
+  },
+  {
+    "id": "immigration",
+    "name": "Inmigración",
+    "icon": "Globe",
+    "description": "Medidas documentadas relacionadas con inmigración."
+  },
+  {
+    "id": "security",
+    "name": "Seguridad",
+    "icon": "Shield",
+    "description": "Medidas documentadas relacionadas con seguridad."
+  },
+  {
+    "id": "justice",
+    "name": "Justicia",
+    "icon": "Scale",
+    "description": "Medidas documentadas relacionadas con justicia."
+  },
+  {
+    "id": "equality",
+    "name": "Igualdad",
+    "icon": "Equal",
+    "description": "Medidas documentadas relacionadas con igualdad."
+  },
+  {
+    "id": "civil-rights",
+    "name": "Derechos civiles",
+    "icon": "Users",
+    "description": "Medidas documentadas relacionadas con derechos civiles."
+  },
+  {
+    "id": "family",
+    "name": "Familia",
+    "icon": "Users",
+    "description": "Medidas documentadas relacionadas con familia."
+  },
+  {
+    "id": "environment",
+    "name": "Medio ambiente",
+    "icon": "Leaf",
+    "description": "Medidas documentadas relacionadas con medio ambiente."
+  },
+  {
+    "id": "climate",
+    "name": "Cambio climático",
+    "icon": "Leaf",
+    "description": "Medidas documentadas relacionadas con cambio climático."
+  },
+  {
+    "id": "energy",
+    "name": "Energía",
+    "icon": "Zap",
+    "description": "Medidas documentadas relacionadas con energía."
+  },
+  {
+    "id": "transport",
+    "name": "Transporte",
+    "icon": "TrainFront",
+    "description": "Medidas documentadas relacionadas con transporte."
+  },
+  {
+    "id": "agriculture",
+    "name": "Agricultura",
+    "icon": "Sprout",
+    "description": "Medidas documentadas relacionadas con agricultura."
+  },
+  {
+    "id": "livestock",
+    "name": "Ganadería",
+    "icon": "Sprout",
+    "description": "Medidas documentadas relacionadas con ganadería."
+  },
+  {
+    "id": "industry",
+    "name": "Industria",
+    "icon": "Factory",
+    "description": "Medidas documentadas relacionadas con industria."
+  },
+  {
+    "id": "territory",
+    "name": "Política territorial",
+    "icon": "Map",
+    "description": "Medidas documentadas relacionadas con política territorial."
+  },
+  {
+    "id": "eu",
+    "name": "Unión Europea",
+    "icon": "Globe",
+    "description": "Medidas documentadas relacionadas con unión europea."
+  },
+  {
+    "id": "foreign",
+    "name": "Política exterior",
+    "icon": "Globe",
+    "description": "Medidas documentadas relacionadas con política exterior."
+  },
+  {
+    "id": "defense",
+    "name": "Defensa",
+    "icon": "Shield",
+    "description": "Medidas documentadas relacionadas con defensa."
+  },
+  {
+    "id": "technology",
+    "name": "Tecnología",
+    "icon": "Laptop",
+    "description": "Medidas documentadas relacionadas con tecnología."
+  },
+  {
+    "id": "ai",
+    "name": "Inteligencia artificial",
+    "icon": "BrainCircuit",
+    "description": "Medidas documentadas relacionadas con inteligencia artificial."
+  },
+  {
+    "id": "digital",
+    "name": "Digitalización",
+    "icon": "Laptop",
+    "description": "Medidas documentadas relacionadas con digitalización."
+  },
+  {
+    "id": "administration",
+    "name": "Administración pública",
+    "icon": "Landmark",
+    "description": "Medidas documentadas relacionadas con administración pública."
+  }
+]
